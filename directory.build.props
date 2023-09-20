@@ -1,0 +1,31 @@
+<Project>
+	<PropertyGroup Label="Configure .csproj">
+		<TargetFramework>net8.0</TargetFramework>
+		<LangVersion>preview</LangVersion>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<AnalysisLevel>latest-all</AnalysisLevel>
+
+		<!-- Configure packages which are only Development dependency -->
+		<!-- https://github.com/NuGet/Home/wiki/DevelopmentDependency-support-for-PackageReference -->
+		<IncludedAssets>runtime;build;native;contentfiles;analyzers</IncludedAssets>
+
+		<!-- Configure the output directory -->
+		<!-- https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-3/ -->
+		<UseArtifactsOutput>true</UseArtifactsOutput>
+	</PropertyGroup>
+
+	<ItemGroup Label="Link and configure analyzer rules">
+		<EditorConfigFiles Include="$(MSBuildStartupDirectory)\rules\*.editorconfig" />
+		<AdditionalFiles Include="$(MSBuildStartupDirectory)\stylecop.json" Link="stylecop.json" />
+	</ItemGroup>
+
+	<ItemGroup Label="Global analyzers">
+		<PackageReference Include="AsyncFixer" PrivateAssets="all" IncludeAssets="$(IncludedAssets)" />
+		<PackageReference Include="Meziantou.Analyzer" PrivateAssets="all" IncludeAssets="$(IncludedAssets)" />
+		<PackageReference Include="Microsoft.VisualStudio.Threading.Analyzers" PrivateAssets="all" IncludeAssets="$(IncludedAssets)" />
+		<PackageReference Include="Roslynator.Analyzers" PrivateAssets="all" IncludeAssets="$(IncludedAssets)" />
+		<PackageReference Include="SonarAnalyzer.CSharp" PrivateAssets="all" IncludeAssets="$(IncludedAssets)" />
+		<PackageReference Include="StyleCop.Analyzers" PrivateAssets="all" IncludeAssets="$(IncludedAssets)" />
+	</ItemGroup>
+</Project>

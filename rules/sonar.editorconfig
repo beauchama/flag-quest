@@ -1,0 +1,6 @@
+is_global = true
+
+# S1481: Unused local variables should be removed
+# Is a duplicate of IDE0059: https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/style-rules/ide0059
+# https://rules.sonarsource.com/csharp/RSPEC-1481/
+dotnet_diagnostic.S1481.severity = none

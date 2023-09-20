@@ -1,0 +1,18 @@
+is_global = true
+
+# MA0005: Use 'Array.Empty<T>()'
+# Is a duplicate of CA1825: https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1825
+# https://github.com/meziantou/Meziantou.Analyzer/blob/main/docs/Rules/MA0005.md
+dotnet_diagnostic.MA0005.severity = none
+
+# MA0038: Make method static
+# This rule is deprecated
+# https://github.com/meziantou/Meziantou.Analyzer/blob/main/docs/Rules/MA0038.md
+dotnet_diagnostic.MA0038.severity = none
+
+# MA0053: Make class sealed
+# Classes should be sealed when there is no inheritor.
+# https://github.com/meziantou/Meziantou.Analyzer/blob/main/docs/Rules/MA0053.md
+MA0053.public_class_should_be_sealed = true
+MA0053.exceptions_should_be_sealed = true
+dotnet_diagnostic.MA0053.severity = warning

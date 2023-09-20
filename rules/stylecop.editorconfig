@@ -1,0 +1,36 @@
+is_global = true
+
+# SA1101: Prefix local calls with this
+# No need to use 'this' because of underscore field style
+# https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/SA1101.md
+dotnet_diagnostic.SA1101.severity = none
+
+# SA1127: Generic type constraints should be on their own line
+# No need to put constraints on their own line
+# https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/SA1127.md
+dotnet_diagnostic.SA1127.severity = none
+
+# SA1128: Put constructor initializers on their own line
+# No need to put initializers on their own line
+# https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/SA1128.md
+dotnet_diagnostic.SA1128.severity = none
+
+# SA1309: Field names should not begin with underscore
+# We use underscore field style
+# https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/SA1309.md
+dotnet_diagnostic.SA1309.severity = none
+
+# SA1503: Braces should not be omitted
+# Disabled because is managed by IDE0011 which enforce braces when is multi lines
+# https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/SA1503.md
+dotnet_diagnostic.SA1503.severity = none
+
+# SA1606: Element documentation should have summary text
+# Is a duplicate of RCS1138: https://josefpihrt.github.io/docs/roslynator/analyzers/RCS1138
+# https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/SA1606.md
+dotnet_diagnostic.SA1606.severity = none
+
+# SA1642: Constructor summary documentation must begin with standard text
+# No need to have a standard text.
+# https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/SA1642.md
+dotnet_diagnostic.SA1642.severity = none

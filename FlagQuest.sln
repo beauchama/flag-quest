@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34112.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlagQuest.Web", "src\FlagQuest.Web\FlagQuest.Web.csproj", "{F71E1EA5-DDED-4E78-BEA9-4BAA0A171174}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".config", ".config", "{CDEA97AC-4DFB-4615-A8CA-A70BAA69101E}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		directory.build.props = directory.build.props
+		directory.packages.props = directory.packages.props
+		nuget.config = nuget.config
+		stylecop.json = stylecop.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C02398BE-DC26-4BF8-A4CA-F0019229AD0B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{8DD79AA4-E820-41ED-83C3-EC218DC2EF1C}"
+	ProjectSection(SolutionItems) = preProject
+		changelog.md = changelog.md
+		license.md = license.md
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "rules", "rules", "{4BFEE7D5-50A4-4DF3-BAE1-9616E9D4382D}"
+	ProjectSection(SolutionItems) = preProject
+		rules\code.style.editorconfig = rules\code.style.editorconfig
+		rules\disabled.editorconfig = rules\disabled.editorconfig
+		rules\meziantou.editorconfig = rules\meziantou.editorconfig
+		rules\name.style.editorconfig = rules\name.style.editorconfig
+		rules\sonar.editorconfig = rules\sonar.editorconfig
+		rules\stylecop.editorconfig = rules\stylecop.editorconfig
+		rules\vsthrd.editorconfig = rules\vsthrd.editorconfig
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pipelines", "pipelines", "{8EC00E1F-D0A0-40F9-860D-962AEE936BD9}"
+	ProjectSection(SolutionItems) = preProject
+		.github\workflows\deploy.yml = .github\workflows\deploy.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F71E1EA5-DDED-4E78-BEA9-4BAA0A171174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71E1EA5-DDED-4E78-BEA9-4BAA0A171174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71E1EA5-DDED-4E78-BEA9-4BAA0A171174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71E1EA5-DDED-4E78-BEA9-4BAA0A171174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F71E1EA5-DDED-4E78-BEA9-4BAA0A171174} = {C02398BE-DC26-4BF8-A4CA-F0019229AD0B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44EAC96E-3258-45AE-90ED-D8F9B18E831C}
+	EndGlobalSection
+EndGlobal

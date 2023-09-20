@@ -1,0 +1,16 @@
+is_global = true
+
+# CA1812: Avoid uninstantiated internal classes
+# Theses classes are used by the DI container
+# https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1812
+dotnet_diagnostic.CA1812.severity = none
+
+# CA1852: Class can be sealed because it has no subtypes in its containing assembly and is not externally visible internal class sealed
+# Is a duplicate of MA0053: https://github.com/meziantou/Meziantou.Analyzer/blob/main/docs/Rules/MA0053.md
+# https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1852
+dotnet_diagnostic.CA1852.severity = none
+
+# CA2007: Consider calling ConfigureAwait on the awaited task
+# Is a duplicate of MA0004: https://github.com/meziantou/Meziantou.Analyzer/blob/main/docs/Rules/MA0004.md
+# https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca2007
+dotnet_diagnostic.CA2007.severity = none

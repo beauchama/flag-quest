@@ -1,0 +1,21 @@
+{
+  "settings": {
+    "documentationRules": {
+      "xmlHeader": false,
+      "companyName": "Alexandre Beauchamp",
+      "copyrightText": "Copyright (c) {companyName}. All rights reserved.\nThe source code is licensed under MIT License.",
+      "documentInternalElements": false
+    },
+    "layoutRules": {
+      "newlineAtEndOfFile": "require"
+    },
+    "namingRules": {
+      "allowCommonHungarianPrefixes": false
+    },
+    "orderingRules": {
+      "blankLinesBetweenUsingGroups": "omit",
+      "systemUsingDirectivesFirst": false,
+      "usingDirectivesPlacement": "outsideNamespace"
+    }
+  }
+}
