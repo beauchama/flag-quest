@@ -9,7 +9,8 @@
 
 # custom files
 
-wwwroot/css/
+*.css
+/src/FlagQuest.Web/wwwroot/css/bootstrap
 
 # User-specific files
 *.rsuser
@@ -402,5 +403,3 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-
-# End of https://www.toptal.com/developers/gitignore/api/csharp
