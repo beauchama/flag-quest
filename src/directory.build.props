@@ -1,0 +1,7 @@
+<Project>
+	<Import Project="$([MSBuild]::GetPathOfFileAbove('directory.build.props', '$(MSBuildThisFileDirectory)../'))" />
+
+	<ItemGroup Label="Make internals visible to test project">
+		<InternalsVisibleTo Include="$(AssemblyName).Tests" />
+	</ItemGroup>
+</Project>
