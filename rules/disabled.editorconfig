@@ -10,6 +10,11 @@ dotnet_diagnostic.CA1062.severity = none
 # https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1812
 dotnet_diagnostic.CA1812.severity = none
 
+# CA1819: Properties should not return arrays
+# the property can return an empty array if the data doesn't exist
+# https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1819
+dotnet_diagnostic.CA1819.severity = none
+
 # CA1852: Class can be sealed because it has no subtypes in its containing assembly and is not externally visible internal class sealed
 # Is a duplicate of MA0053: https://github.com/meziantou/Meziantou.Analyzer/blob/main/docs/Rules/MA0053.md
 # https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1852
