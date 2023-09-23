@@ -17,8 +17,6 @@ public class LatLngJsonConverterTests
     {
         Utf8JsonReader reader = CreateJsonReader("""{ "latlng": [ 42.83333333, 12.83333333 ] }""");
 
-        reader.Read();
-
         GeographicCoordinate coordinate = _jsonConverter.Read(ref reader, typeof(GeographicCoordinate), new JsonSerializerOptions())!;
 
         coordinate.Latitude.Should().BeApproximately(42.83333333, 0.5);
@@ -28,8 +26,6 @@ public class LatLngJsonConverterTests
     public void ReadShouldGetTheLongitudeFromJson()
     {
         Utf8JsonReader reader = CreateJsonReader("""{ "latlng": [ 42.83333333, 12.83333333 ] }""");
-
-        reader.Read();
 
         GeographicCoordinate coordinate = _jsonConverter.Read(ref reader, typeof(GeographicCoordinate), new JsonSerializerOptions())!;
 
@@ -48,5 +44,16 @@ public class LatLngJsonConverterTests
         act.Should().ThrowExactly<NotSupportedException>();
     }
 
-    private static Utf8JsonReader CreateJsonReader(string json) => new(Encoding.UTF8.GetBytes(json));
+    private static Utf8JsonReader CreateJsonReader(string json)
+    {
+        Utf8JsonReader reader = new(Encoding.UTF8.GetBytes(json));
+
+        while (reader.Read())
+        {
+            if (reader.TokenType == JsonTokenType.StartArray)
+                break;
+        }
+
+        return reader;
+    }
 }
