@@ -20,6 +20,11 @@ dotnet_diagnostic.CA1819.severity = none
 # https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1852
 dotnet_diagnostic.CA1852.severity = none
 
+# CA1869: Avoid creating a new 'JsonSerializerOptions' instance for every serialization operation. Cache and reuse instances instead.
+# We can manage the istances.
+# https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/CA1869
+dotnet_diagnostic.CA1869.severity = none
+
 # CA2007: Consider calling ConfigureAwait on the awaited task
 # Is a duplicate of MA0004: https://github.com/meziantou/Meziantou.Analyzer/blob/main/docs/Rules/MA0004.md
 # https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca2007
