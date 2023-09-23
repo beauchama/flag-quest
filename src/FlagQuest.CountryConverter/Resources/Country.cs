@@ -14,14 +14,14 @@ internal sealed record Country
     public required string Code { get; init; }
 
     [JsonPropertyName("capital")]
-    public required IEnumerable<string> Capitals { get; init; }
+    public required string[] Capitals { get; init; }
 
     public required string Region { get; init; }
 
     public required string SubRegion { get; init; }
 
     [JsonConverter(typeof(LanguagesJsonConverter))]
-    public required IEnumerable<string> Languages { get; init; }
+    public required string[] Languages { get; init; }
 
     public required Translations Translations { get; init; }
 
@@ -29,9 +29,9 @@ internal sealed record Country
     [JsonConverter(typeof(LatLngJsonConverter))]
     public required GeographicCoordinate Coordinate { get; init; }
 
-    public bool LandLocked { get; init; }
+    public required bool LandLocked { get; init; }
 
-    public IEnumerable<string> Borders { get; init; } = [];
+    public required string[] Borders { get; init; } = [];
 
-    public double Area { get; init; }
+    public required double Area { get; init; }
 }

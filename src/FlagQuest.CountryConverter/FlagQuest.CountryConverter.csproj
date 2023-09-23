@@ -4,4 +4,8 @@
 		<OutputType>Exe</OutputType>
 	</PropertyGroup>
 
+	<ItemGroup>
+	  <ProjectReference Include="..\..\FlagQuest.Shared\FlagQuest.Shared.csproj" />
+	</ItemGroup>
+
 </Project>

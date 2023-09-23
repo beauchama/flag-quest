@@ -17,6 +17,15 @@ public class CountryTests(CountryJsonFixture fixture) : IClassFixture<CountryJso
 
     [Theory]
     [MemberData(nameof(GetCountries))]
+    public void CountryShouldNotBeNull(string countryName, ICountryData countryData)
+    {
+        Country country = fixture.Deserialize<Country>(countryName);
+
+        country.Should().NotBeNull();
+    }
+
+    [Theory]
+    [MemberData(nameof(GetCountries))]
     public void CountryShouldHaveTheCommonCountryName(string countryName, ICountryData countryData)
     {
         Country country = fixture.Deserialize<Country>(countryName);
@@ -76,6 +85,15 @@ public class CountryTests(CountryJsonFixture fixture) : IClassFixture<CountryJso
         Country country = fixture.Deserialize<Country>(countryName);
 
         country.Languages.Should().BeEquivalentTo(countryData.Languages);
+    }
+
+    [Theory]
+    [MemberData(nameof(GetCountries))]
+    public void TranslationsShouldNotBeNull(string countryName, ICountryData countryData)
+    {
+        Country country = fixture.Deserialize<Country>(countryName);
+
+        country.Translations.Should().NotBeNull();
     }
 
     [Theory]

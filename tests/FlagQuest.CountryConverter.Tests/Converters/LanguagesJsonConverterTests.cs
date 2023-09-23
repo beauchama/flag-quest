@@ -9,14 +9,14 @@ namespace FlagQuest.CountryConverter.Converters;
 
 public class LanguagesJsonConverterTests
 {
-    private readonly JsonConverter<IEnumerable<string>> _jsonConverter = new LanguagesJsonConverter();
+    private readonly JsonConverter<string[]> _jsonConverter = new LanguagesJsonConverter();
 
     [Fact]
     public void ReadShouldReturnEmptyWhenJsonTokenTypeIsStartObject()
     {
         Utf8JsonReader reader = CreateJsonReader("{}");
 
-        IEnumerable<string> languages = _jsonConverter.Read(ref reader, typeof(IEnumerable<string>), new JsonSerializerOptions())!;
+        IEnumerable<string> languages = _jsonConverter.Read(ref reader, typeof(string[]), new JsonSerializerOptions())!;
 
         languages.Should().BeEmpty();
     }
@@ -28,7 +28,7 @@ public class LanguagesJsonConverterTests
 
         reader.Read();
 
-        IEnumerable<string> languages = _jsonConverter.Read(ref reader, typeof(IEnumerable<string>), new JsonSerializerOptions())!;
+        IEnumerable<string> languages = _jsonConverter.Read(ref reader, typeof(string[]), new JsonSerializerOptions())!;
 
         languages.Should().BeEquivalentTo(["eng", "fra"]);
     }
