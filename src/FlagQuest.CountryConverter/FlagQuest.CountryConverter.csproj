@@ -5,7 +5,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\..\FlagQuest.Shared\FlagQuest.Shared.csproj" />
+	  <ProjectReference Include="..\FlagQuest.Shared\FlagQuest.Shared.csproj" />
 	</ItemGroup>
 
 </Project>

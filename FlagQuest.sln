@@ -53,7 +53,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{43755A21
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlagQuest.CountryConverter.Tests", "tests\FlagQuest.CountryConverter.Tests\FlagQuest.CountryConverter.Tests.csproj", "{6C4EBFC0-4C88-434E-B1CC-E11D3FD772D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlagQuest.Shared", "FlagQuest.Shared\FlagQuest.Shared.csproj", "{81523621-07C3-4A20-AE2E-DC3AE59C4E71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlagQuest.Shared", "src\FlagQuest.Shared\FlagQuest.Shared.csproj", "{96A06CAA-57A9-4D65-9BEA-6595188748A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,10 +73,10 @@ Global
 		{6C4EBFC0-4C88-434E-B1CC-E11D3FD772D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C4EBFC0-4C88-434E-B1CC-E11D3FD772D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C4EBFC0-4C88-434E-B1CC-E11D3FD772D7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{81523621-07C3-4A20-AE2E-DC3AE59C4E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{81523621-07C3-4A20-AE2E-DC3AE59C4E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{81523621-07C3-4A20-AE2E-DC3AE59C4E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{81523621-07C3-4A20-AE2E-DC3AE59C4E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A06CAA-57A9-4D65-9BEA-6595188748A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A06CAA-57A9-4D65-9BEA-6595188748A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A06CAA-57A9-4D65-9BEA-6595188748A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A06CAA-57A9-4D65-9BEA-6595188748A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -85,7 +85,7 @@ Global
 		{F71E1EA5-DDED-4E78-BEA9-4BAA0A171174} = {C02398BE-DC26-4BF8-A4CA-F0019229AD0B}
 		{5F086CD0-28ED-467E-B2C7-8EF4FA665660} = {C02398BE-DC26-4BF8-A4CA-F0019229AD0B}
 		{6C4EBFC0-4C88-434E-B1CC-E11D3FD772D7} = {43755A21-781A-484A-839B-6CC4232EF7BD}
-		{81523621-07C3-4A20-AE2E-DC3AE59C4E71} = {C02398BE-DC26-4BF8-A4CA-F0019229AD0B}
+		{96A06CAA-57A9-4D65-9BEA-6595188748A0} = {C02398BE-DC26-4BF8-A4CA-F0019229AD0B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {44EAC96E-3258-45AE-90ED-D8F9B18E831C}
