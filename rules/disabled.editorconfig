@@ -1,5 +1,10 @@
 is_global = true
 
+# CA1062: Validate arguments of public methods
+# No need to validate with nullable
+# https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1062
+dotnet_diagnostic.CA1062.severity = none
+
 # CA1812: Avoid uninstantiated internal classes
 # Theses classes are used by the DI container
 # https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1812

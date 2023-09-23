@@ -25,6 +25,11 @@ dotnet_diagnostic.SA1128.severity = none
 # https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/SA1309.md
 dotnet_diagnostic.SA1309.severity = none
 
+# SA1413: Use trailing comma in multi-line initializers
+# No need to use trailing comma in multi-line initializers
+# https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/SA1413.md
+dotnet_diagnostic.SA1413.severity = none
+
 # SA1503: Braces should not be omitted
 # Disabled because is managed by IDE0011 which enforce braces when is multi lines
 # https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/SA1503.md

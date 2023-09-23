@@ -1,9 +1,19 @@
 is_global = true
 
+# MA0002: IEqualityComparer<string> or IComparer<string> is missing
+# No need
+# https://github.com/meziantou/Meziantou.Analyzer/blob/main/docs/Rules/MA0002.md
+dotnet_diagnostic.MA0002.severity = none
+
 # MA0005: Use 'Array.Empty<T>()'
 # Is a duplicate of CA1825: https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1825
 # https://github.com/meziantou/Meziantou.Analyzer/blob/main/docs/Rules/MA0005.md
 dotnet_diagnostic.MA0005.severity = none
+
+# MA0007: Add a comma after the last value
+# No need to add a comma after the last value
+# https://github.com/meziantou/Meziantou.Analyzer/blob/main/docs/Rules/MA0007.md
+dotnet_diagnostic.MA0007.severity = none
 
 # MA0038: Make method static
 # This rule is deprecated
