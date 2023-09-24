@@ -300,6 +300,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{51F286D4-DB9A-4CF8-ADFA-0F07CF1E648A}"
 	ProjectSection(SolutionItems) = preProject
 		src\directory.build.props = src\directory.build.props
+		src\directory.packages.props = src\directory.packages.props
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{0FA980A4-7209-4501-AD96-BF42403C257C}"
@@ -309,13 +310,33 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{0FA980A4
 		tests\directory.packages.props = tests\directory.packages.props
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlagQuest.Migrator", "src\FlagQuest.Migrator\FlagQuest.Migrator.csproj", "{D34C42E3-19A4-4104-81E2-59F950B6C27A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlagQuest.Migrator.Tests", "tests\FlagQuest.Migrator.Tests\FlagQuest.Migrator.Tests.csproj", "{C8B07FA4-0DE7-4D69-9FDE-8E48D7EF8B38}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D34C42E3-19A4-4104-81E2-59F950B6C27A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34C42E3-19A4-4104-81E2-59F950B6C27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34C42E3-19A4-4104-81E2-59F950B6C27A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34C42E3-19A4-4104-81E2-59F950B6C27A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B07FA4-0DE7-4D69-9FDE-8E48D7EF8B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B07FA4-0DE7-4D69-9FDE-8E48D7EF8B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B07FA4-0DE7-4D69-9FDE-8E48D7EF8B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B07FA4-0DE7-4D69-9FDE-8E48D7EF8B38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4904036D-7B5D-474B-8E1A-6AD7566F9A1D} = {4E94BD12-8553-456E-B435-FC3A338CCC42}
 		{065FD178-8380-4B0B-89AA-2489089C0B80} = {4E94BD12-8553-456E-B435-FC3A338CCC42}
+		{D34C42E3-19A4-4104-81E2-59F950B6C27A} = {51F286D4-DB9A-4CF8-ADFA-0F07CF1E648A}
+		{C8B07FA4-0DE7-4D69-9FDE-8E48D7EF8B38} = {0FA980A4-7209-4501-AD96-BF42403C257C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4ABAB7C9-6770-4267-8596-1FAC194F4EBA}
