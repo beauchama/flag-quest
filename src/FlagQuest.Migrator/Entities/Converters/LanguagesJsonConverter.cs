@@ -15,8 +15,11 @@ internal sealed class LanguagesJsonConverter : JsonConverter<string[]>
         if (reader.TokenType != JsonTokenType.StartObject)
             return [];
 
-        while (reader.Read() && reader.TokenType != JsonTokenType.EndObject)
+        while (reader.Read())
         {
+            if (reader.TokenType == JsonTokenType.EndObject)
+                break;
+
             if (reader.TokenType == JsonTokenType.PropertyName)
                 languages.Add(reader.GetString()!);
         }
