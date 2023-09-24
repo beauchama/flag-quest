@@ -1,16 +1,16 @@
 <Project>
-	<Import Project="$([MSBuild]::GetPathOfFileAbove('directory.packages.props', '$(MSBuildThisFileDirectory)../'))" />
-
-	<ItemGroup Label="Common packages">
-		<PackageVersion Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0-rc.1.23419.4" />
-	</ItemGroup>
-
-	<ItemGroup Label="Blazor packages">
-		<PackageVersion Include="DartSassBuilder" Version="1.0.0" />
-		<PackageVersion Include="Fluxor.Blazor.Web" Version="5.9.1" />
-		<PackageVersion Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.0-rc.1.23421.29" />
-		<PackageVersion Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.0-rc.1.23421.29" />
-		<PackageVersion Include="Microsoft.Extensions.Http" Version="8.0.0-rc.1.23419.4" />
-		<PackageVersion Include="Microsoft.Web.LibraryManager.Build" Version="2.1.175" />
-	</ItemGroup>
+  <Import Project="$([MSBuild]::GetPathOfFileAbove('directory.packages.props', '$(MSBuildThisFileDirectory)../'))" />
+  <ItemGroup Label="Common packages">
+    <PackageVersion Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0-rc.1.23419.4" />
+    <PackageVersion Include="Microsoft.Extensions.Hosting" Version="8.0.0-rc.1.23419.4" />
+    <PackageVersion Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="8.0.0-rc.1.23419.4" />
+  </ItemGroup>
+  <ItemGroup Label="Blazor packages">
+    <PackageVersion Include="DartSassBuilder" Version="1.0.0" />
+    <PackageVersion Include="Fluxor.Blazor.Web" Version="5.9.1" />
+    <PackageVersion Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.0-rc.1.23421.29" />
+    <PackageVersion Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.0-rc.1.23421.29" />
+    <PackageVersion Include="Microsoft.Extensions.Http" Version="8.0.0-rc.1.23419.4" />
+    <PackageVersion Include="Microsoft.Web.LibraryManager.Build" Version="2.1.175" />
+  </ItemGroup>
 </Project>
