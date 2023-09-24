@@ -1,0 +1,37 @@
+<Project>
+	<Import Project="$([MSBuild]::GetPathOfFileAbove('Directory.Build.props', '$(MSBuildThisFileDirectory)../'))" />
+
+	<PropertyGroup Label="Configure test project">
+		<RootNamespace>$(MSBuildProjectName.Replace(" ", "_").Replace(".Tests", ""))</RootNamespace>
+		<GenerateDocumentationFile>false</GenerateDocumentationFile>
+		<IsPackable>false</IsPackable>
+		<IsTestProject>true</IsTestProject>
+	</PropertyGroup>
+
+	<ItemGroup Label="Reference the project">
+		<ProjectReference Include="$(MSBuildStartupDirectory)\src\$(AssemblyName.Replace('.Tests', ''))\$(AssemblyName.Replace('.Tests', '.csproj'))" />
+	</ItemGroup>
+
+	<ItemGroup Label="Exlude code coverage for tests">
+		<AssemblyAttribute Include="System.Diagnostics.CodeAnalysis.ExcludeFromCodeCoverageAttribute" />
+	</ItemGroup>
+
+	<ItemGroup Label="Global usings">
+		<Using Include="FluentAssertions" />
+		<Using Include="Xunit" />
+	</ItemGroup>
+
+	<ItemGroup Label="Test analyzers">
+		<PackageReference Include="FluentAssertions.Analyzers" PrivateAssets="all" IncludeAssets="$(IncludedAssets)" />
+		<PackageReference Include="xunit.analyzers" PrivateAssets="all" IncludeAssets="$(IncludedAssets)" />
+	</ItemGroup>
+
+	<ItemGroup Label="Test nugets">
+		<PackageReference Include="coverlet.collector" PrivateAssets="all" IncludeAssets="$(IncludedAssets)" />
+		<PackageReference Include="coverlet.msbuild" PrivateAssets="all" IncludeAssets="$(IncludedAssets)" />
+		<PackageReference Include="FluentAssertions" />
+		<PackageReference Include="Microsoft.NET.Test.Sdk" />
+		<PackageReference Include="xunit" />
+		<PackageReference Include="xunit.runner.visualstudio" PrivateAssets="all" IncludeAssets="$(IncludedAssets)" />
+	</ItemGroup>
+</Project>
