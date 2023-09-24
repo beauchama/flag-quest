@@ -5,6 +5,7 @@ VisualStudioVersion = 17.8.34112.27
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".config", ".config", "{624CE399-5EBE-44EB-A932-425193152A15}"
 	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
 		.gitattributes = .gitattributes
 		.gitignore = .gitignore
 		directory.build.props = directory.build.props
@@ -310,9 +311,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{0FA980A4
 		tests\directory.packages.props = tests\directory.packages.props
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlagQuest.Migrator", "src\FlagQuest.Migrator\FlagQuest.Migrator.csproj", "{D34C42E3-19A4-4104-81E2-59F950B6C27A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlagQuest.Migrator", "src\FlagQuest.Migrator\FlagQuest.Migrator.csproj", "{D34C42E3-19A4-4104-81E2-59F950B6C27A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlagQuest.Migrator.Tests", "tests\FlagQuest.Migrator.Tests\FlagQuest.Migrator.Tests.csproj", "{C8B07FA4-0DE7-4D69-9FDE-8E48D7EF8B38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlagQuest.Migrator.Tests", "tests\FlagQuest.Migrator.Tests\FlagQuest.Migrator.Tests.csproj", "{C8B07FA4-0DE7-4D69-9FDE-8E48D7EF8B38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

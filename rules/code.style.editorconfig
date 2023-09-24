@@ -1,19 +1,5 @@
 is_global = true
 
-# code styles
-
-[*]
-end_of_line = lf
-insert_final_newline = true
-
-[*.{cs}]
-indent_style = space
-indent_size = 4
-
-[*.{css,scss,sass,html,svg,xml,json,csproj,props}]
-indent_style = space
-indent_size = 2
-
 # IDE0007 IDE0008: Use explicit type
 # Always use explicit type
 # https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/style-rules/ide0007-ide0008
