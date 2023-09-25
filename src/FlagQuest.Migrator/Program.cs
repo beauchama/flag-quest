@@ -1,7 +1,6 @@
 ﻿// Copyright (c) Alexandre Beauchamp. All rights reserved.
 // The source code is licensed under MIT License.
 
-using CommandLine;
 using FlagQuest.Api;
 using FlagQuest.Migrator;
 using FlagQuest.Migrator.Clients;
@@ -25,14 +24,9 @@ IHost app = builder.Build();
 IMigrator migrator = app.Services.GetRequiredService<IMigrator>();
 IHostEnvironment environment = app.Services.GetRequiredService<IHostEnvironment>();
 
-await Parser.Default.ParseArguments<Arguments>(args).WithParsedAsync(async (o) =>
-{
-    if (!string.IsNullOrEmpty(o.OutputPath))
-    {
-        await migrator.MigrateAsync(o.OutputPath).ConfigureAwait(false);
-    }
-    else
-    {
-        await migrator.MigrateAsync(Path.Combine(environment.ContentRootPath, $"../../../../{CountryFilePath.JsonFileName}")).ConfigureAwait(false);
-    }
-}).ConfigureAwait(false);
+string basePath = environment.IsDevelopment()
+    ? Path.Combine(environment.ContentRootPath, $"../../../../FlagQuest.Web/wwwroot/{CountryFilePath.DataFolder}")
+    : Path.Combine(environment.ContentRootPath, $"../../FlagQuest.Web/release/wwwroot/{CountryFilePath.DataFolder}");
+
+DirectoryInfo directory = Directory.CreateDirectory(basePath);
+await migrator.MigrateAsync(Path.Combine(directory.FullName, CountryFilePath.JsonFileName)).ConfigureAwait(false);

@@ -1,6 +1,7 @@
 ﻿// Copyright (c) Alexandre Beauchamp. All rights reserved.
 // The source code is licensed under MIT License.
 
+using FlagQuest.Api;
 using FlagQuest.Migrator.Configurations;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Options;
@@ -18,7 +19,7 @@ internal sealed class JsonWriter(IHostEnvironment host, IOptions<JsonOptions> js
             WriteIndented = !jsonOptions.Value.Minify
         });
 
-        string jsonPath = Path.Combine(host.ContentRootPath, "countries.json");
+        string jsonPath = Path.Combine(host.ContentRootPath, CountryFilePath.JsonFileName);
 
         await File.WriteAllTextAsync(jsonPath, json).ConfigureAwait(false);
 
