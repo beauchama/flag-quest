@@ -1,6 +1,6 @@
 # custom files
 *.css
-/wwwroot/css/bootstrap
+src/FlagQuest.Web/wwwroot/css/bootstrap
 
 # User-specific files
 *.rsuser

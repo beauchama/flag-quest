@@ -3,10 +3,10 @@
 [*]
 insert_final_newline = true
 
-[*.{cs}]
+[*.{cs,html}]
 indent_style = space
 indent_size = 4
 
-[*.{css,scss,sass,html,svg,xml,json,csproj,props}]
+[*.{css,scss,sass,svg,xml,json,csproj,props}]
 indent_style = space
 indent_size = 2
