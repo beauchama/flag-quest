@@ -25,6 +25,11 @@ dotnet_diagnostic.SA1128.severity = none
 # https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/SA1309.md
 dotnet_diagnostic.SA1309.severity = none
 
+# SA1313: Parameter names should begin with lower-case letter
+# It can be managed easily
+# https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/SA1313.md
+dotnet_diagnostic.SA1313.severity = none
+
 # SA1413: Use trailing comma in multi-line initializers
 # No need to use trailing comma in multi-line initializers
 # https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/SA1413.md

@@ -5,6 +5,11 @@ is_global = true
 # https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1062
 dotnet_diagnostic.CA1062.severity = none
 
+# CA1308: Normalize strings to uppercase
+# We don't need to normalize strings to uppercase
+# https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1308
+dotnet_diagnostic.CA1308.severity = none
+
 # CA1812: Avoid uninstantiated internal classes
 # Theses classes are used by the DI container
 # https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1812
