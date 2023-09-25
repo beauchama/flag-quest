@@ -29,3 +29,8 @@ dotnet_diagnostic.CA1869.severity = none
 # Is a duplicate of MA0004: https://github.com/meziantou/Meziantou.Analyzer/blob/main/docs/Rules/MA0004.md
 # https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca2007
 dotnet_diagnostic.CA2007.severity = none
+
+# CA2234: Pass system uri objects instead of strings
+# Sometimes we need to pass a string because of the route.
+# https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca2234
+dotnet_diagnostic.CA2234.severity = none
