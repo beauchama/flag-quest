@@ -13,11 +13,7 @@ internal sealed class CountryHttpClient(IOptions<DataSourceOptions> dataSourceOp
 {
     public async Task<IReadOnlyCollection<Country>> GetAsync()
     {
-        JsonSerializerOptions options = new()
-        {
-            PropertyNameCaseInsensitive = jsonOptions.Value.CaseInsensitive,
-            WriteIndented = jsonOptions.Value.Minify
-        };
+        JsonSerializerOptions options = new() { PropertyNameCaseInsensitive = jsonOptions.Value.CaseInsensitive };
 
         using HttpResponseMessage response = await client.GetAsync(dataSourceOptions.Value.Countries).ConfigureAwait(false);
 

@@ -15,12 +15,12 @@ internal sealed class JsonWriter(IHostEnvironment host, IOptions<JsonOptions> js
         string json = JsonSerializer.Serialize(value, new JsonSerializerOptions
         {
             PropertyNameCaseInsensitive = jsonOptions.Value.CaseInsensitive,
-            WriteIndented = jsonOptions.Value.Minify
+            WriteIndented = !jsonOptions.Value.Minify
         });
 
-        string jsonPath = Path.Combine(host.ContentRootPath, $"{nameof(T)}.json");
+        string jsonPath = Path.Combine(host.ContentRootPath, "countries.json");
 
-        await File.WriteAllTextAsync(path, json).ConfigureAwait(false);
+        await File.WriteAllTextAsync(jsonPath, json).ConfigureAwait(false);
 
         FileInfo file = new(jsonPath);
         _ = file.CopyTo(path, overwrite: true);
