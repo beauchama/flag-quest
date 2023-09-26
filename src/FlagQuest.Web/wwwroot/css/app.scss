@@ -4,6 +4,7 @@
 @use './bootstrap/scss/bootstrap' with ( $primary: colors.$primary, $info: colors.$info, $success: colors.$success, $warning: colors.$warning, $danger: colors.$danger, $light: colors.$light, $dark: colors.$dark );
 
 // Components
-@use './components/typography';
-@use './components/layout';
 @use './components/theme';
+@use './components/layout';
+@use './components/typography';
+@use './components/icons';

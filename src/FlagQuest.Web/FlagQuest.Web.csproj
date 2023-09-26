@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
 
   <PropertyGroup>
-    <NoWarn>SA1600;SA1601</NoWarn>
+    <NoWarn>SA1600;SA1601;SA1602</NoWarn>
   </PropertyGroup>
 
   <ItemGroup>
