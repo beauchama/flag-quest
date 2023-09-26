@@ -3,6 +3,7 @@
 
 using FlagQuest.Api;
 using FlagQuest.Web;
+using FlagQuest.Web.Configurations;
 using FlagQuest.Web.Extensions;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
@@ -13,6 +14,7 @@ builder.RootComponents.Add<App>("#app");
 builder.RootComponents.Add<HeadOutlet>("head::after");
 
 builder.Services
+    .Configure<GitHubOptions>(builder.Configuration.GetSection(GitHubOptions.Section))
     .ConfigureFluxor(builder.HostEnvironment)
     .AddEndpoints(builder.HostEnvironment.BaseAddress);
 
