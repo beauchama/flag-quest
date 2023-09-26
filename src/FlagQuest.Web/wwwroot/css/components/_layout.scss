@@ -1,6 +1,7 @@
 .main-layout {
-  width: 100%;
+  max-width: 42rem;
   height: 100vh;
+  margin: auto;
   overflow-y: auto;
 
   .columns-layout {
