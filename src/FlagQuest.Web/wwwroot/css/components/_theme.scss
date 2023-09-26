@@ -1,0 +1,12 @@
+/// <reference path="../utilities/colors.scss" />
+@use '../utilities/colors';
+
+.dark-theme {
+  background-color: colors.$dark;
+  color: colors.$light;
+}
+
+.light-theme {
+  background-color: colors.$light;
+  color: colors.$dark;
+}

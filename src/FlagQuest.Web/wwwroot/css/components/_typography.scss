@@ -1,0 +1,35 @@
+html {
+  font-size: 1rem;
+}
+
+body {
+  font-family: Montserrat;
+}
+
+h1, h2, h3 {
+  margin-bottom: 0;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.5em;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.5em;
+}
+
+h3 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  line-height: 1.5em;
+}
+
+hr, .vr {
+  opacity: 1;
+  margin: 0;
+  --bs-border-width: 2px;
+}

@@ -315,9 +315,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlagQuest.Migrator", "src\F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlagQuest.Migrator.Tests", "tests\FlagQuest.Migrator.Tests\FlagQuest.Migrator.Tests.csproj", "{C8B07FA4-0DE7-4D69-9FDE-8E48D7EF8B38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlagQuest.Api", "src\FlagQuest.Api\FlagQuest.Api.csproj", "{1961EC43-E9BD-4A45-B80E-1AD76E1C6850}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlagQuest.Api", "src\FlagQuest.Api\FlagQuest.Api.csproj", "{1961EC43-E9BD-4A45-B80E-1AD76E1C6850}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlagQuest.Web", "src\FlagQuest.Web\FlagQuest.Web.csproj", "{6FC4EDB0-052E-4E7D-97F2-34621F5D8F62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlagQuest.Web", "src\FlagQuest.Web\FlagQuest.Web.csproj", "{6FC4EDB0-052E-4E7D-97F2-34621F5D8F62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,12 @@
+.main-layout {
+  width: 100%;
+  height: 100vh;
+  overflow-y: auto;
+
+  .columns-layout {
+    display: flex;
+    flex-direction: column;
+    padding: 32px 36px;
+    gap: 12px;
+  }
+}
