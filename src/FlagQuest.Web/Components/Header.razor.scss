@@ -1,0 +1,25 @@
+.banner {
+  display: flex;
+  align-items: center;
+  padding: 8px 12px;
+
+  .about, .settings {
+    display: flex;
+    gap: 24px;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    flex: 1 0 0;
+    text-align: center;
+    cursor: default;
+
+    img {
+      width: 48px;
+      height: 48px;
+    }
+  }
+}
