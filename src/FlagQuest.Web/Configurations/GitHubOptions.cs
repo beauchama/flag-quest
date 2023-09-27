@@ -10,4 +10,8 @@ public sealed record GitHubOptions
     public required Uri Assets { get; set; }
 
     public required Uri Repository { get; set; }
+
+    public required Uri Profile { get; set; }
+
+    public required string Version { get; set; }
 }

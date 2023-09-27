@@ -6,7 +6,6 @@
 .dark-theme {
   background-color: colors.$dark;
   color: colors.$light;
-
   // menu
   .nav-item {
     @include media-breakpoint-up(md) {
@@ -30,12 +29,15 @@
       background-color: colors.$light;
     }
   }
+  // footer
+  .footer {
+    color: colors.$dark-accent;
+  }
 }
 
 .light-theme {
   background-color: colors.$light;
   color: colors.$dark;
-
   // menu
   .nav-item {
     @include media-breakpoint-up(md) {
@@ -58,5 +60,9 @@
     &::after {
       background-color: colors.$dark;
     }
+  }
+  // footer
+  .footer {
+    color: colors.$light-accent;
   }
 }
