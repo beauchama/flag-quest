@@ -7,6 +7,8 @@ public static class BootstrapIcon
 {
     public const string BarChartLineFill = "bi-bar-chart-line-fill";
 
+    public const string Copyright = "bi-c-circle";
+
     public const string Gear = "bi-gear";
 
     public const string GitHub = "bi-github";

@@ -5,6 +5,7 @@ namespace FlagQuest.Web.Components.Icons;
 
 public enum IconSize
 {
+    XSmall,
     Small,
     Medium,
     Large,

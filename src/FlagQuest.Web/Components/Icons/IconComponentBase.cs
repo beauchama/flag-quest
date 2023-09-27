@@ -32,6 +32,7 @@ public abstract class IconComponentBase : ComponentBase
 
         static string GetIconSizeCss(IconSize size) => size switch
         {
+            IconSize.XSmall => "icon-xs",
             IconSize.Small => "icon-sm",
             IconSize.Medium => "icon-md",
             IconSize.Large => "icon-lg",
