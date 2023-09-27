@@ -20,6 +20,11 @@ dotnet_diagnostic.MA0006.severity = none
 # https://github.com/meziantou/Meziantou.Analyzer/blob/main/docs/Rules/MA0007.md
 dotnet_diagnostic.MA0007.severity = none
 
+# MA0011: Use an overload of 'ToString' that has a 'System.IFormatProvider' parameter
+# No need to use an overload of 'ToString' that has a 'System.IFormatProvider' parameter
+# https://github.com/meziantou/Meziantou.Analyzer/blob/main/docs/Rules/MA0011.md
+dotnet_diagnostic.MA0011.severity = none
+
 # MA0038: Make method static
 # This rule is deprecated
 # https://github.com/meziantou/Meziantou.Analyzer/blob/main/docs/Rules/MA0038.md
@@ -31,3 +36,8 @@ dotnet_diagnostic.MA0038.severity = none
 MA0053.public_class_should_be_sealed = true
 MA0053.exceptions_should_be_sealed = true
 dotnet_diagnostic.MA0053.severity = warning
+
+# MA0076: Do Not use implicit culture-sensitive ToString in interpolated strings
+# No need to use explicit culture-sensitive ToString in interpolated strings
+# https://github.com/meziantou/Meziantou.Analyzer/blob/main/docs/Rules/MA0076.md
+dotnet_diagnostic.MA0076.severity = none

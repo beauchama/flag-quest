@@ -5,6 +5,11 @@ is_global = true
 # https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1062
 dotnet_diagnostic.CA1062.severity = none
 
+# CA1305: Specify IFormatProvider
+# We don't need to specify the IFormatProvider
+# https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1305
+dotnet_diagnostic.CA1305.severity = none
+
 # CA1308: Normalize strings to uppercase
 # We don't need to normalize strings to uppercase
 # https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1308
