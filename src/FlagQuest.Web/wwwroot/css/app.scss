@@ -1,10 +1,20 @@
 /// <reference path="./utilities/colors.scss" />
 @use './utilities/colors';
 
-@use './bootstrap/scss/bootstrap' with ( $primary: colors.$primary, $info: colors.$info, $success: colors.$success, $warning: colors.$warning, $danger: colors.$danger, $light: colors.$light, $dark: colors.$dark );
+/// <reference path="./bootstrap/scss/bootstrap.scss" />
+@use './bootstrap/scss/bootstrap' as * with (
+  $primary: colors.$primary,
+  $info: colors.$info,
+  $success: colors.$success,
+  $warning: colors.$warning,
+  $danger: colors.$danger,
+  $light: colors.$light,
+  $dark: colors.$dark
+);
 
 // Components
 @use './components/theme';
 @use './components/layout';
 @use './components/typography';
 @use './components/icons';
+@use './components/menu';

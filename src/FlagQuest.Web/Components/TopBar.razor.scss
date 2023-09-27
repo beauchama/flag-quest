@@ -1,20 +1,14 @@
-.banner {
+.top-bar {
   display: flex;
   align-items: center;
   padding: 8px 12px;
+  gap: 16px;
 
-  .about, .settings {
-    display: flex;
-    gap: 24px;
-  }
-
-  .logo {
+  .brand {
     display: flex;
     align-items: center;
-    justify-content: center;
     gap: 12px;
     flex: 1 0 0;
-    text-align: center;
     cursor: default;
 
     img {

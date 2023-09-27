@@ -1,12 +1,62 @@
 /// <reference path="../utilities/colors.scss" />
 @use '../utilities/colors';
+/// <reference path="../bootstrap/scss/bootstrap.scss" />
+@use '../bootstrap/scss/bootstrap' as *;
 
 .dark-theme {
   background-color: colors.$dark;
   color: colors.$light;
+
+  // menu
+  .nav-item {
+    @include media-breakpoint-up(md) {
+      &:hover, &:active {
+        color: colors.$dark-accent;
+      }
+    }
+
+    @include media-breakpoint-down(md) {
+      &:hover, &:active {
+        background-color: colors.$dark-accent;
+      }
+    }
+  }
+
+  .lines {
+    background-color: colors.$light;
+
+    &::before,
+    &::after {
+      background-color: colors.$light;
+    }
+  }
 }
 
 .light-theme {
   background-color: colors.$light;
   color: colors.$dark;
+
+  // menu
+  .nav-item {
+    @include media-breakpoint-up(md) {
+      &:hover, &:active {
+        color: colors.$light-accent;
+      }
+    }
+
+    @include media-breakpoint-down(md) {
+      &:hover, &:active {
+        background-color: colors.$light-accent;
+      }
+    }
+  }
+
+  .lines {
+    background-color: colors.$dark;
+
+    &::before,
+    &::after {
+      background-color: colors.$dark;
+    }
+  }
 }

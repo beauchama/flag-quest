@@ -7,7 +7,7 @@ using Microsoft.Extensions.Options;
 
 namespace FlagQuest.Web.Components;
 
-public partial class Header
+public partial class TopBar
 {
     [Inject]
     private IOptions<GitHubOptions> GitHubOptions { get; set; } = default!;
