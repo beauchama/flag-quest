@@ -6,26 +6,34 @@ body {
   font-family: Montserrat;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4, h5 {
   margin-bottom: 0;
+  line-height: 1.5rem;
 }
 
 h1 {
   font-size: 2rem;
   font-weight: 800;
-  line-height: 1.5em;
 }
 
 h2 {
   font-size: 1.5rem;
   font-weight: 800;
-  line-height: 1.5em;
 }
 
 h3 {
   font-size: 1.15rem;
   font-weight: 700;
-  line-height: 1.5em;
+}
+
+h4 {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+h5 {
+  font-size: 0.75rem;
+  font-weight: 600;
 }
 
 hr, .vr {
