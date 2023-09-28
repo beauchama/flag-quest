@@ -5,7 +5,15 @@ namespace FlagQuest.Web.Components.Icons;
 
 public static class BootstrapIcon
 {
+    public const string ArrowUp = "bi-arrow-up";
+
+    public const string ArrowDownSquare = "bi-arrow-down-square";
+
+    public const string ArrowUpSquare = "bi-arrow-up-square";
+
     public const string BarChartLineFill = "bi-bar-chart-line-fill";
+
+    public const string CheckCircle = "bi-check-circle";
 
     public const string Copyright = "bi-c-circle";
 
@@ -14,4 +22,6 @@ public static class BootstrapIcon
     public const string GitHub = "bi-github";
 
     public const string QuestionCircle = "bi-question-circle";
+
+    public const string XCircle = "bi-x-circle";
 }

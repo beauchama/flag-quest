@@ -3,4 +3,4 @@
 
 namespace FlagQuest.Web.Flags.Models;
 
-public sealed record Flag(string Code, Translations Translations, string Region, double Area, Coordinate Coordinate);
+public sealed record GuessedFlag(string Code, string Name, bool IsBigger, bool SameContinent, GuessedCoordinate Coordinate);

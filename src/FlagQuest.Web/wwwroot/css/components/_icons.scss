@@ -16,3 +16,13 @@ $icon-sizes: ("xs": 0.75rem, "sm": 1rem, "md": 1.5rem, "lg": 2rem, "xl": 2.5rem)
     height: unset;
   }
 }
+
+.icon-text {
+  display: flex;
+  font-size: 14px;
+  cursor: default;
+
+  .label {
+    flex: 1 0 0;
+  }
+}

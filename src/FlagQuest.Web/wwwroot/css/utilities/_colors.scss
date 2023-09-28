@@ -7,3 +7,11 @@ $light: #EDE9EC;
 $dark: #11121C;
 $light-accent: #47B9C3;
 $dark-accent: #926075;
+
+.text-light-accent {
+  color: $light-accent;
+}
+
+.text-dark-accent {
+  color: $dark-accent;
+}

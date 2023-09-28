@@ -1,3 +1,6 @@
+/// <reference path="../bootstrap/scss/bootstrap.scss" />
+@use '../bootstrap/scss/bootstrap' as *;
+
 .main-layout {
   display: flex;
   flex-direction: column;
@@ -12,5 +15,37 @@
     flex: 1 0 0;
     padding: 32px 36px;
     gap: 12px;
+  }
+}
+
+.content-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  border: 1px solid;
+  border-radius: 8px;
+  padding: 8px 12px;
+  margin: auto;
+
+  .columns {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+
+    .column {
+      display: flex;
+      flex-direction: column;
+      width: 130px;
+    }
+  }
+}
+
+@include media-breakpoint-down(md) {
+  .content-row {
+    .columns {
+      .column {
+        width: 110px;
+      }
+    }
   }
 }

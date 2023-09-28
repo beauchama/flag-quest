@@ -13,5 +13,5 @@ internal static class FlagMapper
         => countries.Select(ToFlag).ToArray();
 
     private static Flag ToFlag(this Country country)
-        => new(country.Code.ToLower(CultureInfo.InvariantCulture), country.Translations.ToTranslations(), country.Coordinate.ToCoordinate());
+        => new(country.Code.ToLower(CultureInfo.InvariantCulture), country.Translations.ToTranslations(), country.Location.Region, country.Area, country.Coordinate.ToCoordinate());
 }

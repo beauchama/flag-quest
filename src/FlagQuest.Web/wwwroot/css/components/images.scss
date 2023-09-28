@@ -1,0 +1,20 @@
+$image-sizes: ("xs": 240px, "sm": 360px, "md": 480px);
+$image-thumbnail-sizes: ("sm": 40px, "md": 80px);
+
+@each $size, $value in $image-sizes {
+  .img-#{$size} {
+    width: $value;
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+}
+
+@each $size, $value in $image-thumbnail-sizes {
+  .img-thumbnail-#{$size} {
+    width: $value;
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+  }
+}

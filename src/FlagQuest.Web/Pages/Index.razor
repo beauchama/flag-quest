@@ -1,8 +1,12 @@
-﻿@page "/"
+﻿@using FlagQuest.Web.Flags.Components
+
+@page "/"
 @layout MainLayout
+@inherits FluxorComponent
 
 <PageTitle>@Translations.FlagQuest</PageTitle>
 
-<p>
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-</p>
+@if (_selectedFlag is not null)
+{
+    <FlagCard Flag="@_selectedFlag" />
+}

@@ -5,6 +5,7 @@ using FlagQuest.Api;
 using FlagQuest.Web;
 using FlagQuest.Web.Configurations;
 using FlagQuest.Web.Extensions;
+using FlagQuest.Web.Flags.Algorithms;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 
@@ -14,6 +15,7 @@ builder.RootComponents.Add<App>("#app");
 builder.RootComponents.Add<HeadOutlet>("head::after");
 
 builder.Services
+    .AddTransient<IGeographicCalculator, GeographicCalculator>()
     .Configure<GitHubOptions>(builder.Configuration.GetSection(GitHubOptions.Section))
     .ConfigureFluxor(builder.HostEnvironment)
     .AddEndpoints(builder.HostEnvironment.BaseAddress);

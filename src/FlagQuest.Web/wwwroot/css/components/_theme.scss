@@ -29,6 +29,12 @@
       background-color: colors.$light;
     }
   }
+  // icon-text
+  .icon-text {
+    .icon {
+      color: colors.$light-accent;
+    }
+  }
   // footer
   .footer {
     color: colors.$dark-accent;
@@ -59,6 +65,12 @@
     &::before,
     &::after {
       background-color: colors.$dark;
+    }
+  }
+  // icon-text
+  .icon-text {
+    .icon {
+      color: colors.$dark;
     }
   }
   // footer

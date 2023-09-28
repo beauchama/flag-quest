@@ -1,0 +1,9 @@
+﻿@using FlagQuest.Web.Components.Icons
+
+<div class="flag-card">
+    <img src="@GetFlag()" class="img-sm" />
+    <div class="flag-form">
+        <input type="text" class="autocomplete" autocomplete="off" />
+        <FlagRow Flag="ToGuessedFlag(FlagsState.Value.Flags.First(), Flag)" />
+    </div>
+</div>
