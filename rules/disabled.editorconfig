@@ -1,16 +1,46 @@
 is_global = true
 
+# CA1062: Validate arguments of public methods
+# No need to validate with nullable
+# https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1062
+dotnet_diagnostic.CA1062.severity = none
+
+# CA1305: Specify IFormatProvider
+# We don't need to specify the IFormatProvider
+# https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1305
+dotnet_diagnostic.CA1305.severity = none
+
+# CA1308: Normalize strings to uppercase
+# We don't need to normalize strings to uppercase
+# https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1308
+dotnet_diagnostic.CA1308.severity = none
+
 # CA1812: Avoid uninstantiated internal classes
 # Theses classes are used by the DI container
 # https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1812
 dotnet_diagnostic.CA1812.severity = none
+
+# CA1819: Properties should not return arrays
+# the property can return an empty array if the data doesn't exist
+# https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1819
+dotnet_diagnostic.CA1819.severity = none
 
 # CA1852: Class can be sealed because it has no subtypes in its containing assembly and is not externally visible internal class sealed
 # Is a duplicate of MA0053: https://github.com/meziantou/Meziantou.Analyzer/blob/main/docs/Rules/MA0053.md
 # https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1852
 dotnet_diagnostic.CA1852.severity = none
 
+# CA1869: Avoid creating a new 'JsonSerializerOptions' instance for every serialization operation. Cache and reuse instances instead.
+# We can manage the istances.
+# https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/CA1869
+dotnet_diagnostic.CA1869.severity = none
+
 # CA2007: Consider calling ConfigureAwait on the awaited task
 # Is a duplicate of MA0004: https://github.com/meziantou/Meziantou.Analyzer/blob/main/docs/Rules/MA0004.md
 # https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca2007
 dotnet_diagnostic.CA2007.severity = none
+
+# CA2234: Pass system uri objects instead of strings
+# Sometimes we need to pass a string because of the route.
+# https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca2234
+dotnet_diagnostic.CA2234.severity = none

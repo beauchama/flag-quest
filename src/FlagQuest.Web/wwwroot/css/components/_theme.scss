@@ -1,0 +1,128 @@
+/// <reference path="../utilities/colors.scss" />
+@use '../utilities/colors';
+/// <reference path="../bootstrap/scss/bootstrap.scss" />
+@use '../bootstrap/scss/bootstrap' as *;
+
+.dark-theme {
+  background-color: colors.$dark;
+  color: colors.$light;
+  // menu
+  .nav-item {
+    @include media-breakpoint-up(md) {
+      &:hover, &:active {
+        color: colors.$dark-accent;
+      }
+    }
+
+    @include media-breakpoint-down(md) {
+      &:hover, &:active {
+        background-color: colors.$dark-accent;
+      }
+    }
+  }
+
+  .lines {
+    background-color: colors.$light;
+
+    &::before,
+    &::after {
+      background-color: colors.$light;
+    }
+  }
+  // icon-text
+  .icon-text {
+    .icon {
+      color: colors.$light-accent;
+    }
+  }
+  // autocomplete
+  .autocomplete {
+    border-color: colors.$dark-accent;
+
+    input {
+      color: colors.$light;
+      background-color: colors.$dark;
+
+      &::placeholder {
+        color: colors.$light;
+      }
+    }
+
+    .dropdown {
+      background-color: colors.$dark;
+      scrollbar-color: colors.$light colors.$dark;
+
+      .option {
+        &:hover {
+          background-color: colors.$dark-accent;
+        }
+      }
+    }
+  }
+  // footer
+  .footer {
+    color: colors.$dark-accent;
+  }
+}
+
+.light-theme {
+  background-color: colors.$light;
+  color: colors.$dark;
+  // menu
+  .nav-item {
+    @include media-breakpoint-up(md) {
+      &:hover, &:active {
+        color: colors.$light-accent;
+      }
+    }
+
+    @include media-breakpoint-down(md) {
+      &:hover, &:active {
+        background-color: colors.$light-accent;
+      }
+    }
+  }
+
+  .lines {
+    background-color: colors.$dark;
+
+    &::before,
+    &::after {
+      background-color: colors.$dark;
+    }
+  }
+  // icon-text
+  .icon-text {
+    .icon {
+      color: colors.$dark;
+    }
+  }
+  // autocomplete
+  .autocomplete {
+    border-color: colors.$dark;
+
+    input {
+      color: colors.$dark;
+      background-color: colors.$light;
+
+      &::placeholder {
+        color: colors.$dark;
+      }
+    }
+
+    .dropdown {
+      background-color: colors.$light;
+      scrollbar-color: colors.$dark colors.$light;
+
+      .option {
+        &:hover {
+          background-color: colors.$light-accent;
+        }
+      }
+    }
+  }
+  // footer
+  .footer {
+    color: colors.$light-accent;
+  }
+}

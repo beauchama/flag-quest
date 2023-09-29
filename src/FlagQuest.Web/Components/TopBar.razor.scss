@@ -1,0 +1,19 @@
+.top-bar {
+  display: flex;
+  align-items: center;
+  padding: 8px 12px;
+  gap: 16px;
+
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex: 1 0 0;
+    cursor: default;
+
+    img {
+      width: 48px;
+      height: 48px;
+    }
+  }
+}

@@ -1,16 +1,28 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
 
-	<PropertyGroup>
-		<TargetFramework>net8.0</TargetFramework>
-		<Nullable>enable</Nullable>
-		<ImplicitUsings>enable</ImplicitUsings>
-	</PropertyGroup>
+  <PropertyGroup>
+    <NoWarn>SA1600;SA1601;SA1602</NoWarn>
+  </PropertyGroup>
 
-	<ItemGroup>
-		<PackageReference Include="DartSassBuilder" />
-		<PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" />
-		<PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" PrivateAssets="all" />
-		<PackageReference Include="Microsoft.Web.LibraryManager.Build" />
-	</ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="DartSassBuilder" />
+    <PackageReference Include="Fluxor.Blazor.Web" />
+    <PackageReference Include="Fluxor.Blazor.Web.ReduxDevTools" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" PrivateAssets="all" />
+    <PackageReference Include="Microsoft.Extensions.Http" />
+    <PackageReference Include="Microsoft.Web.LibraryManager.Build" />
+  </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FlagQuest.Api\FlagQuest.Api.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Translations.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Translations.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
 </Project>

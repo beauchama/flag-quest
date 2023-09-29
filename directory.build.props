@@ -16,7 +16,7 @@
 	</PropertyGroup>
 
 	<ItemGroup Label="Link and configure analyzer rules">
-		<EditorConfigFiles Include="$(MSBuildStartupDirectory)\rules\*.editorconfig" />
+		<GlobalAnalyzerConfigFiles Include="$(MSBuildStartupDirectory)\rules\*.editorconfig" />
 		<AdditionalFiles Include="$(MSBuildStartupDirectory)\stylecop.json" Link="stylecop.json" />
 	</ItemGroup>
 

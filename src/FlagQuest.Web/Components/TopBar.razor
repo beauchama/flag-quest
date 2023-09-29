@@ -1,0 +1,34 @@
+﻿@using FlagQuest.Web.Components.Icons
+
+<header class="navbar navbar-expand-md top-bar">
+    <div class="navbar-brand brand">
+        <img src="./assets/icons/icon-64.png" alt="@Translations.FlagQuestLogo" />
+        <h1>@Translations.FlagQuest</h1>
+    </div>
+    <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#side-menu" aria-controls="side-menu" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="hamburger">
+            <span class="lines"></span>
+        </span>
+    </button>
+    <div id="side-menu" class="collapse navbar-collapse">
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <IconLink Name="@BootstrapIcon.GitHub" Href="GitHubOptions.Value.Repository" Size="IconSize.Large" />
+                <h3 class="navbar-text">@Translations.Project</h3>
+            </li>
+            <li class="nav-item">
+                <IconButton Name="@BootstrapIcon.QuestionCircle" OnClick="OnQuestionClick" Size="IconSize.Large" />
+                <h3 class="navbar-text">@Translations.HowToPlay</h3>
+            </li>
+            <li class="nav-item">
+                <IconButton Name="@BootstrapIcon.BarChartLineFill" OnClick="OnStatsClick" Size="IconSize.Large" />
+                <h3 class="navbar-text">@Translations.Statistics</h3>
+            </li>
+            <li class="nav-item">
+                <IconButton Name="@BootstrapIcon.Gear" OnClick="OnSettingsClick" Size="IconSize.Large" />
+                <h3 class="navbar-text">@Translations.Settings</h3>
+            </li>
+        </ul>
+    </div>
+</header>
+<hr />

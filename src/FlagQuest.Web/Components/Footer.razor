@@ -1,0 +1,14 @@
+﻿@using FlagQuest.Web.Components.Icons
+
+<footer class="footer">
+    <div class="copyright">
+        <h5>@Translations.Copyright</h5>
+        <Icon Name="@BootstrapIcon.Copyright" Size="IconSize.XSmall" />
+        <h5>@GetCopyrightYears()</h5>
+    </div>
+    <div class="vr"></div>
+    <a class="profile" href="@GitHubOptions.Value.Profile" target="_blank">
+        <Icon Name="@BootstrapIcon.GitHub" Size="IconSize.Small" />
+        <h5>Alexandre Beauchamp</h5>
+    </a>
+</footer>

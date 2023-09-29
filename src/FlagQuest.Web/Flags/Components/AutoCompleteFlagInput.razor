@@ -1,0 +1,11 @@
+﻿<div class="autocomplete @(_filteredFlags.Any() ? "expanded" : string.Empty)">
+    <input @ref="_inputText" tabindex="1" @bind="_input" @onclick="OnClick" @oninput="HandleInput" @onkeydown="OnEnterAsync" type="text" autocomplete="off" placeholder="Guess the country..." />
+    <ul class="dropdown">
+        @foreach (var flag in _filteredFlags)
+        {
+            <li @onclick="() => SelectFlagAsync(flag.Code)" class="option">
+                <span>@flag.Translations.English.Name</span>
+            </li>
+        }
+    </ul>
+</div>

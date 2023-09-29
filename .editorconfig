@@ -1,0 +1,12 @@
+# code styles
+
+[*]
+insert_final_newline = true
+
+[*.{cs,html}]
+indent_style = space
+indent_size = 4
+
+[*.{css,scss,sass,svg,xml,json,csproj,props}]
+indent_style = space
+indent_size = 2

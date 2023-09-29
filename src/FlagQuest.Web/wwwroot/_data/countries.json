@@ -1,0 +1,8471 @@
+[
+  {
+    "Code": "ABW",
+    "Capitals": [
+      "Oranjestad"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "nld",
+      "pap"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Aruba",
+        "OfficialName": "Aruba"
+      },
+      "eng": {
+        "Name": "Aruba",
+        "OfficialName": "Aruba"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 12.5,
+      "Longitude": -69.96666666
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 180
+  },
+  {
+    "Code": "AFG",
+    "Capitals": [
+      "Kabul"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Southern Asia"
+    },
+    "Languages": [
+      "prs",
+      "pus",
+      "tuk"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Afghanistan",
+        "OfficialName": "R\u00E9publique islamique d\u0027Afghanistan"
+      },
+      "eng": {
+        "Name": "Afghanistan",
+        "OfficialName": "Islamic Republic of Afghanistan"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 33,
+      "Longitude": 65
+    },
+    "LandLocked": true,
+    "Borders": [
+      "IRN",
+      "PAK",
+      "TKM",
+      "UZB",
+      "TJK",
+      "CHN"
+    ],
+    "Area": 652230
+  },
+  {
+    "Code": "AGO",
+    "Capitals": [
+      "Luanda"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Middle Africa"
+    },
+    "Languages": [
+      "por"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Angola",
+        "OfficialName": "R\u00E9publique d\u0027Angola"
+      },
+      "eng": {
+        "Name": "Angola",
+        "OfficialName": "Republic of Angola"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -12.5,
+      "Longitude": 18.5
+    },
+    "LandLocked": false,
+    "Borders": [
+      "COG",
+      "COD",
+      "ZMB",
+      "NAM"
+    ],
+    "Area": 1246700
+  },
+  {
+    "Code": "AIA",
+    "Capitals": [
+      "The Valley"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Anguilla",
+        "OfficialName": "Anguilla"
+      },
+      "eng": {
+        "Name": "Anguilla",
+        "OfficialName": "Anguilla"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 18.25,
+      "Longitude": -63.16666666
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 91
+  },
+  {
+    "Code": "ALA",
+    "Capitals": [
+      "Mariehamn"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Northern Europe"
+    },
+    "Languages": [
+      "swe"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Ahvenanmaa",
+        "OfficialName": "Ahvenanmaa"
+      },
+      "eng": {
+        "Name": "\u00C5land Islands",
+        "OfficialName": "\u00C5land Islands"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 60.116667,
+      "Longitude": 19.9
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 1580
+  },
+  {
+    "Code": "ALB",
+    "Capitals": [
+      "Tirana"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Southeast Europe"
+    },
+    "Languages": [
+      "sqi"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Albanie",
+        "OfficialName": "R\u00E9publique d\u0027Albanie"
+      },
+      "eng": {
+        "Name": "Albania",
+        "OfficialName": "Republic of Albania"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 41,
+      "Longitude": 20
+    },
+    "LandLocked": false,
+    "Borders": [
+      "MNE",
+      "GRC",
+      "MKD",
+      "UNK"
+    ],
+    "Area": 28748
+  },
+  {
+    "Code": "AND",
+    "Capitals": [
+      "Andorra la Vella"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Southern Europe"
+    },
+    "Languages": [
+      "cat"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Andorre",
+        "OfficialName": "Principaut\u00E9 d\u0027Andorre"
+      },
+      "eng": {
+        "Name": "Andorra",
+        "OfficialName": "Principality of Andorra"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 42.5,
+      "Longitude": 1.5
+    },
+    "LandLocked": true,
+    "Borders": [
+      "FRA",
+      "ESP"
+    ],
+    "Area": 468
+  },
+  {
+    "Code": "ARE",
+    "Capitals": [
+      "Abu Dhabi"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Western Asia"
+    },
+    "Languages": [
+      "ara"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00C9mirats arabes unis",
+        "OfficialName": "\u00C9mirats arabes unis"
+      },
+      "eng": {
+        "Name": "United Arab Emirates",
+        "OfficialName": "United Arab Emirates"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 24,
+      "Longitude": 54
+    },
+    "LandLocked": false,
+    "Borders": [
+      "OMN",
+      "SAU"
+    ],
+    "Area": 83600
+  },
+  {
+    "Code": "ARG",
+    "Capitals": [
+      "Buenos Aires"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "South America"
+    },
+    "Languages": [
+      "grn",
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Argentine",
+        "OfficialName": "R\u00E9publique argentine"
+      },
+      "eng": {
+        "Name": "Argentina",
+        "OfficialName": "Argentine Republic"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -34,
+      "Longitude": -64
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "PRY",
+      "URY"
+    ],
+    "Area": 2780400
+  },
+  {
+    "Code": "ARM",
+    "Capitals": [
+      "Yerevan"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Western Asia"
+    },
+    "Languages": [
+      "hye"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Arm\u00E9nie",
+        "OfficialName": "R\u00E9publique d\u0027Arm\u00E9nie"
+      },
+      "eng": {
+        "Name": "Armenia",
+        "OfficialName": "Republic of Armenia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 40,
+      "Longitude": 45
+    },
+    "LandLocked": true,
+    "Borders": [
+      "AZE",
+      "GEO",
+      "IRN",
+      "TUR"
+    ],
+    "Area": 29743
+  },
+  {
+    "Code": "ASM",
+    "Capitals": [
+      "Pago Pago"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Polynesia"
+    },
+    "Languages": [
+      "eng",
+      "smo"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Samoa am\u00E9ricaines",
+        "OfficialName": "Samoa am\u00E9ricaines"
+      },
+      "eng": {
+        "Name": "American Samoa",
+        "OfficialName": "American Samoa"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -14.33333333,
+      "Longitude": -170
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 199
+  },
+  {
+    "Code": "ATA",
+    "Capitals": [],
+    "Location": {
+      "Region": "Antarctic",
+      "SubRegion": ""
+    },
+    "Languages": [],
+    "Translations": {
+      "fra": {
+        "Name": "Antarctique",
+        "OfficialName": "Antarctique"
+      },
+      "eng": {
+        "Name": "Antarctica",
+        "OfficialName": "Antarctica"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -90,
+      "Longitude": 0
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 14000000
+  },
+  {
+    "Code": "ATF",
+    "Capitals": [
+      "Port-aux-Fran\u00E7ais"
+    ],
+    "Location": {
+      "Region": "Antarctic",
+      "SubRegion": ""
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Terres australes et antarctiques fran\u00E7aises",
+        "OfficialName": "Territoire des Terres australes et antarctiques fran\u00E7aises"
+      },
+      "eng": {
+        "Name": "French Southern and Antarctic Lands",
+        "OfficialName": "Territory of the French Southern and Antarctic Lands"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -49.25,
+      "Longitude": 69.167
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 7747
+  },
+  {
+    "Code": "ATG",
+    "Capitals": [
+      "Saint John\u0027s"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Antigua-et-Barbuda",
+        "OfficialName": "Antigua -et-Barbuda"
+      },
+      "eng": {
+        "Name": "Antigua and Barbuda",
+        "OfficialName": "Antigua and Barbuda"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 17.05,
+      "Longitude": -61.8
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 442
+  },
+  {
+    "Code": "AUS",
+    "Capitals": [
+      "Canberra"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Australia and New Zealand"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Australie",
+        "OfficialName": "Australie"
+      },
+      "eng": {
+        "Name": "Australia",
+        "OfficialName": "Commonwealth of Australia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -27,
+      "Longitude": 133
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 7692024
+  },
+  {
+    "Code": "AUT",
+    "Capitals": [
+      "Vienna"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Central Europe"
+    },
+    "Languages": [
+      "bar"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Autriche",
+        "OfficialName": "R\u00E9publique d\u0027Autriche"
+      },
+      "eng": {
+        "Name": "Austria",
+        "OfficialName": "Republic of Austria"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 47.33333333,
+      "Longitude": 13.33333333
+    },
+    "LandLocked": true,
+    "Borders": [
+      "CZE",
+      "DEU",
+      "HUN",
+      "ITA",
+      "LIE",
+      "SVK",
+      "SVN",
+      "CHE"
+    ],
+    "Area": 83871
+  },
+  {
+    "Code": "AZE",
+    "Capitals": [
+      "Baku"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Western Asia"
+    },
+    "Languages": [
+      "aze",
+      "rus"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Azerba\u00EFdjan",
+        "OfficialName": "R\u00E9publique d\u0027Azerba\u00EFdjan"
+      },
+      "eng": {
+        "Name": "Azerbaijan",
+        "OfficialName": "Republic of Azerbaijan"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 40.5,
+      "Longitude": 47.5
+    },
+    "LandLocked": true,
+    "Borders": [
+      "ARM",
+      "GEO",
+      "IRN",
+      "RUS",
+      "TUR"
+    ],
+    "Area": 86600
+  },
+  {
+    "Code": "BDI",
+    "Capitals": [
+      "Gitega"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Eastern Africa"
+    },
+    "Languages": [
+      "fra",
+      "run"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Burundi",
+        "OfficialName": "R\u00E9publique du Burundi"
+      },
+      "eng": {
+        "Name": "Burundi",
+        "OfficialName": "Republic of Burundi"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -3.5,
+      "Longitude": 30
+    },
+    "LandLocked": true,
+    "Borders": [
+      "COD",
+      "RWA",
+      "TZA"
+    ],
+    "Area": 27834
+  },
+  {
+    "Code": "BEL",
+    "Capitals": [
+      "Brussels"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Western Europe"
+    },
+    "Languages": [
+      "deu",
+      "fra",
+      "nld"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Belgique",
+        "OfficialName": "Royaume de Belgique"
+      },
+      "eng": {
+        "Name": "Belgium",
+        "OfficialName": "Kingdom of Belgium"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 50.83333333,
+      "Longitude": 4
+    },
+    "LandLocked": false,
+    "Borders": [
+      "FRA",
+      "DEU",
+      "LUX",
+      "NLD"
+    ],
+    "Area": 30528
+  },
+  {
+    "Code": "BEN",
+    "Capitals": [
+      "Porto-Novo"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Western Africa"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "B\u00E9nin",
+        "OfficialName": "R\u00E9publique du B\u00E9nin"
+      },
+      "eng": {
+        "Name": "Benin",
+        "OfficialName": "Republic of Benin"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 9.5,
+      "Longitude": 2.25
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BFA",
+      "NER",
+      "NGA",
+      "TGO"
+    ],
+    "Area": 112622
+  },
+  {
+    "Code": "BFA",
+    "Capitals": [
+      "Ouagadougou"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Western Africa"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Burkina Faso",
+        "OfficialName": "R\u00E9publique du Burkina"
+      },
+      "eng": {
+        "Name": "Burkina Faso",
+        "OfficialName": "Burkina Faso"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 13,
+      "Longitude": -2
+    },
+    "LandLocked": true,
+    "Borders": [
+      "BEN",
+      "CIV",
+      "GHA",
+      "MLI",
+      "NER",
+      "TGO"
+    ],
+    "Area": 272967
+  },
+  {
+    "Code": "BGD",
+    "Capitals": [
+      "Dhaka"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Southern Asia"
+    },
+    "Languages": [
+      "ben"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Bangladesh",
+        "OfficialName": "La R\u00E9publique populaire du Bangladesh"
+      },
+      "eng": {
+        "Name": "Bangladesh",
+        "OfficialName": "People\u0027s Republic of Bangladesh"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 24,
+      "Longitude": 90
+    },
+    "LandLocked": false,
+    "Borders": [
+      "MMR",
+      "IND"
+    ],
+    "Area": 147570
+  },
+  {
+    "Code": "BGR",
+    "Capitals": [
+      "Sofia"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Southeast Europe"
+    },
+    "Languages": [
+      "bul"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Bulgarie",
+        "OfficialName": "R\u00E9publique de Bulgarie"
+      },
+      "eng": {
+        "Name": "Bulgaria",
+        "OfficialName": "Republic of Bulgaria"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 43,
+      "Longitude": 25
+    },
+    "LandLocked": false,
+    "Borders": [
+      "GRC",
+      "MKD",
+      "ROU",
+      "SRB",
+      "TUR"
+    ],
+    "Area": 110879
+  },
+  {
+    "Code": "BHR",
+    "Capitals": [
+      "Manama"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Western Asia"
+    },
+    "Languages": [
+      "ara"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Bahre\u00EFn",
+        "OfficialName": "Royaume de Bahre\u00EFn"
+      },
+      "eng": {
+        "Name": "Bahrain",
+        "OfficialName": "Kingdom of Bahrain"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 26,
+      "Longitude": 50.55
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 765
+  },
+  {
+    "Code": "BHS",
+    "Capitals": [
+      "Nassau"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Bahamas",
+        "OfficialName": "Commonwealth des Bahamas"
+      },
+      "eng": {
+        "Name": "Bahamas",
+        "OfficialName": "Commonwealth of the Bahamas"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 24.25,
+      "Longitude": -76
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 13943
+  },
+  {
+    "Code": "BIH",
+    "Capitals": [
+      "Sarajevo"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Southeast Europe"
+    },
+    "Languages": [
+      "bos",
+      "hrv",
+      "srp"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Bosnie-Herz\u00E9govine",
+        "OfficialName": "Bosnie-et-Herz\u00E9govine"
+      },
+      "eng": {
+        "Name": "Bosnia and Herzegovina",
+        "OfficialName": "Bosnia and Herzegovina"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 44,
+      "Longitude": 18
+    },
+    "LandLocked": false,
+    "Borders": [
+      "HRV",
+      "MNE",
+      "SRB"
+    ],
+    "Area": 51209
+  },
+  {
+    "Code": "BLM",
+    "Capitals": [
+      "Gustavia"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Saint-Barth\u00E9lemy",
+        "OfficialName": "Collectivit\u00E9 de Saint-Barth\u00E9lemy"
+      },
+      "eng": {
+        "Name": "Saint Barth\u00E9lemy",
+        "OfficialName": "Collectivity of Saint Barth\u00E9lemy"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 18.5,
+      "Longitude": -63.41666666
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 21
+  },
+  {
+    "Code": "SHN",
+    "Capitals": [
+      "Jamestown"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Western Africa"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Sainte-H\u00E9l\u00E8ne, Ascension et Tristan da Cunha",
+        "OfficialName": "Sainte-H\u00E9l\u00E8ne, Ascension et Tristan da Cunha"
+      },
+      "eng": {
+        "Name": "Saint Helena, Ascension and Tristan da Cunha",
+        "OfficialName": "Saint Helena, Ascension and Tristan da Cunha"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -15.95,
+      "Longitude": -5.72
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 394
+  },
+  {
+    "Code": "BLR",
+    "Capitals": [
+      "Minsk"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Eastern Europe"
+    },
+    "Languages": [
+      "bel",
+      "rus"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Bi\u00E9lorussie",
+        "OfficialName": "R\u00E9publique de Bi\u00E9lorussie"
+      },
+      "eng": {
+        "Name": "Belarus",
+        "OfficialName": "Republic of Belarus"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 53,
+      "Longitude": 28
+    },
+    "LandLocked": true,
+    "Borders": [
+      "LVA",
+      "LTU",
+      "POL",
+      "RUS",
+      "UKR"
+    ],
+    "Area": 207600
+  },
+  {
+    "Code": "BLZ",
+    "Capitals": [
+      "Belmopan"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Central America"
+    },
+    "Languages": [
+      "bjz",
+      "eng",
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Belize",
+        "OfficialName": "Belize"
+      },
+      "eng": {
+        "Name": "Belize",
+        "OfficialName": "Belize"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 17.25,
+      "Longitude": -88.75
+    },
+    "LandLocked": false,
+    "Borders": [
+      "GTM",
+      "MEX"
+    ],
+    "Area": 22966
+  },
+  {
+    "Code": "BMU",
+    "Capitals": [
+      "Hamilton"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "North America"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Bermudes",
+        "OfficialName": "Bermudes"
+      },
+      "eng": {
+        "Name": "Bermuda",
+        "OfficialName": "Bermuda"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 32.33333333,
+      "Longitude": -64.75
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 54
+  },
+  {
+    "Code": "BOL",
+    "Capitals": [
+      "Sucre"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "South America"
+    },
+    "Languages": [
+      "aym",
+      "grn",
+      "que",
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Bolivie",
+        "OfficialName": "\u00C9tat plurinational de Bolivie"
+      },
+      "eng": {
+        "Name": "Bolivia",
+        "OfficialName": "Plurinational State of Bolivia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -17,
+      "Longitude": -65
+    },
+    "LandLocked": true,
+    "Borders": [
+      "ARG",
+      "BRA",
+      "CHL",
+      "PRY",
+      "PER"
+    ],
+    "Area": 1098581
+  },
+  {
+    "Code": "BES",
+    "Capitals": [
+      "Kralendijk",
+      "Oranjestad",
+      "The Bottom"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "eng",
+      "nld",
+      "pap"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Pays-Bas carib\u00E9ens",
+        "OfficialName": "Bonaire, Saint-Eustache et Saba"
+      },
+      "eng": {
+        "Name": "Caribbean Netherlands",
+        "OfficialName": "Bonaire, Sint Eustatius and Saba"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 12.18,
+      "Longitude": -68.25
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 328
+  },
+  {
+    "Code": "BRA",
+    "Capitals": [
+      "Bras\u00EDlia"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "South America"
+    },
+    "Languages": [
+      "por"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Br\u00E9sil",
+        "OfficialName": "R\u00E9publique f\u00E9d\u00E9rative du Br\u00E9sil"
+      },
+      "eng": {
+        "Name": "Brazil",
+        "OfficialName": "Federative Republic of Brazil"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -10,
+      "Longitude": -55
+    },
+    "LandLocked": false,
+    "Borders": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ],
+    "Area": 8515767
+  },
+  {
+    "Code": "BRB",
+    "Capitals": [
+      "Bridgetown"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Barbade",
+        "OfficialName": "Barbade"
+      },
+      "eng": {
+        "Name": "Barbados",
+        "OfficialName": "Barbados"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 13.16666666,
+      "Longitude": -59.53333333
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 430
+  },
+  {
+    "Code": "BRN",
+    "Capitals": [
+      "Bandar Seri Begawan"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "South-Eastern Asia"
+    },
+    "Languages": [
+      "msa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Brunei",
+        "OfficialName": "\u00C9tat de Brunei Darussalam"
+      },
+      "eng": {
+        "Name": "Brunei",
+        "OfficialName": "Nation of Brunei, Abode of Peace"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 4.5,
+      "Longitude": 114.66666666
+    },
+    "LandLocked": false,
+    "Borders": [
+      "MYS"
+    ],
+    "Area": 5765
+  },
+  {
+    "Code": "BTN",
+    "Capitals": [
+      "Thimphu"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Southern Asia"
+    },
+    "Languages": [
+      "dzo"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Bhoutan",
+        "OfficialName": "Royaume du Bhoutan"
+      },
+      "eng": {
+        "Name": "Bhutan",
+        "OfficialName": "Kingdom of Bhutan"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 27.5,
+      "Longitude": 90.5
+    },
+    "LandLocked": true,
+    "Borders": [
+      "CHN",
+      "IND"
+    ],
+    "Area": 38394
+  },
+  {
+    "Code": "BVT",
+    "Capitals": [],
+    "Location": {
+      "Region": "Antarctic",
+      "SubRegion": ""
+    },
+    "Languages": [
+      "nor"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00CEle Bouvet",
+        "OfficialName": "\u00CEle Bouvet"
+      },
+      "eng": {
+        "Name": "Bouvet Island",
+        "OfficialName": "Bouvet Island"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -54.43333333,
+      "Longitude": 3.4
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 49
+  },
+  {
+    "Code": "BWA",
+    "Capitals": [
+      "Gaborone"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Southern Africa"
+    },
+    "Languages": [
+      "eng",
+      "tsn"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Botswana",
+        "OfficialName": "R\u00E9publique du Botswana"
+      },
+      "eng": {
+        "Name": "Botswana",
+        "OfficialName": "Republic of Botswana"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -22,
+      "Longitude": 24
+    },
+    "LandLocked": true,
+    "Borders": [
+      "NAM",
+      "ZAF",
+      "ZMB",
+      "ZWE"
+    ],
+    "Area": 582000
+  },
+  {
+    "Code": "CAF",
+    "Capitals": [
+      "Bangui"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Middle Africa"
+    },
+    "Languages": [
+      "fra",
+      "sag"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "R\u00E9publique centrafricaine",
+        "OfficialName": "R\u00E9publique centrafricaine"
+      },
+      "eng": {
+        "Name": "Central African Republic",
+        "OfficialName": "Central African Republic"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 7,
+      "Longitude": 21
+    },
+    "LandLocked": true,
+    "Borders": [
+      "CMR",
+      "TCD",
+      "COD",
+      "COG",
+      "SSD",
+      "SDN"
+    ],
+    "Area": 622984
+  },
+  {
+    "Code": "CAN",
+    "Capitals": [
+      "Ottawa"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "North America"
+    },
+    "Languages": [
+      "eng",
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Canada",
+        "OfficialName": "Canada"
+      },
+      "eng": {
+        "Name": "Canada",
+        "OfficialName": "Canada"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 60,
+      "Longitude": -95
+    },
+    "LandLocked": false,
+    "Borders": [
+      "USA"
+    ],
+    "Area": 9984670
+  },
+  {
+    "Code": "CCK",
+    "Capitals": [
+      "West Island"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Australia and New Zealand"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00CEles Cocos",
+        "OfficialName": "Territoire des \u00EEles Cocos (Keeling)"
+      },
+      "eng": {
+        "Name": "Cocos (Keeling) Islands",
+        "OfficialName": "Territory of the Cocos (Keeling) Islands"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -12.5,
+      "Longitude": 96.83333333
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 14
+  },
+  {
+    "Code": "CHE",
+    "Capitals": [
+      "Bern"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Western Europe"
+    },
+    "Languages": [
+      "fra",
+      "gsw",
+      "ita",
+      "roh"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Suisse",
+        "OfficialName": "Conf\u00E9d\u00E9ration suisse"
+      },
+      "eng": {
+        "Name": "Switzerland",
+        "OfficialName": "Swiss Confederation"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 47,
+      "Longitude": 8
+    },
+    "LandLocked": true,
+    "Borders": [
+      "AUT",
+      "FRA",
+      "ITA",
+      "LIE",
+      "DEU"
+    ],
+    "Area": 41284
+  },
+  {
+    "Code": "CHL",
+    "Capitals": [
+      "Santiago"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "South America"
+    },
+    "Languages": [
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Chili",
+        "OfficialName": "R\u00E9publique du Chili"
+      },
+      "eng": {
+        "Name": "Chile",
+        "OfficialName": "Republic of Chile"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -30,
+      "Longitude": -71
+    },
+    "LandLocked": false,
+    "Borders": [
+      "ARG",
+      "BOL",
+      "PER"
+    ],
+    "Area": 756102
+  },
+  {
+    "Code": "CHN",
+    "Capitals": [
+      "Beijing"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Eastern Asia"
+    },
+    "Languages": [
+      "zho"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Chine",
+        "OfficialName": "R\u00E9publique populaire de Chine"
+      },
+      "eng": {
+        "Name": "China",
+        "OfficialName": "People\u0027s Republic of China"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 35,
+      "Longitude": 105
+    },
+    "LandLocked": false,
+    "Borders": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "NPL",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "Area": 9706961
+  },
+  {
+    "Code": "CIV",
+    "Capitals": [
+      "Yamoussoukro"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Western Africa"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "C\u00F4te d\u0027Ivoire",
+        "OfficialName": "R\u00E9publique de C\u00F4te d\u0027 Ivoire"
+      },
+      "eng": {
+        "Name": "Ivory Coast",
+        "OfficialName": "Republic of C\u00F4te d\u0027Ivoire"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 8,
+      "Longitude": -5
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BFA",
+      "GHA",
+      "GIN",
+      "LBR",
+      "MLI"
+    ],
+    "Area": 322463
+  },
+  {
+    "Code": "CMR",
+    "Capitals": [
+      "Yaound\u00E9"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Middle Africa"
+    },
+    "Languages": [
+      "eng",
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Cameroun",
+        "OfficialName": "R\u00E9publique du Cameroun"
+      },
+      "eng": {
+        "Name": "Cameroon",
+        "OfficialName": "Republic of Cameroon"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 6,
+      "Longitude": 12
+    },
+    "LandLocked": false,
+    "Borders": [
+      "CAF",
+      "TCD",
+      "COG",
+      "GNQ",
+      "GAB",
+      "NGA"
+    ],
+    "Area": 475442
+  },
+  {
+    "Code": "COD",
+    "Capitals": [
+      "Kinshasa"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Middle Africa"
+    },
+    "Languages": [
+      "fra",
+      "kon",
+      "lin",
+      "lua",
+      "swa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Congo (R\u00E9p. d\u00E9m.)",
+        "OfficialName": "R\u00E9publique d\u00E9mocratique du Congo"
+      },
+      "eng": {
+        "Name": "DR Congo",
+        "OfficialName": "Democratic Republic of the Congo"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 0,
+      "Longitude": 25
+    },
+    "LandLocked": false,
+    "Borders": [
+      "AGO",
+      "BDI",
+      "CAF",
+      "COG",
+      "RWA",
+      "SSD",
+      "TZA",
+      "UGA",
+      "ZMB"
+    ],
+    "Area": 2344858
+  },
+  {
+    "Code": "COG",
+    "Capitals": [
+      "Brazzaville"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Middle Africa"
+    },
+    "Languages": [
+      "fra",
+      "kon",
+      "lin"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Congo",
+        "OfficialName": "R\u00E9publique du Congo"
+      },
+      "eng": {
+        "Name": "Republic of the Congo",
+        "OfficialName": "Republic of the Congo"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -1,
+      "Longitude": 15
+    },
+    "LandLocked": false,
+    "Borders": [
+      "AGO",
+      "CMR",
+      "CAF",
+      "COD",
+      "GAB"
+    ],
+    "Area": 342000
+  },
+  {
+    "Code": "COK",
+    "Capitals": [
+      "Avarua"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Polynesia"
+    },
+    "Languages": [
+      "eng",
+      "rar"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00CEles Cook",
+        "OfficialName": "\u00CEles Cook"
+      },
+      "eng": {
+        "Name": "Cook Islands",
+        "OfficialName": "Cook Islands"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -21.23333333,
+      "Longitude": -159.76666666
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 236
+  },
+  {
+    "Code": "COL",
+    "Capitals": [
+      "Bogot\u00E1"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "South America"
+    },
+    "Languages": [
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Colombie",
+        "OfficialName": "R\u00E9publique de Colombie"
+      },
+      "eng": {
+        "Name": "Colombia",
+        "OfficialName": "Republic of Colombia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 4,
+      "Longitude": -72
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BRA",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "Area": 1141748
+  },
+  {
+    "Code": "COM",
+    "Capitals": [
+      "Moroni"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Eastern Africa"
+    },
+    "Languages": [
+      "ara",
+      "fra",
+      "zdj"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Comores",
+        "OfficialName": "Union des Comores"
+      },
+      "eng": {
+        "Name": "Comoros",
+        "OfficialName": "Union of the Comoros"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -12.16666666,
+      "Longitude": 44.25
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 1862
+  },
+  {
+    "Code": "CPV",
+    "Capitals": [
+      "Praia"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Western Africa"
+    },
+    "Languages": [
+      "por"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00CEles du Cap-Vert",
+        "OfficialName": "R\u00E9publique du Cap-Vert"
+      },
+      "eng": {
+        "Name": "Cape Verde",
+        "OfficialName": "Republic of Cabo Verde"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 16,
+      "Longitude": -24
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 4033
+  },
+  {
+    "Code": "CRI",
+    "Capitals": [
+      "San Jos\u00E9"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Central America"
+    },
+    "Languages": [
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Costa Rica",
+        "OfficialName": "R\u00E9publique du Costa Rica"
+      },
+      "eng": {
+        "Name": "Costa Rica",
+        "OfficialName": "Republic of Costa Rica"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 10,
+      "Longitude": -84
+    },
+    "LandLocked": false,
+    "Borders": [
+      "NIC",
+      "PAN"
+    ],
+    "Area": 51100
+  },
+  {
+    "Code": "CUB",
+    "Capitals": [
+      "Havana"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Cuba",
+        "OfficialName": "R\u00E9publique de Cuba"
+      },
+      "eng": {
+        "Name": "Cuba",
+        "OfficialName": "Republic of Cuba"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 21.5,
+      "Longitude": -80
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 109884
+  },
+  {
+    "Code": "CUW",
+    "Capitals": [
+      "Willemstad"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "eng",
+      "nld",
+      "pap"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Cura\u00E7ao",
+        "OfficialName": "Pays de Cura\u00E7ao"
+      },
+      "eng": {
+        "Name": "Cura\u00E7ao",
+        "OfficialName": "Country of Cura\u00E7ao"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 12.116667,
+      "Longitude": -68.933333
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 444
+  },
+  {
+    "Code": "CXR",
+    "Capitals": [
+      "Flying Fish Cove"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Australia and New Zealand"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00CEle Christmas",
+        "OfficialName": "Territoire de l\u0027\u00EEle Christmas"
+      },
+      "eng": {
+        "Name": "Christmas Island",
+        "OfficialName": "Territory of Christmas Island"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -10.5,
+      "Longitude": 105.66666666
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 135
+  },
+  {
+    "Code": "CYM",
+    "Capitals": [
+      "George Town"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00CEles Ca\u00EFmans",
+        "OfficialName": "\u00CEles Ca\u00EFmans"
+      },
+      "eng": {
+        "Name": "Cayman Islands",
+        "OfficialName": "Cayman Islands"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 19.5,
+      "Longitude": -80.5
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 264
+  },
+  {
+    "Code": "CYP",
+    "Capitals": [
+      "Nicosia"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Southern Europe"
+    },
+    "Languages": [
+      "ell",
+      "tur"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Chypre",
+        "OfficialName": "R\u00E9publique de Chypre"
+      },
+      "eng": {
+        "Name": "Cyprus",
+        "OfficialName": "Republic of Cyprus"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 35,
+      "Longitude": 33
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 9251
+  },
+  {
+    "Code": "CZE",
+    "Capitals": [
+      "Prague"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Central Europe"
+    },
+    "Languages": [
+      "ces",
+      "slk"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Tch\u00E9quie",
+        "OfficialName": "R\u00E9publique tch\u00E8que"
+      },
+      "eng": {
+        "Name": "Czechia",
+        "OfficialName": "Czech Republic"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 49.75,
+      "Longitude": 15.5
+    },
+    "LandLocked": true,
+    "Borders": [
+      "AUT",
+      "DEU",
+      "POL",
+      "SVK"
+    ],
+    "Area": 78865
+  },
+  {
+    "Code": "DEU",
+    "Capitals": [
+      "Berlin"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Western Europe"
+    },
+    "Languages": [
+      "deu"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Allemagne",
+        "OfficialName": "R\u00E9publique f\u00E9d\u00E9rale d\u0027Allemagne"
+      },
+      "eng": {
+        "Name": "Germany",
+        "OfficialName": "Federal Republic of Germany"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 51,
+      "Longitude": 9
+    },
+    "LandLocked": false,
+    "Borders": [
+      "AUT",
+      "BEL",
+      "CZE",
+      "DNK",
+      "FRA",
+      "LUX",
+      "NLD",
+      "POL",
+      "CHE"
+    ],
+    "Area": 357114
+  },
+  {
+    "Code": "DJI",
+    "Capitals": [
+      "Djibouti"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Eastern Africa"
+    },
+    "Languages": [
+      "ara",
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Djibouti",
+        "OfficialName": "R\u00E9publique de Djibouti"
+      },
+      "eng": {
+        "Name": "Djibouti",
+        "OfficialName": "Republic of Djibouti"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 11.5,
+      "Longitude": 43
+    },
+    "LandLocked": false,
+    "Borders": [
+      "ERI",
+      "ETH",
+      "SOM"
+    ],
+    "Area": 23200
+  },
+  {
+    "Code": "DMA",
+    "Capitals": [
+      "Roseau"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Dominique",
+        "OfficialName": "Commonwealth de la Dominique"
+      },
+      "eng": {
+        "Name": "Dominica",
+        "OfficialName": "Commonwealth of Dominica"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 15.41666666,
+      "Longitude": -61.33333333
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 751
+  },
+  {
+    "Code": "DNK",
+    "Capitals": [
+      "Copenhagen"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Northern Europe"
+    },
+    "Languages": [
+      "dan"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Danemark",
+        "OfficialName": "Royaume du Danemark"
+      },
+      "eng": {
+        "Name": "Denmark",
+        "OfficialName": "Kingdom of Denmark"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 56,
+      "Longitude": 10
+    },
+    "LandLocked": false,
+    "Borders": [
+      "DEU"
+    ],
+    "Area": 43094
+  },
+  {
+    "Code": "DOM",
+    "Capitals": [
+      "Santo Domingo"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "R\u00E9publique dominicaine",
+        "OfficialName": "R\u00E9publique Dominicaine"
+      },
+      "eng": {
+        "Name": "Dominican Republic",
+        "OfficialName": "Dominican Republic"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 19,
+      "Longitude": -70.66666666
+    },
+    "LandLocked": false,
+    "Borders": [
+      "HTI"
+    ],
+    "Area": 48671
+  },
+  {
+    "Code": "DZA",
+    "Capitals": [
+      "Algiers"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Northern Africa"
+    },
+    "Languages": [
+      "ara"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Alg\u00E9rie",
+        "OfficialName": "R\u00E9publique d\u00E9mocratique et populaire d\u0027Alg\u00E9rie"
+      },
+      "eng": {
+        "Name": "Algeria",
+        "OfficialName": "People\u0027s Democratic Republic of Algeria"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 28,
+      "Longitude": 3
+    },
+    "LandLocked": false,
+    "Borders": [
+      "TUN",
+      "LBY",
+      "NER",
+      "ESH",
+      "MRT",
+      "MLI",
+      "MAR"
+    ],
+    "Area": 2381741
+  },
+  {
+    "Code": "ECU",
+    "Capitals": [
+      "Quito"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "South America"
+    },
+    "Languages": [
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00C9quateur",
+        "OfficialName": "R\u00E9publique de l\u0027\u00C9quateur"
+      },
+      "eng": {
+        "Name": "Ecuador",
+        "OfficialName": "Republic of Ecuador"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -2,
+      "Longitude": -77.5
+    },
+    "LandLocked": false,
+    "Borders": [
+      "COL",
+      "PER"
+    ],
+    "Area": 276841
+  },
+  {
+    "Code": "EGY",
+    "Capitals": [
+      "Cairo"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Northern Africa"
+    },
+    "Languages": [
+      "ara"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00C9gypte",
+        "OfficialName": "R\u00E9publique arabe d\u0027\u00C9gypte"
+      },
+      "eng": {
+        "Name": "Egypt",
+        "OfficialName": "Arab Republic of Egypt"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 27,
+      "Longitude": 30
+    },
+    "LandLocked": false,
+    "Borders": [
+      "ISR",
+      "LBY",
+      "PSE",
+      "SDN"
+    ],
+    "Area": 1002450
+  },
+  {
+    "Code": "ERI",
+    "Capitals": [
+      "Asmara"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Eastern Africa"
+    },
+    "Languages": [
+      "ara",
+      "eng",
+      "tir"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00C9rythr\u00E9e",
+        "OfficialName": "\u00C9tat d\u0027\u00C9rythr\u00E9e"
+      },
+      "eng": {
+        "Name": "Eritrea",
+        "OfficialName": "State of Eritrea"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 15,
+      "Longitude": 39
+    },
+    "LandLocked": false,
+    "Borders": [
+      "DJI",
+      "ETH",
+      "SDN"
+    ],
+    "Area": 117600
+  },
+  {
+    "Code": "ESH",
+    "Capitals": [
+      "El Aai\u00FAn"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Northern Africa"
+    },
+    "Languages": [
+      "ber",
+      "mey",
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Sahara Occidental",
+        "OfficialName": "R\u00E9publique arabe sahraouie d\u00E9mocratique"
+      },
+      "eng": {
+        "Name": "Western Sahara",
+        "OfficialName": "Sahrawi Arab Democratic Republic"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 24.5,
+      "Longitude": -13
+    },
+    "LandLocked": false,
+    "Borders": [
+      "DZA",
+      "MRT",
+      "MAR"
+    ],
+    "Area": 266000
+  },
+  {
+    "Code": "ESP",
+    "Capitals": [
+      "Madrid"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Southern Europe"
+    },
+    "Languages": [
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Espagne",
+        "OfficialName": "Royaume d\u0027Espagne"
+      },
+      "eng": {
+        "Name": "Spain",
+        "OfficialName": "Kingdom of Spain"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 40,
+      "Longitude": -4
+    },
+    "LandLocked": false,
+    "Borders": [
+      "AND",
+      "FRA",
+      "GIB",
+      "PRT",
+      "MAR"
+    ],
+    "Area": 505992
+  },
+  {
+    "Code": "EST",
+    "Capitals": [
+      "Tallinn"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Northern Europe"
+    },
+    "Languages": [
+      "est"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Estonie",
+        "OfficialName": "R\u00E9publique d\u0027Estonie"
+      },
+      "eng": {
+        "Name": "Estonia",
+        "OfficialName": "Republic of Estonia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 59,
+      "Longitude": 26
+    },
+    "LandLocked": false,
+    "Borders": [
+      "LVA",
+      "RUS"
+    ],
+    "Area": 45227
+  },
+  {
+    "Code": "ETH",
+    "Capitals": [
+      "Addis Ababa"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Eastern Africa"
+    },
+    "Languages": [
+      "amh"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00C9thiopie",
+        "OfficialName": "R\u00E9publique f\u00E9d\u00E9rale d\u00E9mocratique d\u0027\u00C9thiopie"
+      },
+      "eng": {
+        "Name": "Ethiopia",
+        "OfficialName": "Federal Democratic Republic of Ethiopia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 8,
+      "Longitude": 38
+    },
+    "LandLocked": true,
+    "Borders": [
+      "DJI",
+      "ERI",
+      "KEN",
+      "SOM",
+      "SSD",
+      "SDN"
+    ],
+    "Area": 1104300
+  },
+  {
+    "Code": "FIN",
+    "Capitals": [
+      "Helsinki"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Northern Europe"
+    },
+    "Languages": [
+      "fin",
+      "swe"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Finlande",
+        "OfficialName": "R\u00E9publique de Finlande"
+      },
+      "eng": {
+        "Name": "Finland",
+        "OfficialName": "Republic of Finland"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 64,
+      "Longitude": 26
+    },
+    "LandLocked": false,
+    "Borders": [
+      "NOR",
+      "SWE",
+      "RUS"
+    ],
+    "Area": 338424
+  },
+  {
+    "Code": "FJI",
+    "Capitals": [
+      "Suva"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Melanesia"
+    },
+    "Languages": [
+      "eng",
+      "fij",
+      "hif"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Fidji",
+        "OfficialName": "R\u00E9publique des Fidji"
+      },
+      "eng": {
+        "Name": "Fiji",
+        "OfficialName": "Republic of Fiji"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -18,
+      "Longitude": 175
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 18272
+  },
+  {
+    "Code": "FLK",
+    "Capitals": [
+      "Stanley"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "South America"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00CEles Malouines",
+        "OfficialName": "\u00CEles Malouines"
+      },
+      "eng": {
+        "Name": "Falkland Islands",
+        "OfficialName": "Falkland Islands"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -51.75,
+      "Longitude": -59
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 12173
+  },
+  {
+    "Code": "FRA",
+    "Capitals": [
+      "Paris"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Western Europe"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "France",
+        "OfficialName": "R\u00E9publique fran\u00E7aise"
+      },
+      "eng": {
+        "Name": "France",
+        "OfficialName": "French Republic"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 46,
+      "Longitude": 2
+    },
+    "LandLocked": false,
+    "Borders": [
+      "AND",
+      "BEL",
+      "DEU",
+      "ITA",
+      "LUX",
+      "MCO",
+      "ESP",
+      "CHE"
+    ],
+    "Area": 551695
+  },
+  {
+    "Code": "FRO",
+    "Capitals": [
+      "T\u00F3rshavn"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Northern Europe"
+    },
+    "Languages": [
+      "dan",
+      "fao"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00CEles F\u00E9ro\u00E9",
+        "OfficialName": "\u00CEles F\u00E9ro\u00E9"
+      },
+      "eng": {
+        "Name": "Faroe Islands",
+        "OfficialName": "Faroe Islands"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 62,
+      "Longitude": -7
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 1393
+  },
+  {
+    "Code": "FSM",
+    "Capitals": [
+      "Palikir"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Micronesia"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Micron\u00E9sie",
+        "OfficialName": "\u00C9tats f\u00E9d\u00E9r\u00E9s de Micron\u00E9sie"
+      },
+      "eng": {
+        "Name": "Micronesia",
+        "OfficialName": "Federated States of Micronesia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 6.91666666,
+      "Longitude": 158.25
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 702
+  },
+  {
+    "Code": "GAB",
+    "Capitals": [
+      "Libreville"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Middle Africa"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Gabon",
+        "OfficialName": "R\u00E9publique gabonaise"
+      },
+      "eng": {
+        "Name": "Gabon",
+        "OfficialName": "Gabonese Republic"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -1,
+      "Longitude": 11.75
+    },
+    "LandLocked": false,
+    "Borders": [
+      "CMR",
+      "COG",
+      "GNQ"
+    ],
+    "Area": 267668
+  },
+  {
+    "Code": "GBR",
+    "Capitals": [
+      "London"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Northern Europe"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Royaume-Uni",
+        "OfficialName": "Royaume-Uni de Grande-Bretagne et d\u0027Irlande du Nord"
+      },
+      "eng": {
+        "Name": "United Kingdom",
+        "OfficialName": "United Kingdom of Great Britain and Northern Ireland"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 54,
+      "Longitude": -2
+    },
+    "LandLocked": false,
+    "Borders": [
+      "IRL"
+    ],
+    "Area": 242900
+  },
+  {
+    "Code": "GEO",
+    "Capitals": [
+      "Tbilisi"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Western Asia"
+    },
+    "Languages": [
+      "kat"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "G\u00E9orgie",
+        "OfficialName": "R\u00E9publique de G\u00E9orgie"
+      },
+      "eng": {
+        "Name": "Georgia",
+        "OfficialName": "Georgia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 42,
+      "Longitude": 43.5
+    },
+    "LandLocked": false,
+    "Borders": [
+      "ARM",
+      "AZE",
+      "RUS",
+      "TUR"
+    ],
+    "Area": 69700
+  },
+  {
+    "Code": "GGY",
+    "Capitals": [
+      "St. Peter Port"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Northern Europe"
+    },
+    "Languages": [
+      "eng",
+      "fra",
+      "nfr"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Guernesey",
+        "OfficialName": "Bailliage de Guernesey"
+      },
+      "eng": {
+        "Name": "Guernsey",
+        "OfficialName": "Bailiwick of Guernsey"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 49.46666666,
+      "Longitude": -2.58333333
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 78
+  },
+  {
+    "Code": "GHA",
+    "Capitals": [
+      "Accra"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Western Africa"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Ghana",
+        "OfficialName": "R\u00E9publique du Ghana"
+      },
+      "eng": {
+        "Name": "Ghana",
+        "OfficialName": "Republic of Ghana"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 8,
+      "Longitude": -2
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BFA",
+      "CIV",
+      "TGO"
+    ],
+    "Area": 238533
+  },
+  {
+    "Code": "GIB",
+    "Capitals": [
+      "Gibraltar"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Southern Europe"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Gibraltar",
+        "OfficialName": "Gibraltar"
+      },
+      "eng": {
+        "Name": "Gibraltar",
+        "OfficialName": "Gibraltar"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 36.13333333,
+      "Longitude": -5.35
+    },
+    "LandLocked": false,
+    "Borders": [
+      "ESP"
+    ],
+    "Area": 6
+  },
+  {
+    "Code": "GIN",
+    "Capitals": [
+      "Conakry"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Western Africa"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Guin\u00E9e",
+        "OfficialName": "R\u00E9publique de Guin\u00E9e"
+      },
+      "eng": {
+        "Name": "Guinea",
+        "OfficialName": "Republic of Guinea"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 11,
+      "Longitude": -10
+    },
+    "LandLocked": false,
+    "Borders": [
+      "CIV",
+      "GNB",
+      "LBR",
+      "MLI",
+      "SEN",
+      "SLE"
+    ],
+    "Area": 245857
+  },
+  {
+    "Code": "GLP",
+    "Capitals": [
+      "Basse-Terre"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Guadeloupe",
+        "OfficialName": "Guadeloupe"
+      },
+      "eng": {
+        "Name": "Guadeloupe",
+        "OfficialName": "Guadeloupe"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 16.25,
+      "Longitude": -61.583333
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 1628
+  },
+  {
+    "Code": "GMB",
+    "Capitals": [
+      "Banjul"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Western Africa"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Gambie",
+        "OfficialName": "R\u00E9publique de Gambie"
+      },
+      "eng": {
+        "Name": "Gambia",
+        "OfficialName": "Republic of the Gambia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 13.46666666,
+      "Longitude": -16.56666666
+    },
+    "LandLocked": false,
+    "Borders": [
+      "SEN"
+    ],
+    "Area": 10689
+  },
+  {
+    "Code": "GNB",
+    "Capitals": [
+      "Bissau"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Western Africa"
+    },
+    "Languages": [
+      "por",
+      "pov"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Guin\u00E9e-Bissau",
+        "OfficialName": "R\u00E9publique de Guin\u00E9e-Bissau"
+      },
+      "eng": {
+        "Name": "Guinea-Bissau",
+        "OfficialName": "Republic of Guinea-Bissau"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 12,
+      "Longitude": -15
+    },
+    "LandLocked": false,
+    "Borders": [
+      "GIN",
+      "SEN"
+    ],
+    "Area": 36125
+  },
+  {
+    "Code": "GNQ",
+    "Capitals": [
+      "Malabo"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Middle Africa"
+    },
+    "Languages": [
+      "fra",
+      "por",
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Guin\u00E9e \u00E9quatoriale",
+        "OfficialName": "R\u00E9publique de Guin\u00E9e \u00E9quatoriale"
+      },
+      "eng": {
+        "Name": "Equatorial Guinea",
+        "OfficialName": "Republic of Equatorial Guinea"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 2,
+      "Longitude": 10
+    },
+    "LandLocked": false,
+    "Borders": [
+      "CMR",
+      "GAB"
+    ],
+    "Area": 28051
+  },
+  {
+    "Code": "GRC",
+    "Capitals": [
+      "Athens"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Southern Europe"
+    },
+    "Languages": [
+      "ell"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Gr\u00E8ce",
+        "OfficialName": "R\u00E9publique hell\u00E9nique"
+      },
+      "eng": {
+        "Name": "Greece",
+        "OfficialName": "Hellenic Republic"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 39,
+      "Longitude": 22
+    },
+    "LandLocked": false,
+    "Borders": [
+      "ALB",
+      "BGR",
+      "TUR",
+      "MKD"
+    ],
+    "Area": 131990
+  },
+  {
+    "Code": "GRD",
+    "Capitals": [
+      "St. George\u0027s"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Grenade",
+        "OfficialName": "Grenade"
+      },
+      "eng": {
+        "Name": "Grenada",
+        "OfficialName": "Grenada"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 12.11666666,
+      "Longitude": -61.66666666
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 344
+  },
+  {
+    "Code": "GRL",
+    "Capitals": [
+      "Nuuk"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "North America"
+    },
+    "Languages": [
+      "kal"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Groenland",
+        "OfficialName": "Groenland"
+      },
+      "eng": {
+        "Name": "Greenland",
+        "OfficialName": "Greenland"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 72,
+      "Longitude": -40
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 2166086
+  },
+  {
+    "Code": "GTM",
+    "Capitals": [
+      "Guatemala City"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Central America"
+    },
+    "Languages": [
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Guatemala",
+        "OfficialName": "R\u00E9publique du Guatemala"
+      },
+      "eng": {
+        "Name": "Guatemala",
+        "OfficialName": "Republic of Guatemala"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 15.5,
+      "Longitude": -90.25
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BLZ",
+      "SLV",
+      "HND",
+      "MEX"
+    ],
+    "Area": 108889
+  },
+  {
+    "Code": "GUF",
+    "Capitals": [
+      "Cayenne"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "South America"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Guyane",
+        "OfficialName": "Guyane"
+      },
+      "eng": {
+        "Name": "French Guiana",
+        "OfficialName": "Guiana"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 4,
+      "Longitude": -53
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BRA",
+      "SUR"
+    ],
+    "Area": 83534
+  },
+  {
+    "Code": "GUM",
+    "Capitals": [
+      "Hag\u00E5t\u00F1a"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Micronesia"
+    },
+    "Languages": [
+      "cha",
+      "eng",
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Guam",
+        "OfficialName": "Guam"
+      },
+      "eng": {
+        "Name": "Guam",
+        "OfficialName": "Guam"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 13.46666666,
+      "Longitude": 144.78333333
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 549
+  },
+  {
+    "Code": "GUY",
+    "Capitals": [
+      "Georgetown"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "South America"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Guyana",
+        "OfficialName": "R\u00E9publique coop\u00E9rative de Guyana"
+      },
+      "eng": {
+        "Name": "Guyana",
+        "OfficialName": "Co-operative Republic of Guyana"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 5,
+      "Longitude": -59
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BRA",
+      "SUR",
+      "VEN"
+    ],
+    "Area": 214969
+  },
+  {
+    "Code": "HKG",
+    "Capitals": [
+      "City of Victoria"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Eastern Asia"
+    },
+    "Languages": [
+      "eng",
+      "zho"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Hong Kong",
+        "OfficialName": "R\u00E9gion administrative sp\u00E9ciale de Hong Kong de la R\u00E9publique populaire de Chine"
+      },
+      "eng": {
+        "Name": "Hong Kong",
+        "OfficialName": "Hong Kong Special Administrative Region of the People\u0027s Republic of China"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 22.267,
+      "Longitude": 114.188
+    },
+    "LandLocked": false,
+    "Borders": [
+      "CHN"
+    ],
+    "Area": 1104
+  },
+  {
+    "Code": "HMD",
+    "Capitals": [],
+    "Location": {
+      "Region": "Antarctic",
+      "SubRegion": ""
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00CEles Heard-et-MacDonald",
+        "OfficialName": "\u00CEles Heard-et-MacDonald"
+      },
+      "eng": {
+        "Name": "Heard Island and McDonald Islands",
+        "OfficialName": "Heard Island and McDonald Islands"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -53.1,
+      "Longitude": 72.51666666
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 412
+  },
+  {
+    "Code": "HND",
+    "Capitals": [
+      "Tegucigalpa"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Central America"
+    },
+    "Languages": [
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Honduras",
+        "OfficialName": "R\u00E9publique du Honduras"
+      },
+      "eng": {
+        "Name": "Honduras",
+        "OfficialName": "Republic of Honduras"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 15,
+      "Longitude": -86.5
+    },
+    "LandLocked": false,
+    "Borders": [
+      "GTM",
+      "SLV",
+      "NIC"
+    ],
+    "Area": 112492
+  },
+  {
+    "Code": "HRV",
+    "Capitals": [
+      "Zagreb"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Southeast Europe"
+    },
+    "Languages": [
+      "hrv"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Croatie",
+        "OfficialName": "R\u00E9publique de Croatie"
+      },
+      "eng": {
+        "Name": "Croatia",
+        "OfficialName": "Republic of Croatia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 45.16666666,
+      "Longitude": 15.5
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BIH",
+      "HUN",
+      "MNE",
+      "SRB",
+      "SVN"
+    ],
+    "Area": 56594
+  },
+  {
+    "Code": "HTI",
+    "Capitals": [
+      "Port-au-Prince"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "fra",
+      "hat"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Ha\u00EFti",
+        "OfficialName": "R\u00E9publique d\u0027Ha\u00EFti"
+      },
+      "eng": {
+        "Name": "Haiti",
+        "OfficialName": "Republic of Haiti"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 19,
+      "Longitude": -72.41666666
+    },
+    "LandLocked": false,
+    "Borders": [
+      "DOM"
+    ],
+    "Area": 27750
+  },
+  {
+    "Code": "HUN",
+    "Capitals": [
+      "Budapest"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Central Europe"
+    },
+    "Languages": [
+      "hun"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Hongrie",
+        "OfficialName": "Hongrie"
+      },
+      "eng": {
+        "Name": "Hungary",
+        "OfficialName": "Hungary"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 47,
+      "Longitude": 20
+    },
+    "LandLocked": true,
+    "Borders": [
+      "AUT",
+      "HRV",
+      "ROU",
+      "SRB",
+      "SVK",
+      "SVN",
+      "UKR"
+    ],
+    "Area": 93028
+  },
+  {
+    "Code": "IDN",
+    "Capitals": [
+      "Jakarta"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "South-Eastern Asia"
+    },
+    "Languages": [
+      "ind"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Indon\u00E9sie",
+        "OfficialName": "R\u00E9publique d\u0027Indon\u00E9sie"
+      },
+      "eng": {
+        "Name": "Indonesia",
+        "OfficialName": "Republic of Indonesia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -5,
+      "Longitude": 120
+    },
+    "LandLocked": false,
+    "Borders": [
+      "TLS",
+      "MYS",
+      "PNG"
+    ],
+    "Area": 1904569
+  },
+  {
+    "Code": "IMN",
+    "Capitals": [
+      "Douglas"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Northern Europe"
+    },
+    "Languages": [
+      "eng",
+      "glv"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00CEle de Man",
+        "OfficialName": "Isle of Man"
+      },
+      "eng": {
+        "Name": "Isle of Man",
+        "OfficialName": "Isle of Man"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 54.25,
+      "Longitude": -4.5
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 572
+  },
+  {
+    "Code": "IND",
+    "Capitals": [
+      "New Delhi"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Southern Asia"
+    },
+    "Languages": [
+      "eng",
+      "hin",
+      "tam"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Inde",
+        "OfficialName": "R\u00E9publique de l\u0027Inde"
+      },
+      "eng": {
+        "Name": "India",
+        "OfficialName": "Republic of India"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 20,
+      "Longitude": 77
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BGD",
+      "BTN",
+      "MMR",
+      "CHN",
+      "NPL",
+      "PAK"
+    ],
+    "Area": 3287590
+  },
+  {
+    "Code": "IOT",
+    "Capitals": [
+      "Diego Garcia"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Eastern Africa"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Territoire britannique de l\u0027oc\u00E9an Indien",
+        "OfficialName": "Territoire britannique de l\u0027 oc\u00E9an Indien"
+      },
+      "eng": {
+        "Name": "British Indian Ocean Territory",
+        "OfficialName": "British Indian Ocean Territory"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -6,
+      "Longitude": 71.5
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 60
+  },
+  {
+    "Code": "IRL",
+    "Capitals": [
+      "Dublin"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Northern Europe"
+    },
+    "Languages": [
+      "eng",
+      "gle"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Irlande",
+        "OfficialName": "R\u00E9publique d\u0027Irlande"
+      },
+      "eng": {
+        "Name": "Ireland",
+        "OfficialName": "Republic of Ireland"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 53,
+      "Longitude": -8
+    },
+    "LandLocked": false,
+    "Borders": [
+      "GBR"
+    ],
+    "Area": 70273
+  },
+  {
+    "Code": "IRN",
+    "Capitals": [
+      "Tehran"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Southern Asia"
+    },
+    "Languages": [
+      "fas"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Iran",
+        "OfficialName": "R\u00E9publique islamique d\u0027Iran"
+      },
+      "eng": {
+        "Name": "Iran",
+        "OfficialName": "Islamic Republic of Iran"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 32,
+      "Longitude": 53
+    },
+    "LandLocked": false,
+    "Borders": [
+      "AFG",
+      "ARM",
+      "AZE",
+      "IRQ",
+      "PAK",
+      "TUR",
+      "TKM"
+    ],
+    "Area": 1648195
+  },
+  {
+    "Code": "IRQ",
+    "Capitals": [
+      "Baghdad"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Western Asia"
+    },
+    "Languages": [
+      "ara",
+      "arc",
+      "ckb"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Irak",
+        "OfficialName": "R\u00E9publique d\u0027Irak"
+      },
+      "eng": {
+        "Name": "Iraq",
+        "OfficialName": "Republic of Iraq"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 33,
+      "Longitude": 44
+    },
+    "LandLocked": false,
+    "Borders": [
+      "IRN",
+      "JOR",
+      "KWT",
+      "SAU",
+      "SYR",
+      "TUR"
+    ],
+    "Area": 438317
+  },
+  {
+    "Code": "ISL",
+    "Capitals": [
+      "Reykjavik"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Northern Europe"
+    },
+    "Languages": [
+      "isl"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Islande",
+        "OfficialName": "R\u00E9publique d\u0027Islande"
+      },
+      "eng": {
+        "Name": "Iceland",
+        "OfficialName": "Iceland"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 65,
+      "Longitude": -18
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 103000
+  },
+  {
+    "Code": "ISR",
+    "Capitals": [
+      "Jerusalem"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Western Asia"
+    },
+    "Languages": [
+      "ara",
+      "heb"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Isra\u00EBl",
+        "OfficialName": "\u00C9tat d\u0027Isra\u00EBl"
+      },
+      "eng": {
+        "Name": "Israel",
+        "OfficialName": "State of Israel"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 31.47,
+      "Longitude": 35.13
+    },
+    "LandLocked": false,
+    "Borders": [
+      "EGY",
+      "JOR",
+      "LBN",
+      "PSE",
+      "SYR"
+    ],
+    "Area": 20770
+  },
+  {
+    "Code": "ITA",
+    "Capitals": [
+      "Rome"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Southern Europe"
+    },
+    "Languages": [
+      "ita"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Italie",
+        "OfficialName": "R\u00E9publique italienne"
+      },
+      "eng": {
+        "Name": "Italy",
+        "OfficialName": "Italian Republic"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 42.83333333,
+      "Longitude": 12.83333333
+    },
+    "LandLocked": false,
+    "Borders": [
+      "AUT",
+      "FRA",
+      "SMR",
+      "SVN",
+      "CHE",
+      "VAT"
+    ],
+    "Area": 301336
+  },
+  {
+    "Code": "JAM",
+    "Capitals": [
+      "Kingston"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "eng",
+      "jam"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Jama\u00EFque",
+        "OfficialName": "Jama\u00EFque"
+      },
+      "eng": {
+        "Name": "Jamaica",
+        "OfficialName": "Jamaica"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 18.25,
+      "Longitude": -77.5
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 10991
+  },
+  {
+    "Code": "JEY",
+    "Capitals": [
+      "Saint Helier"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Northern Europe"
+    },
+    "Languages": [
+      "eng",
+      "fra",
+      "nrf"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Jersey",
+        "OfficialName": "Bailliage de Jersey"
+      },
+      "eng": {
+        "Name": "Jersey",
+        "OfficialName": "Bailiwick of Jersey"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 49.25,
+      "Longitude": -2.16666666
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 116
+  },
+  {
+    "Code": "JOR",
+    "Capitals": [
+      "Amman"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Western Asia"
+    },
+    "Languages": [
+      "ara"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Jordanie",
+        "OfficialName": "Royaume hach\u00E9mite de Jordanie"
+      },
+      "eng": {
+        "Name": "Jordan",
+        "OfficialName": "Hashemite Kingdom of Jordan"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 31,
+      "Longitude": 36
+    },
+    "LandLocked": false,
+    "Borders": [
+      "IRQ",
+      "ISR",
+      "PSE",
+      "SAU",
+      "SYR"
+    ],
+    "Area": 89342
+  },
+  {
+    "Code": "JPN",
+    "Capitals": [
+      "Tokyo"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Eastern Asia"
+    },
+    "Languages": [
+      "jpn"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Japon",
+        "OfficialName": "Japon"
+      },
+      "eng": {
+        "Name": "Japan",
+        "OfficialName": "Japan"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 36,
+      "Longitude": 138
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 377930
+  },
+  {
+    "Code": "KAZ",
+    "Capitals": [
+      "Nur-Sultan"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Central Asia"
+    },
+    "Languages": [
+      "kaz",
+      "rus"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Kazakhstan",
+        "OfficialName": "R\u00E9publique du Kazakhstan"
+      },
+      "eng": {
+        "Name": "Kazakhstan",
+        "OfficialName": "Republic of Kazakhstan"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 48,
+      "Longitude": 68
+    },
+    "LandLocked": true,
+    "Borders": [
+      "CHN",
+      "KGZ",
+      "RUS",
+      "TKM",
+      "UZB"
+    ],
+    "Area": 2724900
+  },
+  {
+    "Code": "KEN",
+    "Capitals": [
+      "Nairobi"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Eastern Africa"
+    },
+    "Languages": [
+      "eng",
+      "swa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Kenya",
+        "OfficialName": "R\u00E9publique du Kenya"
+      },
+      "eng": {
+        "Name": "Kenya",
+        "OfficialName": "Republic of Kenya"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 1,
+      "Longitude": 38
+    },
+    "LandLocked": false,
+    "Borders": [
+      "ETH",
+      "SOM",
+      "SSD",
+      "TZA",
+      "UGA"
+    ],
+    "Area": 580367
+  },
+  {
+    "Code": "KGZ",
+    "Capitals": [
+      "Bishkek"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Central Asia"
+    },
+    "Languages": [
+      "kir",
+      "rus"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Kirghizistan",
+        "OfficialName": "R\u00E9publique kirghize"
+      },
+      "eng": {
+        "Name": "Kyrgyzstan",
+        "OfficialName": "Kyrgyz Republic"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 41,
+      "Longitude": 75
+    },
+    "LandLocked": true,
+    "Borders": [
+      "CHN",
+      "KAZ",
+      "TJK",
+      "UZB"
+    ],
+    "Area": 199951
+  },
+  {
+    "Code": "KHM",
+    "Capitals": [
+      "Phnom Penh"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "South-Eastern Asia"
+    },
+    "Languages": [
+      "khm"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Cambodge",
+        "OfficialName": "Royaume du Cambodge"
+      },
+      "eng": {
+        "Name": "Cambodia",
+        "OfficialName": "Kingdom of Cambodia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 13,
+      "Longitude": 105
+    },
+    "LandLocked": false,
+    "Borders": [
+      "LAO",
+      "THA",
+      "VNM"
+    ],
+    "Area": 181035
+  },
+  {
+    "Code": "KIR",
+    "Capitals": [
+      "South Tarawa"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Micronesia"
+    },
+    "Languages": [
+      "eng",
+      "gil"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Kiribati",
+        "OfficialName": "R\u00E9publique de Kiribati"
+      },
+      "eng": {
+        "Name": "Kiribati",
+        "OfficialName": "Independent and Sovereign Republic of Kiribati"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 1.41666666,
+      "Longitude": 173
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 811
+  },
+  {
+    "Code": "KNA",
+    "Capitals": [
+      "Basseterre"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Saint-Christophe-et-Ni\u00E9v\u00E8s",
+        "OfficialName": "F\u00E9d\u00E9ration de Saint-Christophe-et-Ni\u00E9v\u00E8s"
+      },
+      "eng": {
+        "Name": "Saint Kitts and Nevis",
+        "OfficialName": "Federation of Saint Christopher and Nevis"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 17.33333333,
+      "Longitude": -62.75
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 261
+  },
+  {
+    "Code": "KOR",
+    "Capitals": [
+      "Seoul"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Eastern Asia"
+    },
+    "Languages": [
+      "kor"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Cor\u00E9e du Sud",
+        "OfficialName": "R\u00E9publique de Cor\u00E9e"
+      },
+      "eng": {
+        "Name": "South Korea",
+        "OfficialName": "Republic of Korea"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 37,
+      "Longitude": 127.5
+    },
+    "LandLocked": false,
+    "Borders": [
+      "PRK"
+    ],
+    "Area": 100210
+  },
+  {
+    "Code": "UNK",
+    "Capitals": [
+      "Pristina"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Southeast Europe"
+    },
+    "Languages": [
+      "sqi",
+      "srp"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Kosovo",
+        "OfficialName": "R\u00E9publique du Kosovo"
+      },
+      "eng": {
+        "Name": "Kosovo",
+        "OfficialName": "Republic of Kosovo"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 42.666667,
+      "Longitude": 21.166667
+    },
+    "LandLocked": true,
+    "Borders": [
+      "ALB",
+      "MKD",
+      "MNE",
+      "SRB"
+    ],
+    "Area": 10908
+  },
+  {
+    "Code": "KWT",
+    "Capitals": [
+      "Kuwait City"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Western Asia"
+    },
+    "Languages": [
+      "ara"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Kowe\u00EFt",
+        "OfficialName": "\u00C9tat du Kowe\u00EFt"
+      },
+      "eng": {
+        "Name": "Kuwait",
+        "OfficialName": "State of Kuwait"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 29.5,
+      "Longitude": 45.75
+    },
+    "LandLocked": false,
+    "Borders": [
+      "IRQ",
+      "SAU"
+    ],
+    "Area": 17818
+  },
+  {
+    "Code": "LAO",
+    "Capitals": [
+      "Vientiane"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "South-Eastern Asia"
+    },
+    "Languages": [
+      "lao"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Laos",
+        "OfficialName": "R\u00E9publique d\u00E9mocratique populaire lao"
+      },
+      "eng": {
+        "Name": "Laos",
+        "OfficialName": "Lao People\u0027s Democratic Republic"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 18,
+      "Longitude": 105
+    },
+    "LandLocked": true,
+    "Borders": [
+      "MMR",
+      "KHM",
+      "CHN",
+      "THA",
+      "VNM"
+    ],
+    "Area": 236800
+  },
+  {
+    "Code": "LBN",
+    "Capitals": [
+      "Beirut"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Western Asia"
+    },
+    "Languages": [
+      "ara",
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Liban",
+        "OfficialName": "R\u00E9publique libanaise"
+      },
+      "eng": {
+        "Name": "Lebanon",
+        "OfficialName": "Lebanese Republic"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 33.83333333,
+      "Longitude": 35.83333333
+    },
+    "LandLocked": false,
+    "Borders": [
+      "ISR",
+      "SYR"
+    ],
+    "Area": 10452
+  },
+  {
+    "Code": "LBR",
+    "Capitals": [
+      "Monrovia"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Western Africa"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Liberia",
+        "OfficialName": "R\u00E9publique du Lib\u00E9ria"
+      },
+      "eng": {
+        "Name": "Liberia",
+        "OfficialName": "Republic of Liberia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 6.5,
+      "Longitude": -9.5
+    },
+    "LandLocked": false,
+    "Borders": [
+      "GIN",
+      "CIV",
+      "SLE"
+    ],
+    "Area": 111369
+  },
+  {
+    "Code": "LBY",
+    "Capitals": [
+      "Tripoli"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Northern Africa"
+    },
+    "Languages": [
+      "ara"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Libye",
+        "OfficialName": "Grande R\u00E9publique arabe libyenne populaire et socialiste"
+      },
+      "eng": {
+        "Name": "Libya",
+        "OfficialName": "State of Libya"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 25,
+      "Longitude": 17
+    },
+    "LandLocked": false,
+    "Borders": [
+      "DZA",
+      "TCD",
+      "EGY",
+      "NER",
+      "SDN",
+      "TUN"
+    ],
+    "Area": 1759540
+  },
+  {
+    "Code": "LCA",
+    "Capitals": [
+      "Castries"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Sainte-Lucie",
+        "OfficialName": "Sainte-Lucie"
+      },
+      "eng": {
+        "Name": "Saint Lucia",
+        "OfficialName": "Saint Lucia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 13.88333333,
+      "Longitude": -60.96666666
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 616
+  },
+  {
+    "Code": "LIE",
+    "Capitals": [
+      "Vaduz"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Western Europe"
+    },
+    "Languages": [
+      "deu"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Liechtenstein",
+        "OfficialName": "Principaut\u00E9 du Liechtenstein"
+      },
+      "eng": {
+        "Name": "Liechtenstein",
+        "OfficialName": "Principality of Liechtenstein"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 47.26666666,
+      "Longitude": 9.53333333
+    },
+    "LandLocked": true,
+    "Borders": [
+      "AUT",
+      "CHE"
+    ],
+    "Area": 160
+  },
+  {
+    "Code": "LKA",
+    "Capitals": [
+      "Colombo"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Southern Asia"
+    },
+    "Languages": [
+      "sin",
+      "tam"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Sri Lanka",
+        "OfficialName": "R\u00E9publique d\u00E9mocratique socialiste du Sri Lanka"
+      },
+      "eng": {
+        "Name": "Sri Lanka",
+        "OfficialName": "Democratic Socialist Republic of Sri Lanka"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 7,
+      "Longitude": 81
+    },
+    "LandLocked": false,
+    "Borders": [
+      "IND"
+    ],
+    "Area": 65610
+  },
+  {
+    "Code": "LSO",
+    "Capitals": [
+      "Maseru"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Southern Africa"
+    },
+    "Languages": [
+      "eng",
+      "sot"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Lesotho",
+        "OfficialName": "Royaume du Lesotho"
+      },
+      "eng": {
+        "Name": "Lesotho",
+        "OfficialName": "Kingdom of Lesotho"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -29.5,
+      "Longitude": 28.5
+    },
+    "LandLocked": true,
+    "Borders": [
+      "ZAF"
+    ],
+    "Area": 30355
+  },
+  {
+    "Code": "LTU",
+    "Capitals": [
+      "Vilnius"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Northern Europe"
+    },
+    "Languages": [
+      "lit"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Lituanie",
+        "OfficialName": "R\u00E9publique de Lituanie"
+      },
+      "eng": {
+        "Name": "Lithuania",
+        "OfficialName": "Republic of Lithuania"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 56,
+      "Longitude": 24
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BLR",
+      "LVA",
+      "POL",
+      "RUS"
+    ],
+    "Area": 65300
+  },
+  {
+    "Code": "LUX",
+    "Capitals": [
+      "Luxembourg"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Western Europe"
+    },
+    "Languages": [
+      "deu",
+      "fra",
+      "ltz"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Luxembourg",
+        "OfficialName": "Grand-Duch\u00E9 de Luxembourg"
+      },
+      "eng": {
+        "Name": "Luxembourg",
+        "OfficialName": "Grand Duchy of Luxembourg"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 49.75,
+      "Longitude": 6.16666666
+    },
+    "LandLocked": true,
+    "Borders": [
+      "BEL",
+      "FRA",
+      "DEU"
+    ],
+    "Area": 2586
+  },
+  {
+    "Code": "LVA",
+    "Capitals": [
+      "Riga"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Northern Europe"
+    },
+    "Languages": [
+      "lav"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Lettonie",
+        "OfficialName": "R\u00E9publique de Lettonie"
+      },
+      "eng": {
+        "Name": "Latvia",
+        "OfficialName": "Republic of Latvia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 57,
+      "Longitude": 25
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BLR",
+      "EST",
+      "LTU",
+      "RUS"
+    ],
+    "Area": 64559
+  },
+  {
+    "Code": "MAC",
+    "Capitals": [],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Eastern Asia"
+    },
+    "Languages": [
+      "por",
+      "zho"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Macao",
+        "OfficialName": "R\u00E9gion administrative sp\u00E9ciale de Macao de la R\u00E9publique populaire de Chine"
+      },
+      "eng": {
+        "Name": "Macau",
+        "OfficialName": "Macao Special Administrative Region of the People\u0027s Republic of China"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 22.16666666,
+      "Longitude": 113.55
+    },
+    "LandLocked": false,
+    "Borders": [
+      "CHN"
+    ],
+    "Area": 30
+  },
+  {
+    "Code": "MAF",
+    "Capitals": [
+      "Marigot"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Saint-Martin",
+        "OfficialName": "Saint-Martin"
+      },
+      "eng": {
+        "Name": "Saint Martin",
+        "OfficialName": "Saint Martin"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 18.08333333,
+      "Longitude": -63.95
+    },
+    "LandLocked": false,
+    "Borders": [
+      "SXM"
+    ],
+    "Area": 53
+  },
+  {
+    "Code": "MAR",
+    "Capitals": [
+      "Rabat"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Northern Africa"
+    },
+    "Languages": [
+      "ara",
+      "ber"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Maroc",
+        "OfficialName": "Royaume du Maroc"
+      },
+      "eng": {
+        "Name": "Morocco",
+        "OfficialName": "Kingdom of Morocco"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 32,
+      "Longitude": -5
+    },
+    "LandLocked": false,
+    "Borders": [
+      "DZA",
+      "ESH",
+      "ESP"
+    ],
+    "Area": 446550
+  },
+  {
+    "Code": "MCO",
+    "Capitals": [
+      "Monaco"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Western Europe"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Monaco",
+        "OfficialName": "Principaut\u00E9 de Monaco"
+      },
+      "eng": {
+        "Name": "Monaco",
+        "OfficialName": "Principality of Monaco"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 43.73333333,
+      "Longitude": 7.4
+    },
+    "LandLocked": false,
+    "Borders": [
+      "FRA"
+    ],
+    "Area": 2.02
+  },
+  {
+    "Code": "MDA",
+    "Capitals": [
+      "Chi\u0219in\u0103u"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Eastern Europe"
+    },
+    "Languages": [
+      "ron"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Moldavie",
+        "OfficialName": "R\u00E9publique de Moldavie"
+      },
+      "eng": {
+        "Name": "Moldova",
+        "OfficialName": "Republic of Moldova"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 47,
+      "Longitude": 29
+    },
+    "LandLocked": true,
+    "Borders": [
+      "ROU",
+      "UKR"
+    ],
+    "Area": 33846
+  },
+  {
+    "Code": "MDG",
+    "Capitals": [
+      "Antananarivo"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Eastern Africa"
+    },
+    "Languages": [
+      "fra",
+      "mlg"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Madagascar",
+        "OfficialName": "R\u00E9publique de Madagascar"
+      },
+      "eng": {
+        "Name": "Madagascar",
+        "OfficialName": "Republic of Madagascar"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -20,
+      "Longitude": 47
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 587041
+  },
+  {
+    "Code": "MDV",
+    "Capitals": [
+      "Mal\u00E9"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Southern Asia"
+    },
+    "Languages": [
+      "div"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Maldives",
+        "OfficialName": "R\u00E9publique des Maldives"
+      },
+      "eng": {
+        "Name": "Maldives",
+        "OfficialName": "Republic of the Maldives"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 3.25,
+      "Longitude": 73
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 300
+  },
+  {
+    "Code": "MEX",
+    "Capitals": [
+      "Mexico City"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "North America"
+    },
+    "Languages": [
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Mexique",
+        "OfficialName": "\u00C9tats-Unis du Mexique"
+      },
+      "eng": {
+        "Name": "Mexico",
+        "OfficialName": "United Mexican States"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 23,
+      "Longitude": -102
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BLZ",
+      "GTM",
+      "USA"
+    ],
+    "Area": 1964375
+  },
+  {
+    "Code": "MHL",
+    "Capitals": [
+      "Majuro"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Micronesia"
+    },
+    "Languages": [
+      "eng",
+      "mah"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00CEles Marshall",
+        "OfficialName": "R\u00E9publique des \u00CEles Marshall"
+      },
+      "eng": {
+        "Name": "Marshall Islands",
+        "OfficialName": "Republic of the Marshall Islands"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 9,
+      "Longitude": 168
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 181
+  },
+  {
+    "Code": "MKD",
+    "Capitals": [
+      "Skopje"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Southeast Europe"
+    },
+    "Languages": [
+      "mkd"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Mac\u00E9doine du Nord",
+        "OfficialName": "R\u00E9publique de Mac\u00E9doine du Nord"
+      },
+      "eng": {
+        "Name": "North Macedonia",
+        "OfficialName": "Republic of North Macedonia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 41.83333333,
+      "Longitude": 22
+    },
+    "LandLocked": true,
+    "Borders": [
+      "ALB",
+      "BGR",
+      "GRC",
+      "UNK",
+      "SRB"
+    ],
+    "Area": 25713
+  },
+  {
+    "Code": "MLI",
+    "Capitals": [
+      "Bamako"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Western Africa"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Mali",
+        "OfficialName": "R\u00E9publique du Mali"
+      },
+      "eng": {
+        "Name": "Mali",
+        "OfficialName": "Republic of Mali"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 17,
+      "Longitude": -4
+    },
+    "LandLocked": true,
+    "Borders": [
+      "DZA",
+      "BFA",
+      "GIN",
+      "CIV",
+      "MRT",
+      "NER",
+      "SEN"
+    ],
+    "Area": 1240192
+  },
+  {
+    "Code": "MLT",
+    "Capitals": [
+      "Valletta"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Southern Europe"
+    },
+    "Languages": [
+      "eng",
+      "mlt"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Malte",
+        "OfficialName": "R\u00E9publique de Malte"
+      },
+      "eng": {
+        "Name": "Malta",
+        "OfficialName": "Republic of Malta"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 35.83333333,
+      "Longitude": 14.58333333
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 316
+  },
+  {
+    "Code": "MMR",
+    "Capitals": [
+      "Naypyidaw"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "South-Eastern Asia"
+    },
+    "Languages": [
+      "mya"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Birmanie",
+        "OfficialName": "R\u00E9publique de l\u0027Union du Myanmar"
+      },
+      "eng": {
+        "Name": "Myanmar",
+        "OfficialName": "Republic of the Union of Myanmar"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 22,
+      "Longitude": 98
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BGD",
+      "CHN",
+      "IND",
+      "LAO",
+      "THA"
+    ],
+    "Area": 676578
+  },
+  {
+    "Code": "MNE",
+    "Capitals": [
+      "Podgorica"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Southeast Europe"
+    },
+    "Languages": [
+      "cnr"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Mont\u00E9n\u00E9gro",
+        "OfficialName": "Mont\u00E9n\u00E9gro"
+      },
+      "eng": {
+        "Name": "Montenegro",
+        "OfficialName": "Montenegro"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 42.5,
+      "Longitude": 19.3
+    },
+    "LandLocked": false,
+    "Borders": [
+      "ALB",
+      "BIH",
+      "HRV",
+      "UNK",
+      "SRB"
+    ],
+    "Area": 13812
+  },
+  {
+    "Code": "MNG",
+    "Capitals": [
+      "Ulan Bator"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Eastern Asia"
+    },
+    "Languages": [
+      "mon"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Mongolie",
+        "OfficialName": "Mongolie"
+      },
+      "eng": {
+        "Name": "Mongolia",
+        "OfficialName": "Mongolia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 46,
+      "Longitude": 105
+    },
+    "LandLocked": true,
+    "Borders": [
+      "CHN",
+      "RUS"
+    ],
+    "Area": 1564110
+  },
+  {
+    "Code": "MNP",
+    "Capitals": [
+      "Saipan"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Micronesia"
+    },
+    "Languages": [
+      "cal",
+      "cha",
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00CEles Mariannes du Nord",
+        "OfficialName": "Commonwealth des \u00EEles Mariannes du Nord"
+      },
+      "eng": {
+        "Name": "Northern Mariana Islands",
+        "OfficialName": "Commonwealth of the Northern Mariana Islands"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 15.2,
+      "Longitude": 145.75
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 464
+  },
+  {
+    "Code": "MOZ",
+    "Capitals": [
+      "Maputo"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Eastern Africa"
+    },
+    "Languages": [
+      "por"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Mozambique",
+        "OfficialName": "R\u00E9publique du Mozambique"
+      },
+      "eng": {
+        "Name": "Mozambique",
+        "OfficialName": "Republic of Mozambique"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -18.25,
+      "Longitude": 35
+    },
+    "LandLocked": false,
+    "Borders": [
+      "MWI",
+      "ZAF",
+      "SWZ",
+      "TZA",
+      "ZMB",
+      "ZWE"
+    ],
+    "Area": 801590
+  },
+  {
+    "Code": "MRT",
+    "Capitals": [
+      "Nouakchott"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Western Africa"
+    },
+    "Languages": [
+      "ara"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Mauritanie",
+        "OfficialName": "R\u00E9publique islamique de Mauritanie"
+      },
+      "eng": {
+        "Name": "Mauritania",
+        "OfficialName": "Islamic Republic of Mauritania"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 20,
+      "Longitude": -12
+    },
+    "LandLocked": false,
+    "Borders": [
+      "DZA",
+      "MLI",
+      "SEN",
+      "ESH"
+    ],
+    "Area": 1030700
+  },
+  {
+    "Code": "MSR",
+    "Capitals": [
+      "Plymouth"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Montserrat",
+        "OfficialName": "Montserrat"
+      },
+      "eng": {
+        "Name": "Montserrat",
+        "OfficialName": "Montserrat"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 16.75,
+      "Longitude": -62.2
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 102
+  },
+  {
+    "Code": "MTQ",
+    "Capitals": [
+      "Fort-de-France"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Martinique",
+        "OfficialName": "Martinique"
+      },
+      "eng": {
+        "Name": "Martinique",
+        "OfficialName": "Martinique"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 14.666667,
+      "Longitude": -61
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 1128
+  },
+  {
+    "Code": "MUS",
+    "Capitals": [
+      "Port Louis"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Eastern Africa"
+    },
+    "Languages": [
+      "eng",
+      "fra",
+      "mfe"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00CEle Maurice",
+        "OfficialName": "R\u00E9publique de Maurice"
+      },
+      "eng": {
+        "Name": "Mauritius",
+        "OfficialName": "Republic of Mauritius"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -20.28333333,
+      "Longitude": 57.55
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 2040
+  },
+  {
+    "Code": "MWI",
+    "Capitals": [
+      "Lilongwe"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Eastern Africa"
+    },
+    "Languages": [
+      "eng",
+      "nya"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Malawi",
+        "OfficialName": "R\u00E9publique du Malawi"
+      },
+      "eng": {
+        "Name": "Malawi",
+        "OfficialName": "Republic of Malawi"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -13.5,
+      "Longitude": 34
+    },
+    "LandLocked": true,
+    "Borders": [
+      "MOZ",
+      "TZA",
+      "ZMB"
+    ],
+    "Area": 118484
+  },
+  {
+    "Code": "MYS",
+    "Capitals": [
+      "Kuala Lumpur"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "South-Eastern Asia"
+    },
+    "Languages": [
+      "eng",
+      "msa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Malaisie",
+        "OfficialName": "F\u00E9d\u00E9ration de Malaisie"
+      },
+      "eng": {
+        "Name": "Malaysia",
+        "OfficialName": "Malaysia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 2.5,
+      "Longitude": 112.5
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BRN",
+      "IDN",
+      "THA"
+    ],
+    "Area": 330803
+  },
+  {
+    "Code": "MYT",
+    "Capitals": [
+      "Mamoudzou"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Eastern Africa"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Mayotte",
+        "OfficialName": "D\u00E9partement de Mayotte"
+      },
+      "eng": {
+        "Name": "Mayotte",
+        "OfficialName": "Department of Mayotte"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -12.83333333,
+      "Longitude": 45.16666666
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 374
+  },
+  {
+    "Code": "NAM",
+    "Capitals": [
+      "Windhoek"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Southern Africa"
+    },
+    "Languages": [
+      "afr",
+      "deu",
+      "eng",
+      "her",
+      "hgm",
+      "kwn",
+      "loz",
+      "ndo",
+      "tsn"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Namibie",
+        "OfficialName": "R\u00E9publique de Namibie"
+      },
+      "eng": {
+        "Name": "Namibia",
+        "OfficialName": "Republic of Namibia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -22,
+      "Longitude": 17
+    },
+    "LandLocked": false,
+    "Borders": [
+      "AGO",
+      "BWA",
+      "ZAF",
+      "ZMB"
+    ],
+    "Area": 825615
+  },
+  {
+    "Code": "NCL",
+    "Capitals": [
+      "Noum\u00E9a"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Melanesia"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Nouvelle-Cal\u00E9donie",
+        "OfficialName": "Nouvelle-Cal\u00E9donie"
+      },
+      "eng": {
+        "Name": "New Caledonia",
+        "OfficialName": "New Caledonia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -21.5,
+      "Longitude": 165.5
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 18575
+  },
+  {
+    "Code": "NER",
+    "Capitals": [
+      "Niamey"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Western Africa"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Niger",
+        "OfficialName": "R\u00E9publique du Niger"
+      },
+      "eng": {
+        "Name": "Niger",
+        "OfficialName": "Republic of Niger"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 16,
+      "Longitude": 8
+    },
+    "LandLocked": true,
+    "Borders": [
+      "DZA",
+      "BEN",
+      "BFA",
+      "TCD",
+      "LBY",
+      "MLI",
+      "NGA"
+    ],
+    "Area": 1267000
+  },
+  {
+    "Code": "NFK",
+    "Capitals": [
+      "Kingston"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Australia and New Zealand"
+    },
+    "Languages": [
+      "eng",
+      "pih"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00CEle Norfolk",
+        "OfficialName": "Territoire de l\u0027\u00EEle Norfolk"
+      },
+      "eng": {
+        "Name": "Norfolk Island",
+        "OfficialName": "Territory of Norfolk Island"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -29.03333333,
+      "Longitude": 167.95
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 36
+  },
+  {
+    "Code": "NGA",
+    "Capitals": [
+      "Abuja"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Western Africa"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Nig\u00E9ria",
+        "OfficialName": "R\u00E9publique f\u00E9d\u00E9rale du Nigeria"
+      },
+      "eng": {
+        "Name": "Nigeria",
+        "OfficialName": "Federal Republic of Nigeria"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 10,
+      "Longitude": 8
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BEN",
+      "CMR",
+      "TCD",
+      "NER"
+    ],
+    "Area": 923768
+  },
+  {
+    "Code": "NIC",
+    "Capitals": [
+      "Managua"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Central America"
+    },
+    "Languages": [
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Nicaragua",
+        "OfficialName": "R\u00E9publique du Nicaragua"
+      },
+      "eng": {
+        "Name": "Nicaragua",
+        "OfficialName": "Republic of Nicaragua"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 13,
+      "Longitude": -85
+    },
+    "LandLocked": false,
+    "Borders": [
+      "CRI",
+      "HND"
+    ],
+    "Area": 130373
+  },
+  {
+    "Code": "NIU",
+    "Capitals": [
+      "Alofi"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Polynesia"
+    },
+    "Languages": [
+      "eng",
+      "niu"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Niue",
+        "OfficialName": "Niue"
+      },
+      "eng": {
+        "Name": "Niue",
+        "OfficialName": "Niue"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -19.03333333,
+      "Longitude": -169.86666666
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 260
+  },
+  {
+    "Code": "NLD",
+    "Capitals": [
+      "Amsterdam"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Western Europe"
+    },
+    "Languages": [
+      "nld"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Pays-Bas",
+        "OfficialName": "Pays-Bas"
+      },
+      "eng": {
+        "Name": "Netherlands",
+        "OfficialName": "Kingdom of the Netherlands"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 52.5,
+      "Longitude": 5.75
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BEL",
+      "DEU"
+    ],
+    "Area": 41850
+  },
+  {
+    "Code": "NOR",
+    "Capitals": [
+      "Oslo"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Northern Europe"
+    },
+    "Languages": [
+      "nno",
+      "nob",
+      "smi"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Norv\u00E8ge",
+        "OfficialName": "Royaume de Norv\u00E8ge"
+      },
+      "eng": {
+        "Name": "Norway",
+        "OfficialName": "Kingdom of Norway"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 62,
+      "Longitude": 10
+    },
+    "LandLocked": false,
+    "Borders": [
+      "FIN",
+      "SWE",
+      "RUS"
+    ],
+    "Area": 323802
+  },
+  {
+    "Code": "NPL",
+    "Capitals": [
+      "Kathmandu"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Southern Asia"
+    },
+    "Languages": [
+      "nep"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "N\u00E9pal",
+        "OfficialName": "R\u00E9publique du N\u00E9pal"
+      },
+      "eng": {
+        "Name": "Nepal",
+        "OfficialName": "Federal Democratic Republic of Nepal"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 28,
+      "Longitude": 84
+    },
+    "LandLocked": true,
+    "Borders": [
+      "CHN",
+      "IND"
+    ],
+    "Area": 147181
+  },
+  {
+    "Code": "NRU",
+    "Capitals": [
+      "Yaren"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Micronesia"
+    },
+    "Languages": [
+      "eng",
+      "nau"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Nauru",
+        "OfficialName": "R\u00E9publique de Nauru"
+      },
+      "eng": {
+        "Name": "Nauru",
+        "OfficialName": "Republic of Nauru"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -0.53333333,
+      "Longitude": 166.91666666
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 21
+  },
+  {
+    "Code": "NZL",
+    "Capitals": [
+      "Wellington"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Australia and New Zealand"
+    },
+    "Languages": [
+      "eng",
+      "mri",
+      "nzs"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Nouvelle-Z\u00E9lande",
+        "OfficialName": "Nouvelle-Z\u00E9lande"
+      },
+      "eng": {
+        "Name": "New Zealand",
+        "OfficialName": "New Zealand"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -41,
+      "Longitude": 174
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 270467
+  },
+  {
+    "Code": "OMN",
+    "Capitals": [
+      "Muscat"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Western Asia"
+    },
+    "Languages": [
+      "ara"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Oman",
+        "OfficialName": "Sultanat d\u0027Oman"
+      },
+      "eng": {
+        "Name": "Oman",
+        "OfficialName": "Sultanate of Oman"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 21,
+      "Longitude": 57
+    },
+    "LandLocked": false,
+    "Borders": [
+      "SAU",
+      "ARE",
+      "YEM"
+    ],
+    "Area": 309500
+  },
+  {
+    "Code": "PAK",
+    "Capitals": [
+      "Islamabad"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Southern Asia"
+    },
+    "Languages": [
+      "eng",
+      "urd"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Pakistan",
+        "OfficialName": "R\u00E9publique islamique du Pakistan"
+      },
+      "eng": {
+        "Name": "Pakistan",
+        "OfficialName": "Islamic Republic of Pakistan"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 30,
+      "Longitude": 70
+    },
+    "LandLocked": false,
+    "Borders": [
+      "AFG",
+      "CHN",
+      "IND",
+      "IRN"
+    ],
+    "Area": 881912
+  },
+  {
+    "Code": "PAN",
+    "Capitals": [
+      "Panama City"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Central America"
+    },
+    "Languages": [
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Panama",
+        "OfficialName": "R\u00E9publique du Panama"
+      },
+      "eng": {
+        "Name": "Panama",
+        "OfficialName": "Republic of Panama"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 9,
+      "Longitude": -80
+    },
+    "LandLocked": false,
+    "Borders": [
+      "COL",
+      "CRI"
+    ],
+    "Area": 75417
+  },
+  {
+    "Code": "PCN",
+    "Capitals": [
+      "Adamstown"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Polynesia"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00CEles Pitcairn",
+        "OfficialName": "Groupe d\u0027\u00EEles Pitcairn"
+      },
+      "eng": {
+        "Name": "Pitcairn Islands",
+        "OfficialName": "Pitcairn Group of Islands"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -25.06666666,
+      "Longitude": -130.1
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 47
+  },
+  {
+    "Code": "PER",
+    "Capitals": [
+      "Lima"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "South America"
+    },
+    "Languages": [
+      "aym",
+      "que",
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "P\u00E9rou",
+        "OfficialName": "R\u00E9publique du P\u00E9rou"
+      },
+      "eng": {
+        "Name": "Peru",
+        "OfficialName": "Republic of Peru"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -10,
+      "Longitude": -76
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
+    ],
+    "Area": 1285216
+  },
+  {
+    "Code": "PHL",
+    "Capitals": [
+      "Manila"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "South-Eastern Asia"
+    },
+    "Languages": [
+      "eng",
+      "fil"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Philippines",
+        "OfficialName": "R\u00E9publique des Philippines"
+      },
+      "eng": {
+        "Name": "Philippines",
+        "OfficialName": "Republic of the Philippines"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 13,
+      "Longitude": 122
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 342353
+  },
+  {
+    "Code": "PLW",
+    "Capitals": [
+      "Ngerulmud"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Micronesia"
+    },
+    "Languages": [
+      "eng",
+      "pau"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Palaos (Palau)",
+        "OfficialName": "R\u00E9publique des Palaos (Palau)"
+      },
+      "eng": {
+        "Name": "Palau",
+        "OfficialName": "Republic of Palau"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 7.5,
+      "Longitude": 134.5
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 459
+  },
+  {
+    "Code": "PNG",
+    "Capitals": [
+      "Port Moresby"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Melanesia"
+    },
+    "Languages": [
+      "eng",
+      "hmo",
+      "tpi"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Papouasie-Nouvelle-Guin\u00E9e",
+        "OfficialName": "\u00C9tat ind\u00E9pendant de Papouasie-Nouvelle-Guin\u00E9e"
+      },
+      "eng": {
+        "Name": "Papua New Guinea",
+        "OfficialName": "Independent State of Papua New Guinea"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -6,
+      "Longitude": 147
+    },
+    "LandLocked": false,
+    "Borders": [
+      "IDN"
+    ],
+    "Area": 462840
+  },
+  {
+    "Code": "POL",
+    "Capitals": [
+      "Warsaw"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Central Europe"
+    },
+    "Languages": [
+      "pol"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Pologne",
+        "OfficialName": "R\u00E9publique de Pologne"
+      },
+      "eng": {
+        "Name": "Poland",
+        "OfficialName": "Republic of Poland"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 52,
+      "Longitude": 20
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BLR",
+      "CZE",
+      "DEU",
+      "LTU",
+      "RUS",
+      "SVK",
+      "UKR"
+    ],
+    "Area": 312679
+  },
+  {
+    "Code": "PRI",
+    "Capitals": [
+      "San Juan"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "eng",
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Porto Rico",
+        "OfficialName": "Porto Rico"
+      },
+      "eng": {
+        "Name": "Puerto Rico",
+        "OfficialName": "Commonwealth of Puerto Rico"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 18.25,
+      "Longitude": -66.5
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 8870
+  },
+  {
+    "Code": "PRK",
+    "Capitals": [
+      "Pyongyang"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Eastern Asia"
+    },
+    "Languages": [
+      "kor"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Cor\u00E9e du Nord",
+        "OfficialName": "R\u00E9publique populaire d\u00E9mocratique de Cor\u00E9e"
+      },
+      "eng": {
+        "Name": "North Korea",
+        "OfficialName": "Democratic People\u0027s Republic of Korea"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 40,
+      "Longitude": 127
+    },
+    "LandLocked": false,
+    "Borders": [
+      "CHN",
+      "KOR",
+      "RUS"
+    ],
+    "Area": 120538
+  },
+  {
+    "Code": "PRT",
+    "Capitals": [
+      "Lisbon"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Southern Europe"
+    },
+    "Languages": [
+      "por"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Portugal",
+        "OfficialName": "R\u00E9publique portugaise"
+      },
+      "eng": {
+        "Name": "Portugal",
+        "OfficialName": "Portuguese Republic"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 39.5,
+      "Longitude": -8
+    },
+    "LandLocked": false,
+    "Borders": [
+      "ESP"
+    ],
+    "Area": 92090
+  },
+  {
+    "Code": "PRY",
+    "Capitals": [
+      "Asunci\u00F3n"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "South America"
+    },
+    "Languages": [
+      "grn",
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Paraguay",
+        "OfficialName": "R\u00E9publique du Paraguay"
+      },
+      "eng": {
+        "Name": "Paraguay",
+        "OfficialName": "Republic of Paraguay"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -23,
+      "Longitude": -58
+    },
+    "LandLocked": true,
+    "Borders": [
+      "ARG",
+      "BOL",
+      "BRA"
+    ],
+    "Area": 406752
+  },
+  {
+    "Code": "PSE",
+    "Capitals": [
+      "Ramallah"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Western Asia"
+    },
+    "Languages": [
+      "ara"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Palestine",
+        "OfficialName": "\u00C9tat de Palestine"
+      },
+      "eng": {
+        "Name": "Palestine",
+        "OfficialName": "State of Palestine"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 31.9,
+      "Longitude": 35.2
+    },
+    "LandLocked": false,
+    "Borders": [
+      "ISR",
+      "EGY",
+      "JOR"
+    ],
+    "Area": 6220
+  },
+  {
+    "Code": "PYF",
+    "Capitals": [
+      "Papeet\u0113"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Polynesia"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Polyn\u00E9sie fran\u00E7aise",
+        "OfficialName": "Polyn\u00E9sie fran\u00E7aise"
+      },
+      "eng": {
+        "Name": "French Polynesia",
+        "OfficialName": "French Polynesia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -15,
+      "Longitude": -140
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 4167
+  },
+  {
+    "Code": "QAT",
+    "Capitals": [
+      "Doha"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Western Asia"
+    },
+    "Languages": [
+      "ara"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Qatar",
+        "OfficialName": "\u00C9tat du Qatar"
+      },
+      "eng": {
+        "Name": "Qatar",
+        "OfficialName": "State of Qatar"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 25.5,
+      "Longitude": 51.25
+    },
+    "LandLocked": false,
+    "Borders": [
+      "SAU"
+    ],
+    "Area": 11586
+  },
+  {
+    "Code": "REU",
+    "Capitals": [
+      "Saint-Denis"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Eastern Africa"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "R\u00E9union",
+        "OfficialName": "Ile de la R\u00E9union"
+      },
+      "eng": {
+        "Name": "R\u00E9union",
+        "OfficialName": "R\u00E9union Island"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -21.15,
+      "Longitude": 55.5
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 2511
+  },
+  {
+    "Code": "ROU",
+    "Capitals": [
+      "Bucharest"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Southeast Europe"
+    },
+    "Languages": [
+      "ron"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Roumanie",
+        "OfficialName": "Roumanie"
+      },
+      "eng": {
+        "Name": "Romania",
+        "OfficialName": "Romania"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 46,
+      "Longitude": 25
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BGR",
+      "HUN",
+      "MDA",
+      "SRB",
+      "UKR"
+    ],
+    "Area": 238391
+  },
+  {
+    "Code": "RUS",
+    "Capitals": [
+      "Moscow"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Eastern Europe"
+    },
+    "Languages": [
+      "rus"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Russie",
+        "OfficialName": "F\u00E9d\u00E9ration de Russie"
+      },
+      "eng": {
+        "Name": "Russia",
+        "OfficialName": "Russian Federation"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 60,
+      "Longitude": 100
+    },
+    "LandLocked": false,
+    "Borders": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ],
+    "Area": 17098242
+  },
+  {
+    "Code": "RWA",
+    "Capitals": [
+      "Kigali"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Eastern Africa"
+    },
+    "Languages": [
+      "eng",
+      "fra",
+      "kin"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Rwanda",
+        "OfficialName": "R\u00E9publique rwandaise"
+      },
+      "eng": {
+        "Name": "Rwanda",
+        "OfficialName": "Republic of Rwanda"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -2,
+      "Longitude": 30
+    },
+    "LandLocked": true,
+    "Borders": [
+      "BDI",
+      "COD",
+      "TZA",
+      "UGA"
+    ],
+    "Area": 26338
+  },
+  {
+    "Code": "SAU",
+    "Capitals": [
+      "Riyadh"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Western Asia"
+    },
+    "Languages": [
+      "ara"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Arabie Saoudite",
+        "OfficialName": "Royaume d\u0027Arabie Saoudite"
+      },
+      "eng": {
+        "Name": "Saudi Arabia",
+        "OfficialName": "Kingdom of Saudi Arabia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 25,
+      "Longitude": 45
+    },
+    "LandLocked": false,
+    "Borders": [
+      "IRQ",
+      "JOR",
+      "KWT",
+      "OMN",
+      "QAT",
+      "ARE",
+      "YEM"
+    ],
+    "Area": 2149690
+  },
+  {
+    "Code": "SDN",
+    "Capitals": [
+      "Khartoum"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Northern Africa"
+    },
+    "Languages": [
+      "ara",
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Soudan",
+        "OfficialName": "R\u00E9publique du Soudan"
+      },
+      "eng": {
+        "Name": "Sudan",
+        "OfficialName": "Republic of the Sudan"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 15,
+      "Longitude": 30
+    },
+    "LandLocked": false,
+    "Borders": [
+      "CAF",
+      "TCD",
+      "EGY",
+      "ERI",
+      "ETH",
+      "LBY",
+      "SSD"
+    ],
+    "Area": 1886068
+  },
+  {
+    "Code": "SEN",
+    "Capitals": [
+      "Dakar"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Western Africa"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "S\u00E9n\u00E9gal",
+        "OfficialName": "R\u00E9publique du S\u00E9n\u00E9gal"
+      },
+      "eng": {
+        "Name": "Senegal",
+        "OfficialName": "Republic of Senegal"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 14,
+      "Longitude": -14
+    },
+    "LandLocked": false,
+    "Borders": [
+      "GMB",
+      "GIN",
+      "GNB",
+      "MLI",
+      "MRT"
+    ],
+    "Area": 196722
+  },
+  {
+    "Code": "SGP",
+    "Capitals": [
+      "Singapore"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "South-Eastern Asia"
+    },
+    "Languages": [
+      "zho",
+      "eng",
+      "msa",
+      "tam"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Singapour",
+        "OfficialName": "R\u00E9publique de Singapour"
+      },
+      "eng": {
+        "Name": "Singapore",
+        "OfficialName": "Republic of Singapore"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 1.36666666,
+      "Longitude": 103.8
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 710
+  },
+  {
+    "Code": "SGS",
+    "Capitals": [
+      "King Edward Point"
+    ],
+    "Location": {
+      "Region": "Antarctic",
+      "SubRegion": ""
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "G\u00E9orgie du Sud-et-les \u00CEles Sandwich du Sud",
+        "OfficialName": "G\u00E9orgie du Sud et les \u00EEles Sandwich du Sud"
+      },
+      "eng": {
+        "Name": "South Georgia",
+        "OfficialName": "South Georgia and the South Sandwich Islands"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -54.5,
+      "Longitude": -37
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 3903
+  },
+  {
+    "Code": "SJM",
+    "Capitals": [
+      "Longyearbyen"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Northern Europe"
+    },
+    "Languages": [
+      "nor"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Svalbard et Jan Mayen",
+        "OfficialName": "Jan Mayen Svalbard"
+      },
+      "eng": {
+        "Name": "Svalbard and Jan Mayen",
+        "OfficialName": "Svalbard og Jan Mayen"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 78,
+      "Longitude": 20
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": -1
+  },
+  {
+    "Code": "SLB",
+    "Capitals": [
+      "Honiara"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Melanesia"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00CEles Salomon",
+        "OfficialName": "\u00CEles Salomon"
+      },
+      "eng": {
+        "Name": "Solomon Islands",
+        "OfficialName": "Solomon Islands"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -8,
+      "Longitude": 159
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 28896
+  },
+  {
+    "Code": "SLE",
+    "Capitals": [
+      "Freetown"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Western Africa"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Sierra Leone",
+        "OfficialName": "R\u00E9publique de Sierra Leone"
+      },
+      "eng": {
+        "Name": "Sierra Leone",
+        "OfficialName": "Republic of Sierra Leone"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 8.5,
+      "Longitude": -11.5
+    },
+    "LandLocked": false,
+    "Borders": [
+      "GIN",
+      "LBR"
+    ],
+    "Area": 71740
+  },
+  {
+    "Code": "SLV",
+    "Capitals": [
+      "San Salvador"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Central America"
+    },
+    "Languages": [
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Salvador",
+        "OfficialName": "R\u00E9publique du Salvador"
+      },
+      "eng": {
+        "Name": "El Salvador",
+        "OfficialName": "Republic of El Salvador"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 13.83333333,
+      "Longitude": -88.91666666
+    },
+    "LandLocked": false,
+    "Borders": [
+      "GTM",
+      "HND"
+    ],
+    "Area": 21041
+  },
+  {
+    "Code": "SMR",
+    "Capitals": [
+      "City of San Marino"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Southern Europe"
+    },
+    "Languages": [
+      "ita"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Saint-Marin",
+        "OfficialName": "R\u00E9publique de Saint-Marin"
+      },
+      "eng": {
+        "Name": "San Marino",
+        "OfficialName": "Most Serene Republic of San Marino"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 43.76666666,
+      "Longitude": 12.41666666
+    },
+    "LandLocked": true,
+    "Borders": [
+      "ITA"
+    ],
+    "Area": 61
+  },
+  {
+    "Code": "SOM",
+    "Capitals": [
+      "Mogadishu"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Eastern Africa"
+    },
+    "Languages": [
+      "ara",
+      "som"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Somalie",
+        "OfficialName": "R\u00E9publique f\u00E9d\u00E9rale de Somalie"
+      },
+      "eng": {
+        "Name": "Somalia",
+        "OfficialName": "Federal Republic of Somalia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 10,
+      "Longitude": 49
+    },
+    "LandLocked": false,
+    "Borders": [
+      "DJI",
+      "ETH",
+      "KEN"
+    ],
+    "Area": 637657
+  },
+  {
+    "Code": "SPM",
+    "Capitals": [
+      "Saint-Pierre"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "North America"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Saint-Pierre-et-Miquelon",
+        "OfficialName": "Saint-Pierre-et-Miquelon"
+      },
+      "eng": {
+        "Name": "Saint Pierre and Miquelon",
+        "OfficialName": "Saint Pierre and Miquelon"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 46.83333333,
+      "Longitude": -56.33333333
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 242
+  },
+  {
+    "Code": "SRB",
+    "Capitals": [
+      "Belgrade"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Southeast Europe"
+    },
+    "Languages": [
+      "srp"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Serbie",
+        "OfficialName": "R\u00E9publique de Serbie"
+      },
+      "eng": {
+        "Name": "Serbia",
+        "OfficialName": "Republic of Serbia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 44,
+      "Longitude": 21
+    },
+    "LandLocked": true,
+    "Borders": [
+      "BIH",
+      "BGR",
+      "HRV",
+      "HUN",
+      "UNK",
+      "MKD",
+      "MNE",
+      "ROU"
+    ],
+    "Area": 88361
+  },
+  {
+    "Code": "SSD",
+    "Capitals": [
+      "Juba"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Middle Africa"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Soudan du Sud",
+        "OfficialName": "R\u00E9publique du Soudan du Sud"
+      },
+      "eng": {
+        "Name": "South Sudan",
+        "OfficialName": "Republic of South Sudan"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 7,
+      "Longitude": 30
+    },
+    "LandLocked": true,
+    "Borders": [
+      "CAF",
+      "COD",
+      "ETH",
+      "KEN",
+      "SDN",
+      "UGA"
+    ],
+    "Area": 619745
+  },
+  {
+    "Code": "STP",
+    "Capitals": [
+      "S\u00E3o Tom\u00E9"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Middle Africa"
+    },
+    "Languages": [
+      "por"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "S\u00E3o Tom\u00E9 et Pr\u00EDncipe",
+        "OfficialName": "R\u00E9publique d\u00E9mocratique de S\u00E3o Tom\u00E9 et Pr\u00EDncipe"
+      },
+      "eng": {
+        "Name": "S\u00E3o Tom\u00E9 and Pr\u00EDncipe",
+        "OfficialName": "Democratic Republic of S\u00E3o Tom\u00E9 and Pr\u00EDncipe"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 1,
+      "Longitude": 7
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 964
+  },
+  {
+    "Code": "SUR",
+    "Capitals": [
+      "Paramaribo"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "South America"
+    },
+    "Languages": [
+      "nld"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Surinam",
+        "OfficialName": "R\u00E9publique du Suriname"
+      },
+      "eng": {
+        "Name": "Suriname",
+        "OfficialName": "Republic of Suriname"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 4,
+      "Longitude": -56
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BRA",
+      "GUF",
+      "GUY"
+    ],
+    "Area": 163820
+  },
+  {
+    "Code": "SVK",
+    "Capitals": [
+      "Bratislava"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Central Europe"
+    },
+    "Languages": [
+      "slk"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Slovaquie",
+        "OfficialName": "R\u00E9publique slovaque"
+      },
+      "eng": {
+        "Name": "Slovakia",
+        "OfficialName": "Slovak Republic"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 48.66666666,
+      "Longitude": 19.5
+    },
+    "LandLocked": true,
+    "Borders": [
+      "AUT",
+      "CZE",
+      "HUN",
+      "POL",
+      "UKR"
+    ],
+    "Area": 49037
+  },
+  {
+    "Code": "SVN",
+    "Capitals": [
+      "Ljubljana"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Central Europe"
+    },
+    "Languages": [
+      "slv"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Slov\u00E9nie",
+        "OfficialName": "R\u00E9publique de Slov\u00E9nie"
+      },
+      "eng": {
+        "Name": "Slovenia",
+        "OfficialName": "Republic of Slovenia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 46.11666666,
+      "Longitude": 14.81666666
+    },
+    "LandLocked": false,
+    "Borders": [
+      "AUT",
+      "HRV",
+      "ITA",
+      "HUN"
+    ],
+    "Area": 20273
+  },
+  {
+    "Code": "SWE",
+    "Capitals": [
+      "Stockholm"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Northern Europe"
+    },
+    "Languages": [
+      "swe"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Su\u00E8de",
+        "OfficialName": "Royaume de Su\u00E8de"
+      },
+      "eng": {
+        "Name": "Sweden",
+        "OfficialName": "Kingdom of Sweden"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 62,
+      "Longitude": 15
+    },
+    "LandLocked": false,
+    "Borders": [
+      "FIN",
+      "NOR"
+    ],
+    "Area": 450295
+  },
+  {
+    "Code": "SWZ",
+    "Capitals": [
+      "Lobamba"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Southern Africa"
+    },
+    "Languages": [
+      "eng",
+      "ssw"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Swaziland",
+        "OfficialName": "Royaume d\u2019Eswatini"
+      },
+      "eng": {
+        "Name": "Eswatini",
+        "OfficialName": "Kingdom of Eswatini"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -26.5,
+      "Longitude": 31.5
+    },
+    "LandLocked": true,
+    "Borders": [
+      "MOZ",
+      "ZAF"
+    ],
+    "Area": 17364
+  },
+  {
+    "Code": "SXM",
+    "Capitals": [
+      "Philipsburg"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "eng",
+      "fra",
+      "nld"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Saint-Martin",
+        "OfficialName": "Sint Maarten"
+      },
+      "eng": {
+        "Name": "Sint Maarten",
+        "OfficialName": "Sint Maarten"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 18.033333,
+      "Longitude": -63.05
+    },
+    "LandLocked": false,
+    "Borders": [
+      "MAF"
+    ],
+    "Area": 34
+  },
+  {
+    "Code": "SYC",
+    "Capitals": [
+      "Victoria"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Eastern Africa"
+    },
+    "Languages": [
+      "crs",
+      "eng",
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Seychelles",
+        "OfficialName": "R\u00E9publique des Seychelles"
+      },
+      "eng": {
+        "Name": "Seychelles",
+        "OfficialName": "Republic of Seychelles"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -4.58333333,
+      "Longitude": 55.66666666
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 452
+  },
+  {
+    "Code": "SYR",
+    "Capitals": [
+      "Damascus"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Western Asia"
+    },
+    "Languages": [
+      "ara"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Syrie",
+        "OfficialName": "R\u00E9publique arabe syrienne"
+      },
+      "eng": {
+        "Name": "Syria",
+        "OfficialName": "Syrian Arab Republic"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 35,
+      "Longitude": 38
+    },
+    "LandLocked": false,
+    "Borders": [
+      "IRQ",
+      "ISR",
+      "JOR",
+      "LBN",
+      "TUR"
+    ],
+    "Area": 185180
+  },
+  {
+    "Code": "TCA",
+    "Capitals": [
+      "Cockburn Town"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00CEles Turques-et-Ca\u00EFques",
+        "OfficialName": "\u00CEles Turques et Ca\u00EFques"
+      },
+      "eng": {
+        "Name": "Turks and Caicos Islands",
+        "OfficialName": "Turks and Caicos Islands"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 21.75,
+      "Longitude": -71.58333333
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 948
+  },
+  {
+    "Code": "TCD",
+    "Capitals": [
+      "N\u0027Djamena"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Middle Africa"
+    },
+    "Languages": [
+      "ara",
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Tchad",
+        "OfficialName": "R\u00E9publique du Tchad"
+      },
+      "eng": {
+        "Name": "Chad",
+        "OfficialName": "Republic of Chad"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 15,
+      "Longitude": 19
+    },
+    "LandLocked": true,
+    "Borders": [
+      "CMR",
+      "CAF",
+      "LBY",
+      "NER",
+      "NGA",
+      "SDN"
+    ],
+    "Area": 1284000
+  },
+  {
+    "Code": "TGO",
+    "Capitals": [
+      "Lom\u00E9"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Western Africa"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Togo",
+        "OfficialName": "R\u00E9publique togolaise"
+      },
+      "eng": {
+        "Name": "Togo",
+        "OfficialName": "Togolese Republic"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 8,
+      "Longitude": 1.16666666
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BEN",
+      "BFA",
+      "GHA"
+    ],
+    "Area": 56785
+  },
+  {
+    "Code": "THA",
+    "Capitals": [
+      "Bangkok"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "South-Eastern Asia"
+    },
+    "Languages": [
+      "tha"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Tha\u00EFlande",
+        "OfficialName": "Royaume de Tha\u00EFlande"
+      },
+      "eng": {
+        "Name": "Thailand",
+        "OfficialName": "Kingdom of Thailand"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 15,
+      "Longitude": 100
+    },
+    "LandLocked": false,
+    "Borders": [
+      "MMR",
+      "KHM",
+      "LAO",
+      "MYS"
+    ],
+    "Area": 513120
+  },
+  {
+    "Code": "TJK",
+    "Capitals": [
+      "Dushanbe"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Central Asia"
+    },
+    "Languages": [
+      "rus",
+      "tgk"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Tadjikistan",
+        "OfficialName": "R\u00E9publique du Tadjikistan"
+      },
+      "eng": {
+        "Name": "Tajikistan",
+        "OfficialName": "Republic of Tajikistan"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 39,
+      "Longitude": 71
+    },
+    "LandLocked": true,
+    "Borders": [
+      "AFG",
+      "CHN",
+      "KGZ",
+      "UZB"
+    ],
+    "Area": 143100
+  },
+  {
+    "Code": "TKL",
+    "Capitals": [
+      "Fakaofo"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Polynesia"
+    },
+    "Languages": [
+      "eng",
+      "smo",
+      "tkl"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Tokelau",
+        "OfficialName": "\u00CEles Tokelau"
+      },
+      "eng": {
+        "Name": "Tokelau",
+        "OfficialName": "Tokelau"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -9,
+      "Longitude": -172
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 12
+  },
+  {
+    "Code": "TKM",
+    "Capitals": [
+      "Ashgabat"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Central Asia"
+    },
+    "Languages": [
+      "rus",
+      "tuk"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Turkm\u00E9nistan",
+        "OfficialName": "Turkm\u00E9nistan"
+      },
+      "eng": {
+        "Name": "Turkmenistan",
+        "OfficialName": "Turkmenistan"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 40,
+      "Longitude": 60
+    },
+    "LandLocked": true,
+    "Borders": [
+      "AFG",
+      "IRN",
+      "KAZ",
+      "UZB"
+    ],
+    "Area": 488100
+  },
+  {
+    "Code": "TLS",
+    "Capitals": [
+      "Dili"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "South-Eastern Asia"
+    },
+    "Languages": [
+      "por",
+      "tet"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Timor oriental",
+        "OfficialName": "R\u00E9publique d\u00E9mocratique du Timor oriental"
+      },
+      "eng": {
+        "Name": "Timor-Leste",
+        "OfficialName": "Democratic Republic of Timor-Leste"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -8.83333333,
+      "Longitude": 125.91666666
+    },
+    "LandLocked": false,
+    "Borders": [
+      "IDN"
+    ],
+    "Area": 14874
+  },
+  {
+    "Code": "TON",
+    "Capitals": [
+      "Nuku\u0027alofa"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Polynesia"
+    },
+    "Languages": [
+      "eng",
+      "ton"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Tonga",
+        "OfficialName": "Royaume des Tonga"
+      },
+      "eng": {
+        "Name": "Tonga",
+        "OfficialName": "Kingdom of Tonga"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -20,
+      "Longitude": -175
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 747
+  },
+  {
+    "Code": "TTO",
+    "Capitals": [
+      "Port of Spain"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Trinit\u00E9-et-Tobago",
+        "OfficialName": "R\u00E9publique de Trinit\u00E9-et-Tobago"
+      },
+      "eng": {
+        "Name": "Trinidad and Tobago",
+        "OfficialName": "Republic of Trinidad and Tobago"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 11,
+      "Longitude": -61
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 5130
+  },
+  {
+    "Code": "TUN",
+    "Capitals": [
+      "Tunis"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Northern Africa"
+    },
+    "Languages": [
+      "ara"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Tunisie",
+        "OfficialName": "R\u00E9publique tunisienne"
+      },
+      "eng": {
+        "Name": "Tunisia",
+        "OfficialName": "Tunisian Republic"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 34,
+      "Longitude": 9
+    },
+    "LandLocked": false,
+    "Borders": [
+      "DZA",
+      "LBY"
+    ],
+    "Area": 163610
+  },
+  {
+    "Code": "TUR",
+    "Capitals": [
+      "Ankara"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Western Asia"
+    },
+    "Languages": [
+      "tur"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Turquie",
+        "OfficialName": "R\u00E9publique de Turquie"
+      },
+      "eng": {
+        "Name": "Turkey",
+        "OfficialName": "Republic of T\u00FCrkiye"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 39,
+      "Longitude": 35
+    },
+    "LandLocked": false,
+    "Borders": [
+      "ARM",
+      "AZE",
+      "BGR",
+      "GEO",
+      "GRC",
+      "IRN",
+      "IRQ",
+      "SYR"
+    ],
+    "Area": 783562
+  },
+  {
+    "Code": "TUV",
+    "Capitals": [
+      "Funafuti"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Polynesia"
+    },
+    "Languages": [
+      "eng",
+      "tvl"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Tuvalu",
+        "OfficialName": "Tuvalu"
+      },
+      "eng": {
+        "Name": "Tuvalu",
+        "OfficialName": "Tuvalu"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -8,
+      "Longitude": 178
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 26
+  },
+  {
+    "Code": "TWN",
+    "Capitals": [
+      "Taipei"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Eastern Asia"
+    },
+    "Languages": [
+      "zho"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Ta\u00EFwan",
+        "OfficialName": "R\u00E9publique de Chine (Ta\u00EFwan)"
+      },
+      "eng": {
+        "Name": "Taiwan",
+        "OfficialName": "Republic of China (Taiwan)"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 23.5,
+      "Longitude": 121
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 36193
+  },
+  {
+    "Code": "TZA",
+    "Capitals": [
+      "Dodoma"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Eastern Africa"
+    },
+    "Languages": [
+      "eng",
+      "swa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Tanzanie",
+        "OfficialName": "R\u00E9publique -Unie de Tanzanie"
+      },
+      "eng": {
+        "Name": "Tanzania",
+        "OfficialName": "United Republic of Tanzania"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -6,
+      "Longitude": 35
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BDI",
+      "COD",
+      "KEN",
+      "MWI",
+      "MOZ",
+      "RWA",
+      "UGA",
+      "ZMB"
+    ],
+    "Area": 945087
+  },
+  {
+    "Code": "UGA",
+    "Capitals": [
+      "Kampala"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Eastern Africa"
+    },
+    "Languages": [
+      "eng",
+      "swa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Ouganda",
+        "OfficialName": "R\u00E9publique de l\u0027Ouganda"
+      },
+      "eng": {
+        "Name": "Uganda",
+        "OfficialName": "Republic of Uganda"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 1,
+      "Longitude": 32
+    },
+    "LandLocked": true,
+    "Borders": [
+      "COD",
+      "KEN",
+      "RWA",
+      "SSD",
+      "TZA"
+    ],
+    "Area": 241550
+  },
+  {
+    "Code": "UKR",
+    "Capitals": [
+      "Kyiv"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Eastern Europe"
+    },
+    "Languages": [
+      "ukr"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Ukraine",
+        "OfficialName": "Ukraine"
+      },
+      "eng": {
+        "Name": "Ukraine",
+        "OfficialName": "Ukraine"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 49,
+      "Longitude": 32
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BLR",
+      "HUN",
+      "MDA",
+      "POL",
+      "ROU",
+      "RUS",
+      "SVK"
+    ],
+    "Area": 603500
+  },
+  {
+    "Code": "UMI",
+    "Capitals": [],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "North America"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00CEles mineures \u00E9loign\u00E9es des \u00C9tats-Unis",
+        "OfficialName": "\u00CEles mineures \u00E9loign\u00E9es des \u00C9tats-Unis"
+      },
+      "eng": {
+        "Name": "United States Minor Outlying Islands",
+        "OfficialName": "United States Minor Outlying Islands"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 19.3,
+      "Longitude": 166.633333
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 34.2
+  },
+  {
+    "Code": "URY",
+    "Capitals": [
+      "Montevideo"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "South America"
+    },
+    "Languages": [
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Uruguay",
+        "OfficialName": "R\u00E9publique orientale de l\u0027Uruguay"
+      },
+      "eng": {
+        "Name": "Uruguay",
+        "OfficialName": "Oriental Republic of Uruguay"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -33,
+      "Longitude": -56
+    },
+    "LandLocked": false,
+    "Borders": [
+      "ARG",
+      "BRA"
+    ],
+    "Area": 181034
+  },
+  {
+    "Code": "USA",
+    "Capitals": [
+      "Washington D.C."
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "North America"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00C9tats-Unis",
+        "OfficialName": "Les \u00E9tats-unis d\u0027Am\u00E9rique"
+      },
+      "eng": {
+        "Name": "United States",
+        "OfficialName": "United States of America"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 38,
+      "Longitude": -97
+    },
+    "LandLocked": false,
+    "Borders": [
+      "CAN",
+      "MEX"
+    ],
+    "Area": 9372610
+  },
+  {
+    "Code": "UZB",
+    "Capitals": [
+      "Tashkent"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Central Asia"
+    },
+    "Languages": [
+      "rus",
+      "uzb"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Ouzb\u00E9kistan",
+        "OfficialName": "R\u00E9publique d\u0027Ouzb\u00E9kistan"
+      },
+      "eng": {
+        "Name": "Uzbekistan",
+        "OfficialName": "Republic of Uzbekistan"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 41,
+      "Longitude": 64
+    },
+    "LandLocked": true,
+    "Borders": [
+      "AFG",
+      "KAZ",
+      "KGZ",
+      "TJK",
+      "TKM"
+    ],
+    "Area": 447400
+  },
+  {
+    "Code": "VAT",
+    "Capitals": [
+      "Vatican City"
+    ],
+    "Location": {
+      "Region": "Europe",
+      "SubRegion": "Southern Europe"
+    },
+    "Languages": [
+      "ita",
+      "lat"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Cit\u00E9 du Vatican",
+        "OfficialName": "Cit\u00E9 du Vatican"
+      },
+      "eng": {
+        "Name": "Vatican City",
+        "OfficialName": "Vatican City State"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 41.9,
+      "Longitude": 12.45
+    },
+    "LandLocked": true,
+    "Borders": [
+      "ITA"
+    ],
+    "Area": 0.44
+  },
+  {
+    "Code": "VCT",
+    "Capitals": [
+      "Kingstown"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Saint-Vincent-et-les-Grenadines",
+        "OfficialName": "Saint-Vincent-et-les Grenadines"
+      },
+      "eng": {
+        "Name": "Saint Vincent and the Grenadines",
+        "OfficialName": "Saint Vincent and the Grenadines"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 13.25,
+      "Longitude": -61.2
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 389
+  },
+  {
+    "Code": "VEN",
+    "Capitals": [
+      "Caracas"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "South America"
+    },
+    "Languages": [
+      "spa"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Venezuela",
+        "OfficialName": "R\u00E9publique bolivarienne du Venezuela"
+      },
+      "eng": {
+        "Name": "Venezuela",
+        "OfficialName": "Bolivarian Republic of Venezuela"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 8,
+      "Longitude": -66
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BRA",
+      "COL",
+      "GUY"
+    ],
+    "Area": 916445
+  },
+  {
+    "Code": "VGB",
+    "Capitals": [
+      "Road Town"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00CEles Vierges britanniques",
+        "OfficialName": "\u00EEles Vierges"
+      },
+      "eng": {
+        "Name": "British Virgin Islands",
+        "OfficialName": "Virgin Islands"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 18.431383,
+      "Longitude": -64.62305
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 151
+  },
+  {
+    "Code": "VIR",
+    "Capitals": [
+      "Charlotte Amalie"
+    ],
+    "Location": {
+      "Region": "Americas",
+      "SubRegion": "Caribbean"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "\u00CEles Vierges des \u00C9tats-Unis",
+        "OfficialName": "\u00CEles Vierges des \u00C9tats-Unis"
+      },
+      "eng": {
+        "Name": "United States Virgin Islands",
+        "OfficialName": "Virgin Islands of the United States"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 18.35,
+      "Longitude": -64.933333
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 347
+  },
+  {
+    "Code": "VNM",
+    "Capitals": [
+      "Hanoi"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "South-Eastern Asia"
+    },
+    "Languages": [
+      "vie"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Vi\u00EAt Nam",
+        "OfficialName": "R\u00E9publique socialiste du Vi\u00EAt Nam"
+      },
+      "eng": {
+        "Name": "Vietnam",
+        "OfficialName": "Socialist Republic of Vietnam"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 16.16666666,
+      "Longitude": 107.83333333
+    },
+    "LandLocked": false,
+    "Borders": [
+      "KHM",
+      "CHN",
+      "LAO"
+    ],
+    "Area": 331212
+  },
+  {
+    "Code": "VUT",
+    "Capitals": [
+      "Port Vila"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Melanesia"
+    },
+    "Languages": [
+      "bis",
+      "eng",
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Vanuatu",
+        "OfficialName": "R\u00E9publique de Vanuatu"
+      },
+      "eng": {
+        "Name": "Vanuatu",
+        "OfficialName": "Republic of Vanuatu"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -16,
+      "Longitude": 167
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 12189
+  },
+  {
+    "Code": "WLF",
+    "Capitals": [
+      "Mata-Utu"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Polynesia"
+    },
+    "Languages": [
+      "fra"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Wallis-et-Futuna",
+        "OfficialName": "Territoire des \u00EEles Wallis et Futuna"
+      },
+      "eng": {
+        "Name": "Wallis and Futuna",
+        "OfficialName": "Territory of the Wallis and Futuna Islands"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -13.3,
+      "Longitude": -176.2
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 142
+  },
+  {
+    "Code": "WSM",
+    "Capitals": [
+      "Apia"
+    ],
+    "Location": {
+      "Region": "Oceania",
+      "SubRegion": "Polynesia"
+    },
+    "Languages": [
+      "eng",
+      "smo"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Samoa",
+        "OfficialName": "Samoa"
+      },
+      "eng": {
+        "Name": "Samoa",
+        "OfficialName": "Independent State of Samoa"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -13.58333333,
+      "Longitude": -172.33333333
+    },
+    "LandLocked": false,
+    "Borders": [],
+    "Area": 2842
+  },
+  {
+    "Code": "YEM",
+    "Capitals": [
+      "Sana\u0027a"
+    ],
+    "Location": {
+      "Region": "Asia",
+      "SubRegion": "Western Asia"
+    },
+    "Languages": [
+      "ara"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Y\u00E9men",
+        "OfficialName": "R\u00E9publique du Y\u00E9men"
+      },
+      "eng": {
+        "Name": "Yemen",
+        "OfficialName": "Republic of Yemen"
+      }
+    },
+    "Coordinate": {
+      "Latitude": 15,
+      "Longitude": 48
+    },
+    "LandLocked": false,
+    "Borders": [
+      "OMN",
+      "SAU"
+    ],
+    "Area": 527968
+  },
+  {
+    "Code": "ZAF",
+    "Capitals": [
+      "Pretoria",
+      "Bloemfontein",
+      "Cape Town"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Southern Africa"
+    },
+    "Languages": [
+      "afr",
+      "eng",
+      "nbl",
+      "nso",
+      "sot",
+      "ssw",
+      "tsn",
+      "tso",
+      "ven",
+      "xho",
+      "zul"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Afrique du Sud",
+        "OfficialName": "R\u00E9publique d\u0027Afrique du Sud"
+      },
+      "eng": {
+        "Name": "South Africa",
+        "OfficialName": "Republic of South Africa"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -29,
+      "Longitude": 24
+    },
+    "LandLocked": false,
+    "Borders": [
+      "BWA",
+      "LSO",
+      "MOZ",
+      "NAM",
+      "SWZ",
+      "ZWE"
+    ],
+    "Area": 1221037
+  },
+  {
+    "Code": "ZMB",
+    "Capitals": [
+      "Lusaka"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Eastern Africa"
+    },
+    "Languages": [
+      "eng"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Zambie",
+        "OfficialName": "R\u00E9publique de Zambie"
+      },
+      "eng": {
+        "Name": "Zambia",
+        "OfficialName": "Republic of Zambia"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -15,
+      "Longitude": 30
+    },
+    "LandLocked": true,
+    "Borders": [
+      "AGO",
+      "BWA",
+      "COD",
+      "MWI",
+      "MOZ",
+      "NAM",
+      "TZA",
+      "ZWE"
+    ],
+    "Area": 752612
+  },
+  {
+    "Code": "ZWE",
+    "Capitals": [
+      "Harare"
+    ],
+    "Location": {
+      "Region": "Africa",
+      "SubRegion": "Eastern Africa"
+    },
+    "Languages": [
+      "bwg",
+      "eng",
+      "kck",
+      "khi",
+      "ndc",
+      "nde",
+      "nya",
+      "sna",
+      "sot",
+      "toi",
+      "tsn",
+      "tso",
+      "ven",
+      "xho",
+      "zib"
+    ],
+    "Translations": {
+      "fra": {
+        "Name": "Zimbabwe",
+        "OfficialName": "R\u00E9publique du Zimbabwe"
+      },
+      "eng": {
+        "Name": "Zimbabwe",
+        "OfficialName": "Republic of Zimbabwe"
+      }
+    },
+    "Coordinate": {
+      "Latitude": -20,
+      "Longitude": 30
+    },
+    "LandLocked": true,
+    "Borders": [
+      "BWA",
+      "MOZ",
+      "ZAF",
+      "ZMB"
+    ],
+    "Area": 390757
+  }
+]

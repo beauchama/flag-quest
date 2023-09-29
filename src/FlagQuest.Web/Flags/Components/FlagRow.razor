@@ -1,0 +1,25 @@
+﻿@using FlagQuest.Web.Components.Icons
+
+<div id="@Flag.Code" class="content-row">
+    <img src="@GetFlag()" class="img-thumbnail-md" />
+    <div class="columns">
+        <div class="column">
+            <h4>@Flag.Name</h4>
+            <div class="icon-text">
+                <span class="label">Area (km<sup>2</sup>)</span>
+                <Icon class="icon" Name="@GetAreaIcon()" Size="IconSize.Small" />
+            </div>
+        </div>
+        <div class="vr"></div>
+        <div class="column">
+            <div class="icon-text">
+                <span class="label">Continent</span>
+                <Icon Name="@GetContinentIcon()" Size="IconSize.Small" />
+            </div>
+            <div class="icon-text">
+                <span class="label">@($"{Flag.Coordinate.Distance:##,###}km")</span>
+                <Icon class="icon arrow" Name="@BootstrapIcon.ArrowUp" Size="IconSize.Small" />
+            </div>
+        </div>
+    </div>
+</div>

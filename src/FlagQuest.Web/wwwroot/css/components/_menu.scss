@@ -1,0 +1,105 @@
+/// <reference path="../utilities/colors.scss" />
+@use '../utilities/colors';
+
+/// <reference path="../bootstrap/scss/bootstrap.scss" />
+@use '../bootstrap/scss/bootstrap' as *;
+
+.navbar-brand {
+  padding: 0;
+  margin: 0;
+  color: unset;
+
+  &:hover {
+    color: unset;
+  }
+}
+
+.navbar-nav {
+  gap: 4px;
+
+  .nav-item {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 4px 8px;
+    cursor: pointer;
+
+    > .navbar-text {
+      color: unset;
+      text-transform: uppercase;
+    }
+  }
+}
+
+.navbar-toggler {
+  padding: 0;
+  border: none;
+
+  &:focus {
+    box-shadow: none;
+  }
+
+  &:not(.collapsed) {
+    .lines {
+      background-color: transparent !important;
+
+      &::before {
+        transform: rotate(-45deg);
+        top: 0;
+      }
+
+      &::after {
+        transform: rotate(45deg);
+        top: 0;
+      }
+    }
+  }
+}
+
+.hamburger {
+  cursor: pointer;
+  padding: 20px 12px;
+
+  .lines {
+    display: block;
+    height: 2px;
+    position: relative;
+    width: 24px;
+
+    &::before,
+    &::after {
+      display: block;
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      content: '';
+      transition: all .2s ease-out;
+    }
+
+    &::before {
+      top: 7px;
+    }
+
+    &::after {
+      top: -7px;
+    }
+  }
+}
+
+@include media-breakpoint-up(md) {
+  .navbar-collapse {
+    flex-grow: unset;
+
+    .navbar-nav {
+      gap: 24px;
+
+      .nav-item {
+        padding: 0;
+
+        > .navbar-text {
+          display: none;
+        }
+      }
+    }
+  }
+}
