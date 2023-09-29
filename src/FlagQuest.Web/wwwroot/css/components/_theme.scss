@@ -35,6 +35,30 @@
       color: colors.$light-accent;
     }
   }
+  // autocomplete
+  .autocomplete {
+    border-color: colors.$dark-accent;
+
+    input {
+      color: colors.$light;
+      background-color: colors.$dark;
+
+      &::placeholder {
+        color: colors.$light;
+      }
+    }
+
+    .dropdown {
+      background-color: colors.$dark;
+      scrollbar-color: colors.$light colors.$dark;
+
+      .option {
+        &:hover {
+          background-color: colors.$dark-accent;
+        }
+      }
+    }
+  }
   // footer
   .footer {
     color: colors.$dark-accent;
@@ -71,6 +95,30 @@
   .icon-text {
     .icon {
       color: colors.$dark;
+    }
+  }
+  // autocomplete
+  .autocomplete {
+    border-color: colors.$dark;
+
+    input {
+      color: colors.$dark;
+      background-color: colors.$light;
+
+      &::placeholder {
+        color: colors.$dark;
+      }
+    }
+
+    .dropdown {
+      background-color: colors.$light;
+      scrollbar-color: colors.$dark colors.$light;
+
+      .option {
+        &:hover {
+          background-color: colors.$light-accent;
+        }
+      }
     }
   }
   // footer

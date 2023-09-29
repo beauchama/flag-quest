@@ -13,6 +13,9 @@ namespace FlagQuest.Web.Flags.Components;
 
 public partial class FlagCard
 {
+    private readonly Stack<GuessedFlag> _guessedFlags = [];
+    private string _selectedFlagCode = string.Empty;
+
     [Parameter]
     [EditorRequired]
     public required Flag Flag { get; init; }
@@ -28,6 +31,12 @@ public partial class FlagCard
 
     private Uri GetFlag() => new($"{GitHubOptions.Value.Assets}/flags/{Flag.Code}.svg");
 
+    private void Guess()
+    {
+        Flag guessedFlag = FlagsState.Value.Flags.First(f => f.Code == _selectedFlagCode);
+        _guessedFlags.Push(ToGuessedFlag(guessedFlag, Flag));
+    }
+
     private GuessedFlag ToGuessedFlag(Flag guessedFlag, Flag flag)
     {
         bool isGuessedFlagBigger = guessedFlag.Area > flag.Area;
@@ -35,6 +44,6 @@ public partial class FlagCard
         double distance = GeographicCalculator.CalculateDistance(guessedFlag.Coordinate, flag.Coordinate);
 
         GuessedCoordinate coordinate = new(distance, 0);
-        return new(guessedFlag.Code, guessedFlag.Translations.English.Name, isGuessedFlagBigger, isSameContinent, coordinate);
+        return new(guessedFlag.Code, guessedFlag.Translations.English.Name, !isGuessedFlagBigger, isSameContinent, coordinate);
     }
 }

@@ -3,7 +3,19 @@
 <div class="flag-card">
     <img src="@GetFlag()" class="img-sm" />
     <div class="flag-form">
-        <input type="text" class="autocomplete" autocomplete="off" />
-        <FlagRow Flag="ToGuessedFlag(FlagsState.Value.Flags.First(), Flag)" />
+        @if (_guessedFlags.Count < 6)
+        {
+            <AutoCompleteFlagInput @bind-Value="_selectedFlagCode" @bind-Value:after="Guess" />
+        }
+        else
+        {
+            <h3>@Flag.Translations.English.Name</h3>
+        }
+        <div class="flags">
+            @foreach (var guessedFlag in _guessedFlags)
+            {
+                <FlagRow Flag="guessedFlag" />
+            }
+        </div>
     </div>
 </div>

@@ -6,6 +6,7 @@ $image-thumbnail-sizes: ("sm": 40px, "md": 80px);
     width: $value;
     max-width: 100%;
     height: auto;
+    max-height: calc($value / 3 * 2);
     border-radius: 8px;
   }
 }
@@ -15,6 +16,7 @@ $image-thumbnail-sizes: ("sm": 40px, "md": 80px);
     width: $value;
     max-width: 100%;
     height: auto;
+    max-height: calc($value / 3 * 2);
     border-radius: 4px;
   }
 }

@@ -28,8 +28,7 @@ public partial class Index
 
         ActionSubScriber.SubscribeToAction<FlagsActions.GetResult>(this, action =>
         {
-            //_selectedFlag = RandomNumberGenerator.GetItems<Flag>(action.Flags.ToArray(), 1)[0];
-            _selectedFlag = action.Flags.First(f => f.Code == "bmu");
+            _selectedFlag = RandomNumberGenerator.GetItems<Flag>(action.Flags.ToArray(), 1)[0];
             StateHasChanged();
         });
     }
