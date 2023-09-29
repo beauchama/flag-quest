@@ -43,7 +43,7 @@ public partial class FlagCard
         bool isSameContinent = guessedFlag.Region == flag.Region;
         double distance = GeographicCalculator.CalculateDistance(guessedFlag.Coordinate, flag.Coordinate);
 
-        GuessedCoordinate coordinate = new(distance, 0);
+        GuessedCoordinate coordinate = new(distance, guessedFlag.Coordinate.Latitude, guessedFlag.Coordinate.Longitude);
         return new(guessedFlag.Code, guessedFlag.Translations.English.Name, !isGuessedFlagBigger, isSameContinent, coordinate);
     }
 }

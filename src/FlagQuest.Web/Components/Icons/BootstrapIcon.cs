@@ -5,7 +5,7 @@ namespace FlagQuest.Web.Components.Icons;
 
 public static class BootstrapIcon
 {
-    public const string ArrowUp = "bi-arrow-up";
+    public const string ArrowUp = "bi-arrow-right";
 
     public const string ArrowDownSquare = "bi-arrow-down-square";
 

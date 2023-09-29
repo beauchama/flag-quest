@@ -3,4 +3,4 @@
 
 namespace FlagQuest.Web.Flags.Models;
 
-public sealed record GuessedCoordinate(double Distance, double Direction);
+public sealed record GuessedCoordinate(double Distance, double Latitude, double Longitude);

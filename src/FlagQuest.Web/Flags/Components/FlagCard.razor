@@ -3,7 +3,7 @@
 <div class="flag-card">
     <img src="@GetFlag()" class="img-sm" />
     <div class="flag-form">
-        @if (_guessedFlags.Count < 6)
+        @if (_guessedFlags.Count < 6 && _selectedFlagCode != Flag.Code)
         {
             <AutoCompleteFlagInput @bind-Value="_selectedFlagCode" @bind-Value:after="Guess" />
         }
@@ -14,7 +14,7 @@
         <div class="flags">
             @foreach (var guessedFlag in _guessedFlags)
             {
-                <FlagRow Flag="guessedFlag" />
+                <FlagRow Flag="guessedFlag" Coordinate="Flag.Coordinate" />
             }
         </div>
     </div>

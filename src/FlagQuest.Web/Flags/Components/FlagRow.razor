@@ -1,6 +1,6 @@
 ﻿@using FlagQuest.Web.Components.Icons
 
-<div class="content-row">
+<div id="@Flag.Code" class="content-row">
     <img src="@GetFlag()" class="img-thumbnail-md" />
     <div class="columns">
         <div class="column">
@@ -18,7 +18,7 @@
             </div>
             <div class="icon-text">
                 <span class="label">@($"{Flag.Coordinate.Distance:##,###}km")</span>
-                <Icon class="icon" Name="@BootstrapIcon.ArrowUp" Size="IconSize.Small" />
+                <Icon class="icon arrow" Name="@BootstrapIcon.ArrowUp" Size="IconSize.Small" />
             </div>
         </div>
     </div>
